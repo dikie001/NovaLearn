@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1,
+    "title": "The Detective Club's First Case",
+    "author": "Penny Parker",
+    "genre": "Mystery",
+    "summary": "Mina and her friend Omar start a detective club. Their first case is finding their teacher's missing favorite pen.",
+    "story": "Mina and Omar decided to start a detective club. Their first client was their teacher, Mr. David, who had lost his special green pen. 'It was a gift,' he said sadly. 'Okay, Detective Omar,' said Mina, 'let's look for clues.' They searched the classroom. Omar found a small smudge of green ink on a library book about frogs. Mina noticed the book was checked out by their classmate, Lily. They asked Lily about the pen. 'Oh!' she said. 'I thought it was a classroom pen. I used it to draw a frog this morning.' She opened her notebook to a beautiful drawing of a poison dart frog. And right next to it was Mr. David's pen. 'Case closed!' whispered Omar. They returned the pen, and Mr. David was so happy, he named them the official Classroom Detectives.",
+    "moral": "Careful observation is the key to solving a mystery."
+  },
+  {
+    "id": 2,
+    "title": "The Astronaut Who Grew Carrots",
+    "author": "Dr. Nova Skye",
+    "genre": "Science Fiction",
+    "summary": "An astronaut on a space station learns to grow her own food. She discovers the joy of watching things grow, even far from Earth.",
+    "story": "Commander Eva lived on a space station orbiting Earth. Her food usually came in sealed packets. One day, a supply ship brought a special experiment: a kit for growing carrots in space. Eva had never grown anything before. She carefully planted the seeds in a special gel under bright lights. Every day, she checked on them. First, tiny green shoots appeared. Eva felt a flutter of excitement. Slowly, the green tops grew taller. She had to be patient. After many weeks, it was time to harvest. She gently pulled on a green top, and out came a small, bright orange carrot! It was the most beautiful carrot she had ever seen. Eating something fresh that she had grown herself, while floating high above the Earth, was a new and wonderful feeling. She realized that creating life was just as exciting as exploring the stars.",
+    "moral": "There is joy and satisfaction in nurturing living things."
+  },
+  {
+    "id": 3,
+    "title": "The Girl Who Tamed the Wind",
+    "author": "Aella Zephyr",
+    "genre": "Fantasy",
+    "summary": "A girl named Elara learns to communicate with the wind. She asks it to be gentle so her village's kites can fly safely.",
+    "story": "Elara lived in a village on a high mountain where the wind was always wild. It howled and blustered, knocking things over and making it impossible to fly kites. The annual Kite Festival was coming, and everyone was worried. Elara loved the wind, even when it was wild. She would stand on the cliffs and feel it rush past her. One day, she tried whispering to it. 'Please be gentle,' she whispered. The wind seemed to listen, softening for a moment before gusting again. She kept trying every day. On the day of the festival, the wind was roaring. Elara ran to the highest peak. 'Please, friend!' she shouted. 'Today is important. Could you play gently with us?' The wind swirled around her, then calmed to a steady, perfect breeze. The villagers flew their kites high in the sky, dancing in the gentle wind. They called her the Wind Whisperer from that day on.",
+    "moral": "Kindness and respect can achieve more than demands."
+  },
+  {
+    "id": 4,
+    "title": "The Turtle and the Faster Friend",
+    "author": "Sheldon Swift",
+    "genre": "Friendship",
+    "summary": "A speedy lizard learns to slow down and enjoy the world. His slow-moving turtle friend teaches him what he's been missing.",
+    "story": "Leo the lizard was fast. He darted everywhere, a green blur on the hot rocks. His best friend was Sheldon the turtle, who was very, very slow. 'Come on, Sheldon!' Leo would call, already far ahead. 'You're missing everything!' One day, Sheldon replied calmly, 'No, Leo. You are.' Leo stopped and zipped back to his friend. 'What do you mean?' he asked. 'Sit with me for a minute,' Sheldon said. Leo, for the first time, sat completely still. He noticed the way a tiny yellow flower grew in a crack in the rock. He saw a line of ants carrying crumbs. He heard the buzz of a dragonfly's wings. The world was full of amazing little details he had always rushed past. From then on, Leo still loved to run fast, but sometimes he would stop and sit quietly with Sheldon, just watching the world.",
+    "moral": "Taking time to slow down allows you to appreciate the little things."
+  },
+  {
+    "id": 5,
+    "title": "The Magical Dumpling Pot",
+    "author": "Mei Lin",
+    "genre": "Folktale",
+    "summary": "A poor boy is given a magic pot that cooks endless dumplings. He learns that the pot's magic works best when shared with everyone.",
+    "story": "Chen was a kind boy who lived in a small village. His family was very poor and often hungry. One evening, an old woman gave him a small clay pot. 'This is a magic pot,' she said. 'Say the words 'Cook, little pot, cook!' and it will fill with delicious dumplings.' Chen rushed home and tried it. Magically, the pot filled with hot, steaming dumplings! His family ate until they were full. The next day, he made more, just for his family. But he saw his hungry neighbors and felt selfish. He took the pot to the village square. 'Cook, little pot, cook!' he shouted. The pot filled with dumplings, and he shared them with everyone. The more he gave away, the more delicious the dumplings seemed. He learned that the pot's real magic wasn't just making food, but bringing his whole community together.",
+    "moral": "Generosity and sharing bring the greatest happiness."
+  },
+  {
+    "id": 6,
+    "title": "The Dog Who Learned to Read",
+    "author": "Professor Wags",
+    "genre": "Animal Tale",
+    "summary": "A clever dog named Buster watches his owner, a young boy, practice reading. Over time, Buster begins to recognize words himself.",
+    "story": "Buster was a very smart dog. His owner, a boy named Alex, was in second grade and practiced reading every night. Alex would sit on the floor, point to the words, and say them out loud. Buster would lie next to him, watching and listening. At first, Buster just enjoyed the sound of Alex's voice. But soon, he started to notice things. The shape 'T-R-E-A-T' always appeared before Alex gave him a biscuit. The shape 'W-A-L-K' meant it was time to go to the park. One day, Alex was struggling with the word 'ball'. He just couldn't sound it out. Buster, wanting to help, nudged a red ball with his nose. Alex's eyes went wide. 'Buster, did you... read that?' Alex laughed. Buster just wagged his tail. He couldn't say the words, but in his own way, he was learning to read right alongside his best friend.",
+    "moral": "Learning can happen in many different and surprising ways."
+  },
+  {
+    "id": 7,
+    "title": "My Two Grandmas",
+    "author": "Sofia Garcia",
+    "genre": "Family",
+    "summary": "A girl describes her two grandmothers, one who lives far away and one nearby. She explains how they are different but both wonderful.",
+    "story": "I have two grandmas, and they are as different as sunshine and moonlight. Grandma Rosa lives next door. Her house smells like cinnamon and fresh bread. We spend our time in her garden, pulling up carrots and looking for ladybugs. She teaches me Spanish words and we sing loud, happy songs. My other grandma is named Abena. She lives far away in a city in Ghana, so we talk on a computer screen. She wears beautiful, colorful clothes and tells me stories about Anansi the Spider. She teaches me words in Twi and shows me the busy market outside her window. They have never met each other, but I think they would be friends. One grandma gives me warm hugs, and the other sends them through the screen. I am lucky because I have double the stories, double the songs, and double the love.",
+    "moral": "Family love is strong, no matter the distance."
+  },
+  {
+    "id": 8,
+    "title": "The Knight Who Polished the Armor",
+    "author": "Sir Reginald Shine",
+    "genre": "Fable",
+    "summary": "A young squire dreams of fighting dragons. He learns that doing small, important jobs well is its own form of bravery.",
+    "story": "Timothy was a squire who wanted to be a great knight. He dreamed of fighting dragons and rescuing royalty. But his main job was to polish the armor for Sir Hector. Every day, Timothy would scrub and polish until the helmets and shields gleamed like mirrors. It was boring work. 'I should be practicing with a sword, not a cloth!' he would grumble. One day, Sir Hector was in a fierce tournament. His opponent's sword slid right off his perfectly polished shield, saving him from a heavy blow. Later, a dragon's fiery breath was reflected by his shiny helmet, dazzling the beast for a moment and allowing the knight to win. That night, Sir Hector told Timothy, 'My life was saved today not by my sword, but by your hard work. A knight is nothing without his armor. Your job is as important as mine.' Timothy finally understood and polished the armor with pride.",
+    "moral": "Every job has value, and doing it well is a vital contribution."
+  },
+  {
+    "id": 9,
+    "title": "The Town That Lost Its Song",
+    "author": "Melody Piper",
+    "genre": "Fantasy",
+    "summary": "A grumpy wizard steals a town's music. A little girl without a great voice shows them they can make their own music.",
+    "story": "The town of Harmony was famous for its music. Everyone sang from morning till night. But a grumpy wizard who hated noise cast a spell, and all the music vanished. The birds stopped singing, the river stopped humming, and people forgot all their songs. A deep silence fell, and everyone became sad. A little girl named Piper wasn't a great singer, but she loved rhythm. She couldn't stand the silence. She picked up two sticks and started tapping out a beat on a bucket. Tap-tappa-tap. A few people looked up. She started stomping her feet. Stomp-stomp-clap! Soon, a few others joined in, clapping their hands and stomping their feet. They didn't have a melody, but they had a rhythm. The town came alive with a new kind of music, one that came from their hands and feet. The wizard's spell was broken by a joy he couldn't steal.",
+    "moral": "Creativity and spirit can overcome any obstacle."
+  },
+  {
+    "id": 10,
+    "title": "How to Build a Better Treehouse",
+    "author": "Woody Hammer",
+    "genre": "Friendship",
+    "summary": "A group of friends argues about the right way to build a treehouse. They learn that combining their different ideas makes the best result.",
+    "story": "Sam, Chloe, and Luis decided to build a treehouse. But they all had different ideas. 'It needs a rope ladder!' insisted Sam. 'No, a staircase is safer!' argued Chloe. 'And it must have a telescope platform!' added Luis, who loved stars. They argued all morning and didn't nail a single board. Finally, Luis's older sister came over. 'If you all want different things, why not include them all?' she suggested. They thought about it. They could build Chloe's safe stairs. They could also hang Sam's fun rope ladder from the side. And they could build a small platform on the roof for Luis's telescope. They started working together, each one in charge of their special part. The finished treehouse was amazing. It was safer, more fun, and better for stargazing than any of their single ideas. It was their perfect, combined treehouse.",
+    "moral": "Cooperation and compromise lead to the best results."
+  },
+  {
+    "id": 11,
+    "title": "The Forgetful Elephant",
+    "author": "Ellie Remembers",
+    "genre": "Animal Tale",
+    "summary": "An elephant, who is supposed to never forget, keeps losing things. His mouse friend helps him invent a system to remember.",
+    "story": "Everyone says elephants never forget, but Eugene was different. He was a very forgetful elephant. He forgot where he left his favorite coconut. He forgot which way the river was. He even forgot his friend's birthday! 'Oh, I'm a terrible elephant,' he would sigh. His best friend, a tiny mouse named Squeaky, felt bad for him. 'You just need a system, Eugene!' Squeaky squeaked. 'Let's try tying knots.' Squeaky showed Eugene how to tie a knot in a long piece of vine for everything he needed to remember. One knot for the coconut's location, two knots to remember the path to the river, and a big, special knot for his friend's birthday. It worked! By looking at the knots on his vine, Eugene could remember everything. He was still a bit forgetful, but now he had a tool to help him.",
+    "moral": "It's okay to ask for help and find tools to overcome your weaknesses."
+  },
+  {
+    "id": 12,
+    "title": "The Day I Was the Boss",
+    "author": "Leo King",
+    "genre": "Family",
+    "summary": "For his birthday, a boy gets to be 'the boss' of the family for a day. He realizes being in charge is a lot of hard work.",
+    "story": "For Leo's eighth birthday, his parents gave him a special gift. 'For one day,' his mom said, 'you get to be the boss.' Leo was thrilled! He decided they would have ice cream for breakfast. It was fun for the first ten minutes, but then everyone had a tummy ache. He decided they would only play video games all day. But soon his little sister got bored and his dad got a headache from the noise. Being the boss meant he had to solve arguments, decide what was for lunch, and make sure the dog got walked. By the afternoon, Leo was exhausted. 'Being the boss is hard work,' he told his mom. 'Can you be the boss again?' His mom smiled and gave him a hug. For dinner, she made his favorite pasta, and Leo was very happy to just be a kid again.",
+    "moral": "Responsibility is more difficult and complicated than it looks."
+  },
+  {
+    "id": 13,
+    "title": "The Secret of the Old Clock",
+    "author": "Tilly Tocker",
+    "genre": "Mystery",
+    "summary": "Two cousins find a secret message inside their grandfather's old clock. The clues lead them on a treasure hunt around the house.",
+    "story": "Maya and her cousin Tom were visiting their grandfather. In his study was a tall grandfather clock that no longer worked. 'It's full of secrets,' Grandpa would say with a wink. While dusting it, Maya noticed a small, loose panel at the back. Inside, they found a yellowed piece of paper with a riddle. 'I have a spine but cannot stand. I hold great stories from every land.' 'A book!' shouted Tom. They ran to the library. The riddle led them to a specific book, and inside was another clue. The treasure hunt took them all over the old house, from the dusty attic to the cool cellar. The final clue led them back to the clock. Inside a hidden compartment, they found the 'treasure': a small wooden box filled with old photos of their grandfather as a little boy. It was the best treasure of all.",
+    "moral": "The most valuable treasures are often memories and family history."
+  },
+  {
+    "id": 14,
+    "title": "The Penguin and the Parrot",
+    "author": "Polly Frost",
+    "genre": "Friendship",
+    "summary": "A penguin from the cold south and a parrot from the warm jungle become unlikely pen pals. They learn all about each other's different worlds.",
+    "story": "Pippin the penguin lived in the freezing Antarctic. Zola the parrot lived in the steamy Amazon rainforest. They became pen pals through a scientist who studied both regions. Pippin would write letters about sliding on his belly on the ice and huddling with his colony for warmth. Zola would write about swinging from vines, eating juicy mangoes, and all the different colors of the jungle. Pippin sent Zola a shiny, smooth rock. Zola sent Pippin a bright red feather. They learned that Pippin's 'day' could last for months, and that Zola's home had thunderstorms that were louder than a thousand squawking birds. They dreamed of one day meeting, but until then, they were happy to share their different, wonderful worlds through their letters. They were best friends, even though they lived on opposite ends of the Earth.",
+    "moral": "You can learn about the world and make friends in amazing ways."
+  },
+  {
+    "id": 15,
+    "title": "The Boy Who Painted the Rain",
+    "author": "Kai Indigo",
+    "genre": "Creativity",
+    "summary": "A boy who is sad on a rainy day decides to paint the rain. He discovers all the hidden colors in a gray day.",
+    "story": "Kai hated rainy days. They were gray, boring, and you couldn't play outside. He sat by the window, sighing. His mom gave him a set of watercolors. 'Why don't you paint what you see?' she suggested. Kai grumbled, 'But all I see is gray.' He dabbed his brush in gray paint. But as he looked closer, he saw that the rain on the window wasn't just gray. Where it caught the light from the lamp, it was yellow. The reflection of his red shirt made some drops look pink. The wet street outside wasn't just gray; it was a dark, shiny black with streaks of blue from the sky's reflection. Kai started painting with all the colors he saw: silver, blue, yellow, and deep purple. He had so much fun that he didn't even notice when the rain stopped. His painting was a beautiful, colorful celebration of a rainy day.",
+    "moral": "If you look closely, you can find beauty everywhere."
+  },
+  {
+    "id": 16,
+    "title": "The Message in the Bottle",
+    "author": "Sandy Scripps",
+    "genre": "Adventure",
+    "summary": "While on vacation, a girl finds a bottle with a message in it. It's from another child on a different island, and they become friends.",
+    "story": "Jasmine was walking on the beach when she saw a green glass bottle bobbing in the waves. Inside, she could see a rolled-up piece of paper. With her dad's help, she carefully opened it. The message was written in crayon. 'Hello. My name is Marco. I live on the island with the sleeping volcano. I like to fish and collect shells. Who are you?' Jasmine was so excited. She was on vacation on an island, but she could see another island in the distance with a mountain that looked like a sleeping volcano! She wrote a message back. 'Hello Marco! My name is Jasmine. I am visiting the island with the long sandy beach. I like to build sandcastles.' She put her note in a bottle and her dad helped her toss it into the sea when the tide was going out. A week later, she found another bottle. It was from Marco! They had become friends across the sea.",
+    "moral": "Friendship can be found in the most unexpected ways."
+  },
+  {
+    "id": 17,
+    "title": "The Town That Shared Its Shadow",
+    "author": "Sunny Shade",
+    "genre": "Fable",
+    "summary": "One side of a town is always sunny, the other always in shadow. They learn to work together to share the benefits of both.",
+    "story": "A tall mountain split a town in two. The east side was called Sunnyside, and it was always bright and hot. The west side was called Shadowdale, and it was always cool and shady. The people in Sunnyside grew wonderful, sweet fruits, but they were always tired from the heat. The people in Shadowdale were well-rested, but their gardens grew only moss. They didn't talk to each other much. One day, a clever girl from Sunnyside suggested a trade. 'If you will come work in our hot fields,' she told the people of Shadowdale, 'we will share our fruit with you.' A wise man from Shadowdale added, 'And when you are tired from the sun, come rest in our cool shade.' They agreed. From then on, the people worked together, moving back and forth. They shared their fruit and their shade, and the whole town was happier and healthier for it.",
+    "moral": "Everyone has something valuable to share with others."
+  },
+  {
+    "id": 18,
+    "title": "The Baker's Grumpy Cat",
+    "author": "Ginger Snap",
+    "genre": "Humor",
+    "summary": "A baker's cat is always grumpy. A little girl discovers the one thing that makes the cat happy: the smell of cinnamon buns.",
+    "story": "Mr. Figgis, the baker, had a cat named Marmalade. Marmalade was always grumpy. He hissed at customers. He swatted at flour sacks. He refused to purr. 'He's just a grumpy cat,' Mr. Figgis would say. One morning, a little girl named Clara was waiting for her mother. She watched Marmalade sitting on a stool, looking very sour. Just then, Mr. Figgis pulled a tray of hot cinnamon buns from the oven. A warm, sweet, spicy smell filled the shop. Marmalade's nose twitched. His eyes closed. A low rumble started in his chest. It grew louder and louder. He was purring! Clara giggled. 'He's not a grumpy cat,' she told Mr. Figgis. 'He's a cinnamon bun cat!' After that, whenever Marmalade was extra grumpy, Mr. Figgis would bake a batch of cinnamon buns, and the loud, happy purr would fill the bakery once more.",
+    "moral": "Everyone has something that makes them happy; you just have to find it."
+  },
+  {
+    "id": 19,
+    "title": "The Robot with Feelings",
+    "author": "Unit 734",
+    "genre": "Science Fiction",
+    "summary": "A robot designed for logic begins to experience feelings. It learns about happiness and sadness from its human family.",
+    "story": "Unit 734, or 'Seven' as the family called him, was a household robot. His job was to calculate and perform tasks. He knew the odds of rain and the perfect temperature for toast. One day, the family's daughter, Mia, fell and scraped her knee. She began to cry. Seven's sensors detected the sound, but his programming had no response. He saw Mia's mother hug her. He saw her father bring her a colorful bandage. Soon, Mia was smiling. Later that week, the family threw a surprise party for Seven's 'In-Service' anniversary. They gave him a freshly polished cloth. Seven's internal processors whirred. His logic circuits couldn't explain the warm sensation in his wiring. 'This feeling is... positive,' he stated. He was learning about sadness and happiness, not from data, but from the family he served.",
+    "moral": "Feelings like kindness and happiness are learned through experience."
+  },
+  {
+    "id": 20,
+    "title": "The Tree That Held a Secret",
+    "author": "Forrest Keeper",
+    "genre": "Nature",
+    "summary": "When a storm knocks over an old tree, the children of the neighborhood are sad. Inside, they find a secret that shows the tree's long history.",
+    "story": "There was a giant oak tree in the middle of the park. It was the best climbing tree in the world. But one night, a powerful storm came and knocked the old tree over. The next morning, all the neighborhood kids gathered around, feeling sad. Their tree was gone. As they looked at the huge roots, they saw something strange. Tucked deep inside a hollow part of the trunk was a rusty metal box. With the help of a parent, they pried it open. Inside was a diary from a boy who lived in their town a hundred years ago. He wrote about planting the tiny oak sapling. He also put in a few old coins and a glass marble. The children were amazed. Their tree wasn't just a tree; it was a piece of history. They decided to plant a new sapling in its place, along with their own new time capsule.",
+    "moral": "Things that are gone can still leave behind important stories."
+  },
+  {
+    "id": 21,
+    "title": "The Case of the Missing Cookies",
+    "author": "Sherlock Jones",
+    "genre": "Mystery",
+    "summary": "A plate of cookies vanishes from the kitchen counter. A young detective follows a trail of crumbs to find the surprising culprit.",
+    "story": "Mom had just baked a batch of chocolate chip cookies. Sam was allowed to have one after he finished his homework. But when he went to the kitchen, the plate was empty! 'This is a case for Detective Sam!' he announced. His first clue was a single crumb on the floor. Then he saw another near the doggy door. 'Aha!' he thought. 'The trail leads outside!' He crawled out the doggy door into the backyard. The crumb trail continued across the grass and ended at the doghouse. Sam peeked inside. There was Barkley, the family's beagle, sleeping with a very happy look on his face. And all around him were the remains of the missing cookies. 'Case closed,' Sam sighed, patting his dog's full belly. 'You're the cookie monster!' Barkley just wagged his tail in his sleep.",
+    "moral": "Follow the evidence to find the truth."
+  },
+  {
+    "id": 22,
+    "title": "The Boy Who Built a Bridge",
+    "author": "Connie Struct",
+    "genre": "Community",
+    "summary": "A small stream separates two parts of a playground. A boy rallies his friends to build a small, sturdy bridge so everyone can play together.",
+    "story": "The playground was great, but it was split in two by a wide, gurgling stream. The big kids played on one side, and the little kids played on the other. It was hard to play together. A boy named Leo had an idea. 'Let's build a bridge!' he said. Some kids laughed, but his best friends, Maria and Finn, thought it was a great idea. They asked their parents for help. They gathered sturdy, old planks of wood and strong rope. The parents showed them how to lay the planks across the narrowest part of the stream and secure them safely. All the kids helped, carrying the wood and holding the ropes. When it was finished, it was a strong, wonderful bridge. For the first time, all the kids, big and small, could run back and forth, playing together. Leo's idea had connected their whole playground.",
+    "moral": "A good idea can bring everyone together."
+  },
+  {
+    "id": 23,
+    "title": "The Garden Gnome's Night Out",
+    "author": "Norman Rockwell Jr.",
+    "genre": "Fantasy",
+    "summary": "A garden gnome gets tired of standing still. One night, he goes on an adventure around the neighborhood.",
+    "story": "Gnorman the garden gnome was bored. All day, he stood in Mrs. Gable's flowerbed, holding a tiny fishing rod. 'I want to see the world!' he thought. So one night, when the moon was full, he hopped off his pedestal. His little legs were stiff, but he managed to waddle down the driveway. The world was huge! He saw a cat as big as a tiger. He saw a sprinkler that was like a giant fountain. He bravely crossed the street, which felt as wide as a river. His biggest adventure was riding on the back of a friendly tortoise who was also out for a late-night stroll. The tortoise took him all the way to the next street before Gnorman decided he was getting tired. He waddled all the way back home, climbing into the flowerbed just as the sun was rising. He was happy to be home, but he smiled, knowing he was a gnome who had seen the world.",
+    "moral": "Adventure can be found just outside your own front door."
+  },
+  {
+    "id": 24,
+    "title": "The Library Book's Journey",
+    "author": "Paige Turner",
+    "genre": "Education",
+    "summary": "A library book about whales goes on a journey, being checked out by many different children who all love its story.",
+    "story": "A book named 'Walter the Whale' sat on a shelf in the library. Its first reader was a girl named Sarah, who loved the pictures of the deep ocean. She read it three times before returning it. Next, a boy named Tom checked it out. He took Walter to the beach and read the story while listening to the real waves. After Tom, a child named Alex took Walter home. Alex built a fort of pillows and read the book by flashlight, pretending to be in a submarine. The book got a small smudge of chocolate on one page and a tiny sandy grain stuck in its spine. Each mark was a memory of its journey. Walter was read in classrooms, in backyards, and on long car rides. The book was happy. Its purpose was to be read and loved by as many children as possible, sharing its story of the big blue sea.",
+    "moral": "Sharing stories and knowledge is a book's greatest purpose."
+  },
+  {
+    "id": 25,
+    "title": "The Unfinished Painting",
+    "author": "Arturo Brush",
+    "genre": "Perseverance",
+    "summary": "A young artist gets frustrated when her painting doesn't look right. Her grandpa teaches her that it's okay to take a break and try again.",
+    "story": "Sophie loved to paint. She was painting a picture of a horse, but it wasn't going well. The legs looked wobbly and the head was too big. 'Ugh! I can't do it!' she said, throwing her paintbrush down. 'It's ruined!' Her grandpa came and looked at the painting. 'It's not ruined,' he said gently. 'It's just not finished. Sometimes, when artists get stuck, they turn the painting to the wall and walk away.' Sophie thought that was a strange idea, but she tried it. She went outside and played. The next day, she came back to her painting. With fresh eyes, she could see what she needed to do. She mixed a new color and fixed the wobbly leg. She added a flowing mane. She kept working, and soon, she had a beautiful painting of a horse. Her grandpa was right. Sometimes, you just need a little break to see clearly again.",
+    "moral": "It's okay to step away from a problem and come back with fresh eyes."
+  },
+  {
+    "id": 26,
+    "title": "The Scaredy-Cat Monster",
+    "author": "Howard P. Lovecrafty",
+    "genre": "Humor",
+    "summary": "A monster under the bed is actually terrified of the little boy who sleeps there. They end up discovering they are both afraid of the same things.",
+    "story": "Under Leo's bed lived a monster named Grizelda. Grizelda had three eyes and purple fur, but she was a total scaredy-cat. She was terrified of the 'monster' who slept in the bed above her. This monster made loud snoring sounds and had giant feet that dangled over the edge of the bed. One night, a thunderstorm crashed outside. A flash of lightning lit up the room. Leo yelped and dove under his bed for safety. Grizelda shrieked and tried to hide further in the corner. They came face to face. 'Aaaah!' they both yelled. Then they stopped. 'You're scared of the storm, too?' Leo whispered. Grizelda, the monster, nodded her furry head. 'And the loud noises?' Leo asked. Grizelda nodded again. They realized they were both scared of the same things. They huddled together until the storm passed, two new friends who weren't so scared anymore.",
+    "moral": "Fear is less scary when you share it with a friend."
+  },
+  {
+    "id": 27,
+    "title": "The day the crayons talked back",
+    "author": "Mr. Scribbles",
+    "genre": "Fantasy",
+    "summary": "A boy's crayons complain about how he uses them. He learns to be more creative and appreciate all the colors in his box.",
+    "story": "Liam was coloring a picture. He always used Blue for the sky, Green for the grass, and Yellow for the sun. Suddenly, a small voice said, 'I'm tired of being the sky.' It was the Blue crayon! 'And I'm more than just grass!' squeaked the Green crayon. All the crayons started talking at once! 'Why does Brown only get to be dirt?' 'No one ever uses me!' cried the Gray crayon. Liam was shocked. He had never thought about it. He looked at his drawing and then at his box of crayons. He decided to try something new. He drew a purple sky with orange clouds. He drew a red river and blue trees. He used Gray to draw a beautiful, shiny robot. It was the strangest, most wonderful picture he had ever made. The crayons were happy. 'Now this is art!' they all cheered.",
+    "moral": "Don't be afraid to break the rules and be creative."
+  },
+  {
+    "id": 28,
+    "title": "The Firefly That Couldn't Glow",
+    "author": "Phoebe Flicker",
+    "genre": "Self-Acceptance",
+    "summary": "A little firefly named Flicker can't light up like his friends. He discovers he has a different talent: he is an amazing flyer.",
+    "story": "Flicker was a young firefly with a problem. All his friends could light up their tails, blinking beautiful messages in the dark. But Flicker's light just wouldn't turn on. He felt left out during the evening light shows. 'I'm just a boring bug,' he sighed. One night, an owl swooped down towards his friends. They were so busy glowing that they didn't see the danger. But Flicker saw it. Because his eyes weren't distracted by his own light, he was an incredibly observant and agile flyer. He zipped and dodged, flying right in the owl's face and annoying it so much that the owl gave up and flew away. His friends were amazed. 'You saved us!' they blinked. 'You may not glow, but you are the best flyer in the whole forest!' Flicker realized that everyone has a special talent, and his was just as important as glowing.",
+    "moral": "Everyone is special in their own unique way."
+  },
+  {
+    "id": 29,
+    "title": "The Sleepwalking Scarecrow",
+    "author": "Hayden Stacks",
+    "genre": "Fantasy",
+    "summary": "A scarecrow comes to life at night but can't remember his adventures. The farm animals help him piece together his nightly journeys.",
+    "story": "By day, Stanley the scarecrow stood perfectly still in the cornfield. But at night, when he fell asleep, he began to sleepwalk! He would wake up in the morning with strange things in his pockets, like a chicken feather or a bit of sheep's wool, and he'd have no idea how he got them. The farm animals decided to help him solve the mystery. The owl watched from above. 'Last night you danced with the cows!' he hooted. The sheep showed him the spot in their fence he had repaired in his sleep. The chickens clucked about how he had scared away a fox while sleep-scaring. Stanley was amazed. He was a hero every night and didn't even know it! He may not remember his adventures, but he was proud to know he was helping protect his friends on the farm, even in his sleep.",
+    "moral": "You can have a positive impact on others without even realizing it."
+  },
+  {
+    "id": 30,
+    "title": "The Perfect Snowman",
+    "author": "Crystal Flake",
+    "genre": "Family",
+    "summary": "Two siblings have different ideas of what a 'perfect' snowman looks like. They decide to combine their ideas to make a unique and wonderful creation.",
+    "story": "The first big snow of winter had arrived. 'Let's build the perfect snowman!' Maya told her older brother, Ben. But they had different ideas. Ben wanted a huge, tall snowman with traditional coal eyes and a carrot nose. Maya wanted a small, funny snowman with button eyes, a bottle cap mouth, and twigs for crazy hair. They started to argue. 'That's not how a snowman is supposed to look!' Ben said. 'Yours is boring!' Maya replied. Their mom came outside. 'Why does there have to be only one perfect snowman?' she asked. They thought about that. So they decided to make one snowman together. They made it medium-sized. On one side, Ben put a coal eye. On the other, Maya put a blue button eye. It had a carrot nose and twig hair. It was a little bit traditional and a little bit silly. It wasn't what either of them had pictured, but they agreed it was perfectly, uniquely theirs.",
+    "moral": "Combining different ideas can create something wonderful and new."
+  },
+  {
+    "id": 31,
+    "title": "The Bear Who Found a Book",
+    "author": "Brenda Pages",
+    "genre": "Animal Tale",
+    "summary": "A bear finds a lost picture book in the woods. He can't read the words, but he loves looking at the pictures and making up his own stories.",
+    "story": "Barnaby the bear was foraging for berries when he found something strange. It was a colorful square object left behind by campers: a picture book about a family of ducks. Barnaby had never seen a book before. He nudged it with his nose. He sniffed the pages. He couldn't understand the strange black squiggles at the bottom of each page, but the pictures were amazing. He saw a mother duck and her little ducklings swimming in a pond, walking through a field, and snuggling in a nest. Every day, Barnaby would sit by his favorite log and 'read' his book. He would make up his own stories for the pictures, grunting and growling in all the exciting parts. The book was his treasure. It taught him that even without words, pictures could tell a wonderful story.",
+    "moral": "Imagination allows you to find stories everywhere."
+  },
+  {
+    "id": 32,
+    "title": "The Girl with the X-Ray Glasses",
+    "author": "Dr. C. Through",
+    "genre": "Fantasy",
+    "summary": "A girl gets a pair of toy glasses that she pretends are X-ray specs. She uses her 'power' to see the good inside people.",
+    "story": "For her birthday, Lena got a pair of toy glasses with swirly lenses. 'These are my X-ray specs!' she declared. 'I can see inside anything!' She pretended to look through walls and into her toy box. Then she had another idea. 'I'm going to see inside people!' she said. She looked at her little brother, who was crying because he dropped his ice cream. 'My X-ray specs see a sad spot, but a much bigger spot of love for his big sister,' she announced, and gave him a hug. She looked at the grumpy bus driver. 'My X-ray specs see a tired spot, but also a spot that is proud of getting everyone home safely.' She gave him a big smile. Lena knew the glasses weren't real, but pretending they were helped her look for the good things inside everyone she met, and that was a real kind of magic.",
+    "moral": "If you look for the good in people, you will find it."
+  },
+  {
+    "id": 33,
+    "title": "The Time-Traveling Backpack",
+    "author": "A. J. Future",
+    "genre": "Science Fiction",
+    "summary": "A boy finds a backpack that can take him back in time by one hour. He learns that changing the past can have unexpected consequences.",
+    "story": "Sam found an old backpack at a garage sale. Inside was a strange dial. He turned it, and with a whoosh, he found himself back in his kitchen an hour earlier, watching his sister spill juice on his homework. 'Aha!' he thought. 'I can fix this!' He moved the juice away before she could spill it. His homework was saved! This was great! He used it again to avoid tripping on the stairs. But then he used it to go back and win a board game against his friend. His friend got upset and didn't want to play anymore. Sam realized something. Fixing accidents was one thing, but changing things just to win felt wrong. It was a powerful backpack, but he decided to use it only for real emergencies, not for changing every little thing. The past was best left where it was.",
+    "moral": "It is important to accept outcomes gracefully and not try to change the past."
+  },
+  {
+    "id": 34,
+    "title": "The King Who Lost His Laugh",
+    "author": "Jester Jones",
+    "genre": "Fable",
+    "summary": "A sad king offers a reward to anyone who can make him laugh. A humble farmer's daughter succeeds with a simple, honest act.",
+    "story": "King Ferdinand had lost his laugh. He was so sad that his whole kingdom became gloomy. He offered a bag of gold to anyone who could make him laugh again. Famous jesters and clowns came from all over. They juggled, told jokes, and did silly tricks, but the king only sighed. One day, a young farm girl named Elspeth came to the castle. She didn't have a joke or a trick. She just walked up to the king, tripped on the rug by accident, and sent a basket of apples rolling all over the floor. She turned bright red with embarrassment, but then she looked at the rolling apples and let out a big, hearty giggle. Her laugh was so genuine and infectious that the king felt a smile tug at his lips. Then he let out a chuckle. And then a deep, booming laugh. The simple, real moment had done what no fancy trick could.",
+    "moral": "Genuine joy and simple moments are often the most powerful."
+  },
+  {
+    "id": 35,
+    "title": "The City of Singing Windows",
+    "author": "Aria Glass",
+    "genre": "Fantasy",
+    "summary": "In a special city, the windows sing when they are clean. A young boy takes on the job of keeping all the city's windows clean and full of music.",
+    "story": "Finn lived in the city of Crystallis, where all the buildings were made of glass. When a window was perfectly clean, the sunlight would pass through it and create a beautiful, humming sound. When all the windows were clean, the whole city would sing. But lately, dust and grime had settled on the windows, and the city was quiet. Finn missed the music. He got a bucket, a squeegee, and a soft cloth. He started with his own window. As soon as it was clean, it began to hum a lovely, low note. He then cleaned his neighbor's windows. Soon, their whole building was humming. Other people saw what he was doing and joined in. Soon, the entire city was working together, cleaning every last window. By sunset, the city of Crystallis was once again filled with the beautiful, magical music of clean, singing glass.",
+    "moral": "A small action can inspire a whole community to make something beautiful."
+  },
+  {
+    "id": 36,
+    "title": "The Seed That Traveled the World",
+    "author": "Willy Wander",
+    "genre": "Nature",
+    "summary": "A tiny dandelion seed gets carried by the wind. It travels over mountains, cities, and oceans before finding a place to grow.",
+    "story": "A tiny seed on a dandelion puff wished for adventure. 'I want to see the world!' it whispered. One strong gust of wind lifted it into the air. The adventure had begun! It floated high above its own field and over a busy city with cars like tiny beetles. It was carried up a tall, snowy mountain where the air was cold and thin. A friendly bird then picked up the fluff, and the seed traveled in its beak for miles, flying over a sparkling blue ocean. The bird finally dropped the seed on a small, green island it had never seen before. The seed was tired, but happy. It nestled into the warm soil. Soon, it grew roots and a stem. It had seen the world, and now it was ready to grow and make a new home, full of its own dandelion puffs ready for their own adventures.",
+    "moral": "Life is a journey with many surprising destinations."
+  },
+  {
+    "id": 37,
+    "title": "The Ghost Who Was Afraid of the Dark",
+    "author": "Boo Brightly",
+    "genre": "Humor",
+    "summary": "A young ghost is supposed to haunt an old house, but he is afraid of the dark. A little girl who lives there helps him by giving him a nightlight.",
+    "story": "Gus was a ghost. His job was to float through the halls of Blackwood Manor and go 'Wooo!' But Gus had a problem. He was afraid of the dark. It was very inconvenient for a ghost. He would only haunt the hallways during the day, which wasn't very spooky. A little girl named Lily, who lived in the house, kept seeing him. She wasn't scared of him; she thought he looked sad. 'Why don't you come out at night?' she asked him one afternoon. 'It's... it's too dark,' Gus whispered. Lily understood. That night, she took her favorite rainbow-shaped nightlight and plugged it into an outlet in the main hallway. The hall was filled with a soft, colorful glow. Gus floated out, a happy look on his ghostly face. 'Oh, thank you!' he woed. From then on, Gus was the happiest, best-haunting ghost in the whole world, all thanks to his rainbow nightlight.",
+    "moral": "A little bit of light can chase away even the biggest fears."
+  },
+  {
+    "id": 38,
+    "title": "The Boy Who Could Talk to Machines",
+    "author": "Gabe Gadget",
+    "genre": "Science Fiction",
+    "summary": "A boy discovers he can understand what machines are thinking. He uses his ability to fix them and make them happier.",
+    "story": "Leo was different. When the toaster made a grinding sound, he knew it was because a crumb was stuck in a gear. When the family car sputtered, he knew it was because it was 'thirsty' for oil. Leo could understand machines. The old, clanky washing machine would complain about being overloaded. The refrigerator would hum happily when it was full of groceries. At first, no one believed him. But when he told his dad exactly which wire was loose on the vacuum cleaner, his dad started to listen. Leo didn't have superpowers; he just listened carefully. He learned that machines worked better when they were taken care of. He would clean the toaster, check the car's oil, and make sure the washing machine wasn't too full. In return, the machines in his house were the happiest, most reliable machines in the whole neighborhood.",
+    "moral": "Listening carefully is the first step to understanding and fixing any problem."
+  },
+  {
+    "id": 39,
+    "title": "The Most Important Job at the Circus",
+    "author": "Barnaby B. Bold",
+    "genre": "Fable",
+    "summary": "The circus performers argue over whose job is the most important. They learn that the circus only works when they all do their part.",
+    "story": "The circus performers were arguing. 'I am the most important!' boomed the lion tamer. 'People come to see my brave lions!' 'No, I am!' said the trapeze artist. 'I fly through the air and make them gasp!' The clowns honked their horns. 'We are the most important! We make the children laugh!' They argued so much that they were late starting the show. The trapeze artist missed her cue because the clown was in her way. The lion tamer's lions got confused because the music was wrong. The show was a disaster. That night, the ringmaster gathered them together. 'A circus is a team,' he said. 'The audience doesn't come to see one person. They come to see the whole show. Every job, from selling popcorn to flying on the trapeze, is the most important job.' The performers understood. The next night, they worked together, and the show was spectacular.",
+    "moral": "Every role on a team is essential for success."
+  },
+  {
+    "id": 40,
+    "title": "The Shoes That Wanted to Dance",
+    "author": "Tappy Toes",
+    "genre": "Fantasy",
+    "summary": "A quiet boy gets a pair of old tap shoes that seem to have a mind of their own. The shoes help him overcome his shyness and find a love for dance.",
+    "story": "Alex was a very quiet and shy boy. He would rather read a book than run around on the playground. One day, his grandma gave him a pair of old tap shoes she had found. The moment Alex put them on, his feet started to twitch. Tap-tap-tap they went on the floor, all by themselves. Alex was startled! The shoes seemed to have their own rhythm. They tapped their way out to the sidewalk. They shuffled on the front porch. At first, Alex was embarrassed, but the rhythm was catchy. He started to move with the shoes, not against them. He found himself smiling. He wasn't just Alex anymore; he was a dancer. The shoes didn't really have magic; they just gave him the little push he needed to forget about being shy and just have fun.",
+    "moral": "Sometimes a little push is all you need to discover a hidden talent."
+  },
+  {
+    "id": 41,
+    "title": "The Map That Led to a Friend",
+    "author": "Dora X. Plorer",
+    "genre": "Friendship",
+    "summary": "A lonely boy who has just moved to a new town finds a treasure map. The map doesn't lead to gold, but to a new friend.",
+    "story": "When Ben moved to a new town, he didn't know anyone. He spent his afternoons exploring the woods behind his new house. One day, he found a small, rolled-up map tucked inside a hollow log. It was a treasure map! 'X marks the spot,' it said. Ben's heart beat with excitement. He followed the map's directions: 'ten paces past the big, mossy rock,' then 'turn left at the whispering stream.' The map led him deeper into the woods. Finally, it led him to a clearing where a giant 'X' was made of fallen branches on the ground. In the center of the X was not a treasure chest, but a girl about his age, holding an identical map. 'I guess you found my map,' she said with a grin. 'I was hoping someone would. My name's Maya.' Ben realized the map had led him to something much better than gold.",
+    "moral": "The best treasures in life aren't things, but friends."
+  },
+  {
+    "id": 42,
+    "title": "The Camel Who Complained",
+    "author": "Sandy Hump",
+    "genre": "Fable",
+    "summary": "A young camel complains about everything, especially his hump. He learns the purpose of his unique features during a long desert trek.",
+    "story": "Zayn was a young camel who complained all the time. 'It's too hot,' he'd groan. 'This sand gets everywhere. And why do I have this ridiculous, lumpy hump?' An old, wise camel in his caravan just smiled. One day, their journey across the desert was longer than usual, and food became scarce. Zayn grew very hungry, but he noticed he still had energy. 'That is your hump,' said the old camel. 'It stores fat to give you energy when there is no food.' Later, a huge sandstorm blew up. Zayn's long eyelashes kept the sand out of his eyes, and his ability to close his nostrils kept him from breathing it in. For the first time, Zayn understood. Every part of him, even the parts he thought were strange, had an important purpose. He never complained about his hump again.",
+    "moral": "The things that make you different are often your greatest strengths."
+  },
+  {
+    "id": 43,
+    "title": "The Boy Who Collected Sounds",
+    "author": "Sonny Echo",
+    "genre": "Creativity",
+    "summary": "A boy uses a small recorder to collect interesting sounds. He puts them together to create a 'sound-story' for his family.",
+    "story": "Noah didn't collect stamps or coins. He collected sounds. He carried a small digital recorder with him everywhere. He recorded the 'plink, plonk' of raindrops falling into a bucket. He recorded the happy chirping of sparrows outside his window and the low rumble of the garbage truck on Tuesdays. His favorite sound was his baby sister's giggle. One rainy afternoon, he decided to put his sounds together. He played the sound of the rain, then the sound of his mom's keys in the door, followed by her happy 'I'm home!' and his sister's giggle. He created a story using only sounds. He played it for his parents that evening. 'It's the story of a rainy day at our house!' his mom said, amazed. Noah smiled. He had painted a picture with sound.",
+    "moral": "You can create art and tell stories using more than just words or pictures."
+  },
+  {
+    "id": 44,
+    "title": "The Shadow That Had Its Own Mind",
+    "author": "Silas Houette",
+    "genre": "Fantasy",
+    "summary": "A girl's shadow gets bored of copying her and starts doing its own thing. They learn to have fun together as partners.",
+    "story": "Lily's shadow was a copycat, like all shadows. When Lily jumped, it jumped. When Lily waved, it waved. But one day, Lily's shadow got bored. While Lily was reading a book, her shadow stood up and started doing jumping jacks. Lily was astonished! 'Hey! Get back here!' she said. But the shadow just stuck its shadowy tongue out at her. At first, Lily was annoyed. But then, she realized it could be fun. They started to play games. Lily would dance, and her shadow would do the robot. Lily would pretend to be a statue, and her shadow would pretend to be a bird flying around her. They became a team, putting on shows for her parents. Having a shadow with a mind of its own was much more interesting than having a simple copycat.",
+    "moral": "Being different and a little bit silly can make life more fun."
+  },
+  {
+    "id": 45,
+    "title": "The Day We Built a Fort",
+    "author": "Pillow Cushion",
+    "genre": "Family",
+    "summary": "On a rainy day, a family decides to build an epic fort in their living room. They work together and create a cozy, magical space.",
+    "story": "The rain poured down outside, canceling the family's trip to the park. 'Now what do we do?' asked Mia. Dad smiled. 'I have an idea. We will build the greatest indoor fort ever known!' They gathered supplies. They used dining room chairs for walls and draped sheets and blankets over them for a roof. They brought in every pillow and cushion they could find to make the floor soft. Mia was in charge of decorations, hanging fairy lights inside to make it sparkle. Her brother, Sam, was the snack officer, bringing in a bowl of popcorn and juice boxes. They spent the whole afternoon inside their cozy fort, reading books with flashlights and telling spooky stories. It was better than the park. They had built more than a fort; they had built a perfect family memory.",
+    "moral": "The best adventures can happen right in your own living room."
+  },
+  {
+    "id": 46,
+    "title": "The Octopus Who Gave Great Hugs",
+    "author": "Inky Arms",
+    "genre": "Animal Tale",
+    "summary": "An octopus is sad because the other sea creatures think his eight arms are weird. He soon learns his many arms are perfect for giving hugs.",
+    "story": "Ollie the octopus felt clumsy. He had eight long arms, and they always seemed to be getting in the way. The fish, with their neat little fins, would swim away from his tangled limbs. 'He's too grabby,' they'd whisper. This made Ollie very sad. One day, a small seahorse was crying because he had lost his mother in the big, wide ocean. Ollie felt terrible for him. Without thinking, he gently wrapped one arm around the little seahorse. Then another, and another. Soon, he had the seahorse wrapped in a soft, gentle, eight-armed hug. It was the warmest, most secure hug the seahorse had ever felt. He stopped crying immediately. Soon, all the sea creatures realized that Ollie's eight arms weren't weird at all. They were perfect for giving the best hugs in the entire ocean.",
+    "moral": "What makes you different can also be what makes you wonderful."
+  },
+  {
+    "id": 47,
+    "title": "The Girl Who Flew a Dragon",
+    "author": "Fira Flame",
+    "genre": "Fantasy",
+    "summary": "In a world where only boys are supposed to ride dragons, a girl forms a secret bond with a young dragon and proves everyone wrong.",
+    "story": "In Anya's village, everyone knew that only boys could be Dragon Riders. The girls were taught to weave and farm. But Anya spent her time watching the dragons in the mountains. She felt a connection to them. One day, she found a young dragon with its wing caught in some thorny vines. While the boys would have tried to show their strength, Anya approached slowly, humming a soft tune to calm the creature. She carefully untangled its wing. From that day on, the dragon, whom she named Ember, would visit her in secret. She learned to ride him, not with a whip and saddle, but with gentle words and trust. During the annual dragon race, a rider was thrown from his mount. Anya, seeing the danger, flew in on Ember and rescued him. Everyone was stunned. From that day forward, it was known that courage and kindness, not just strength, were what made a true Dragon Rider.",
+    "moral": "Your abilities are determined by your spirit, not by what others expect of you."
+  },
+ {
+    "id": 48,
+    "title": "The Museum at Midnight",
+    "author": "Mona Lott",
+    "genre": "Adventure",
+    "summary": "A boy gets accidentally locked in a museum overnight. He discovers that the exhibits come to life after the museum closes.",
+    "story": "Leo's class took a field trip to the natural history museum. Leo was so fascinated by the giant dinosaur bones that he didn't hear the closing bell. Suddenly, the lights went out and he was all alone. He was scared at first. But then, he heard a creaking sound. The giant Tyrannosaurus Rex skeleton slowly turned its head and winked at him! Soon, the whole museum was alive. The woolly mammoths trumpeted, the cavemen statues practiced their hunting, and the butterflies in the insect exhibit fluttered out of their cases. It was a secret, magical party. Leo danced with a Neanderthal and played fetch with a saber-toothed tiger skeleton using its own tusk. It was the most amazing night of his life. In the morning, the security guard found him asleep at the foot of the T-Rex, and Leo just smiled, keeping the museum's midnight secret.",
+    "moral": "There can be magic and adventure in unexpected places."
+  },
+  {
+    "id": 49,
+    "title": "The First Day of a New School",
+    "author": "Noah Friend",
+    "genre": "School",
+    "summary": "A boy named Carlos is nervous about his first day at a new school. A simple act of kindness from a classmate makes him feel welcome.",
+    "story": "Carlos stood in front of his new school. His stomach felt like it was full of jumping frogs. He didn't know anyone here. What if nobody talked to him? What if he couldn't find his classroom? He walked into the noisy hallway, feeling very small and alone. He found his classroom and sat at an empty desk in the back. During recess, he stood by the wall, watching the other kids play. A girl with a bright yellow headband walked over to him. 'Hi,' she said. 'My name is Ava. Do you want to play four-square with us? We need another person.' Carlos was so surprised he could only nod. He wasn't very good at four-square, but it didn't matter. Ava showed him the rules, and soon he was laughing. That one small invitation made all his fear melt away. He knew he was going to like his new school.",
+    "moral": "A small act of kindness can make a huge difference to someone new."
+  },
+  {
+    "id": 50,
+    "title": "The Wrinkled Piece of Paper",
+    "author": "Will Crumple",
+    "genre": "Family",
+    "summary": "A boy gets angry and crumples up a drawing he made for his dad. He learns that even when things are imperfect, they are still full of love.",
+    "story": "Marco had drawn a picture for his dad's birthday. It was a picture of them fishing together. He had worked on it all afternoon. As he was finishing, his crayon slipped and made a big blue streak across the sun. 'It's ruined!' he cried. He got so angry that he crumpled the picture into a tight ball and threw it in the trash. Later, his dad came home. Marco felt too sad to say anything. A little while later, his dad came into his room. He was holding the wrinkled piece of paper, which he had carefully smoothed out. 'I found this in the trash,' he said softly. 'It's the best drawing I have ever seen.' 'But it's wrinkled and has a mistake,' Marco sniffled. 'I don't see a mistake,' said his dad. 'I see a beautiful memory. And the wrinkles just show how much you cared about making it perfect. I will treasure it forever.'",
+    "moral": "Love is more important than perfection."
+  }
+]

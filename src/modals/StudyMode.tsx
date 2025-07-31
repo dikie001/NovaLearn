@@ -1,20 +1,33 @@
 import { BookOpen, Brain, Sparkles, X } from "lucide-react";
+import { useNavigate } from "react-router-dom";
 
-const StudyMode = ({ setShowStudyMode }:any) => {
+type ModeType = "short_stories" | "quiz";
+const MODE_AND_GRADE = "study_mode_and_grade";
 
-   type ModeTypes = "short_stories" | "quiz";
+const StudyMode = ({ setShowStudyMode, selectedGrade }: any) => {
+  const study = { grade: "", mode: "" };
+  const navigate = useNavigate();
 
+  //handle mode selection for both bts
+  const handleModeSelection = (mode: ModeType) => {
+    setShowStudyMode(false);
 
-
-    //handle mode selection for both btns
-    const handleModeSelection=(mode:ModeTypes)=>{
-          setShowStudyMode(false)
-          console.log(mode)
+    if (mode === "short_stories") {
+      study.mode = "short_stories";
+      study.grade = selectedGrade;
+      localStorage.setItem(MODE_AND_GRADE, JSON.stringify(study));
+      navigate("/short_stories");
+    } else if (mode === "quiz") {
+      study.mode = "quiz";
+      study.grade = selectedGrade;
+      localStorage.setItem(MODE_AND_GRADE, JSON.stringify(study));
+      navigate("/quizzes");
     }
+  };
   return (
     <div>
       <div className="fixed inset-0 bg-black/70 backdrop-blur-lg z-50 flex items-center justify-center p-4 animate-in fade-in duration-300">
-        <div className="relative w-full max-w-lg bg-gradient-to-br from-slate-900/95 to-slate-800/95 backdrop-blur-xl border border-cyan-500/20 px-8 py-10 rounded-3xl shadow-2xl shadow-cyan-900/50 animate-in zoom-in-95 duration-300">
+        <div className="relative w-full max-w-lg bg-gradient-to-br from-pink-800/40 via-purple-800/40 to-indigo-800/40 backdrop-blur-xl border border-white/20 px-8 py-10 rounded-3xl shadow-2xl shadow-purple-800/40 animate-in zoom-in-95 duration-300">
           {/* Close button */}
           <button
             onClick={() => setShowStudyMode(false)}
@@ -39,7 +52,7 @@ const StudyMode = ({ setShowStudyMode }:any) => {
           {/* Study mode options */}
           <div className="flex flex-col sm:flex-row gap-4">
             <button
-              onClick={() => handleModeSelection('short_stories')}
+              onClick={() => handleModeSelection("short_stories")}
               className="group relative flex-1 bg-gradient-to-br from-slate-800/80 to-slate-900/80 hover:from-cyan-900/40 hover:to-blue-900/40 border border-slate-700/50 hover:border-cyan-500/50 rounded-2xl p-6 transition-all duration-300 transform hover:scale-105 hover:shadow-xl hover:shadow-cyan-500/20"
             >
               <div className="flex flex-col items-center text-center space-y-3">
@@ -58,7 +71,10 @@ const StudyMode = ({ setShowStudyMode }:any) => {
               <div className="absolute inset-0 bg-gradient-to-r from-transparent via-cyan-500/5 to-transparent opacity-0 group-hover:opacity-100 rounded-2xl transition-opacity duration-300" />
             </button>
 
-            <button className="group relative flex-1 bg-gradient-to-br from-slate-800/80 to-slate-900/80 hover:from-cyan-900/40 hover:to-blue-900/40 border border-slate-700/50 hover:border-cyan-500/50 rounded-2xl p-6 transition-all duration-300 transform hover:scale-105 hover:shadow-xl hover:shadow-cyan-500/20">
+            <button
+              onClick={() => handleModeSelection("quiz")}
+              className="group relative flex-1 bg-gradient-to-br from-slate-800/80 to-slate-900/80 hover:from-cyan-900/40 hover:to-blue-900/40 border border-slate-700/50 hover:border-cyan-500/50 rounded-2xl p-6 transition-all duration-300 transform hover:scale-105 hover:shadow-xl hover:shadow-cyan-500/20"
+            >
               <div className="flex flex-col items-center text-center space-y-3">
                 <div className="p-3 bg-gradient-to-br from-purple-500/20 to-pink-500/20 rounded-xl group-hover:from-purple-500/30 group-hover:to-pink-500/30 transition-all duration-300">
                   <Brain className="w-8 h-8 text-purple-400 group-hover:text-purple-300" />

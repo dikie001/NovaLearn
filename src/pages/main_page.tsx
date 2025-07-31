@@ -6,6 +6,7 @@ const MainPage = () => {
   const [selectedGrade, setSelectedGrade] = useState<number | null>(null);
   const [showStudyMode, setShowStudyMode] = useState<boolean>(false);
 
+
   const grades = [1, 2, 3, 4, 5, 6, 7, 8];
 
   const handleGradeSelect = (grade: number) => {
@@ -24,7 +25,7 @@ const MainPage = () => {
             </div>
           </div>
           <h1 className="text-5xl font-bold bg-gradient-to-r from-purple-600 to-cyan-400 bg-clip-text text-transparent mb-4">
-            StudyMate
+            NovaLearn
           </h1>
           <p className="text-xl text-gray-300 max-w-2xl mx-auto">
             Master every subject with interactive revision for grades 1-8
@@ -113,7 +114,12 @@ const MainPage = () => {
         </div>
       </div>
       {/* MODALS */}
-      {showStudyMode && <StudyMode setShowStudyMode={setShowStudyMode} />}
+      {showStudyMode && (
+        <StudyMode
+          setShowStudyMode={setShowStudyMode}
+          selectedGrade={selectedGrade}
+        />
+      )}
     </div>
   );
 };
