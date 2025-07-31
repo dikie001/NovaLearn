@@ -50,7 +50,7 @@ export default function ShortStoriesPage() {
         <p className="text-sm text-gray-500 mt-1">
           by {selectedStory.author} · {selectedStory.genre}
         </p>
-        <p className="mt-4 whitespace-pre-line leading-relaxed">
+        <p className="mt-4 whitespace-pre-line text-lg  leading-relaxed">
           {selectedStory.story}
         </p>
         <div className="mt-6 p-4 bg-yellow-100 dark:bg-purple-900 rounded-lg shadow">

@@ -53,7 +53,7 @@ const StudyMode = ({ setShowStudyMode, selectedGrade }: any) => {
           <div className="flex flex-col sm:flex-row gap-4">
             <button
               onClick={() => handleModeSelection("short_stories")}
-              className="group relative flex-1 bg-gradient-to-br from-slate-800/80 to-slate-900/80 hover:from-cyan-900/40 hover:to-blue-900/40 border border-slate-700/50 hover:border-cyan-500/50 rounded-2xl p-6 transition-all duration-300 transform hover:scale-105 hover:shadow-xl hover:shadow-cyan-500/20"
+              className="group relative flex-1 bg-gradient-to-br from-purple-900 to-slate-900/80 hover:from-cyan-900/40 hover:to-blue-900/40 border border-slate-700/50 hover:border-cyan-500/50 rounded-2xl p-6 transition-all duration-300 transform hover:scale-105 hover:shadow-xl hover:shadow-cyan-500/20"
             >
               <div className="flex flex-col items-center text-center space-y-3">
                 <div className="p-3 bg-gradient-to-br from-orange-500/20 to-red-500/20 rounded-xl group-hover:from-orange-500/30 group-hover:to-red-500/30 transition-all duration-300">

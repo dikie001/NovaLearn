@@ -1,4 +1,4 @@
-import { BookOpen, Star, Users, Zap } from "lucide-react";
+import { Star, Users, Zap } from "lucide-react";
 import { useState } from "react";
 import StudyMode from "../modals/StudyMode";
 
@@ -20,8 +20,8 @@ const MainPage = () => {
         {/* Header */}
         <header className="text-center mb-8">
           <div className="flex items-center justify-center mb-4">
-            <div className="bg-gradient-to-r from-purple-500 to-pink-500 p-3 rounded-2xl shadow-xl">
-              <BookOpen className="w-8 h-8 text-white" />
+            <div className="p-3 rounded-2xl shadow-xl">
+              <p className="text-5xl"> 📚</p>
             </div>
           </div>
           <h1 className="text-5xl font-bold bg-gradient-to-r from-purple-600 to-cyan-400 bg-clip-text text-transparent mb-4">

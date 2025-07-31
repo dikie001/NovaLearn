@@ -1,5 +1,3 @@
-
-
 import { useEffect, useState } from "react";
 
 // Define the BeforeInstallPromptEvent type
@@ -53,6 +51,7 @@ const App = () => {
           <Route path="/" element={<MainPage />} />
           <Route path="/short_stories" element={<ShortStoriesPage />} />
           <Route path="/quizzes" element={<QuizzesPage />} />
+   
         </Routes>
       </Router>
       {deferredPrompt && (
