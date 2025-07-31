@@ -1,5 +1,5 @@
+import { ArrowLeft, BookOpenText, ChevronDown, Loader2 } from "lucide-react";
 import { useEffect, useState } from "react";
-import { BookOpenText, ArrowLeft, ChevronDown, LoaderPinwheel, Loader2 } from "lucide-react";
 import { getStudyDataFromStorage } from "../../utils/mini_functions";
 
 interface StoryTypes  {

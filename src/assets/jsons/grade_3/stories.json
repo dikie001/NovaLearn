@@ -1,0 +1,453 @@
+[
+  {
+    "id": 1,
+    "title": "Leo the Lion's Loud Roar",
+    "author": "Jane Koala",
+    "genre": "animal tale",
+    "summary": "A little lion learns that his big roar can be used to help others, not just to show off. He finds his true strength in kindness.",
+    "story": "Leo was a young lion with a very loud roar. He loved to practice it all day long. 'ROAR!' he would shout, making the little monkeys jump and the birds fly away. He thought being the loudest was the most important thing. One day, a small gazelle got its leg stuck between some rocks. It cried for help, but no one could hear it. Leo saw the gazelle was scared. He remembered his big roar. He took a deep breath and let out the loudest roar he ever had. 'ROOOOOAR!' The sound traveled far and wide. His father heard the roar and came running. Together, they carefully moved the rocks and freed the gazelle. Leo learned that his roar wasn't just for being loud; it was for helping friends in need.",
+    "moral": "True strength is shown by helping others."
+  },
+  {
+    "id": 2,
+    "title": "Amina's Magical Samosas",
+    "author": "Samuel Otieno",
+    "genre": "family",
+    "summary": "Amina helps her grandmother make samosas for the family gathering. She learns the secret ingredient is not a spice, but love.",
+    "story": "Amina loved visiting her Bibi's house in Kisumu. Today was special because Bibi was making her famous samosas. 'Can I help?' Amina asked. 'Of course, my little chef,' Bibi smiled. Amina helped mix the vegetables and fold the pastry into little triangles. 'Bibi, what is your secret ingredient? They are the best samosas in the world!' Amina whispered. Bibi chuckled and pointed to her heart. 'The secret ingredient is love, my dear. When you cook for people you care about, the food always tastes better.' When the family arrived, everyone loved the samosas. Amina felt proud. She knew the secret, and she had helped add a little bit of her own love to the delicious snack.",
+    "moral": "Doing things with love makes them special."
+  },
+  {
+    "id": 3,
+    "title": "The Boy Who Planted Stars",
+    "author": "Luna Bright",
+    "genre": "fantasy",
+    "summary": "A boy named Orion finds a pouch of sparkling seeds. He plants them and they grow into beautiful, glowing star-flowers that light up his village.",
+    "story": "Orion lived in a village where the nights were very dark. One evening, he found a small, velvet pouch. Inside were tiny seeds that sparkled like diamonds. He wondered what they were. The next morning, he planted them in his garden. He watered them carefully every day. Nothing happened for a week. Orion felt sad. But one night, he woke up to a soft, glowing light outside his window. He ran to his garden. The seeds had grown into tall flowers, and their petals shone like real stars! The star-flowers lit up the entire village. People came out of their houses and smiled. Orion's little seeds had brought light and happiness to everyone.",
+    "moral": "A small act of hope can bring light to many."
+  },
+  {
+    "id": 4,
+    "title": "Friendship Across the Pond",
+    "author": "Lily Padmore",
+    "genre": "friendship",
+    "summary": "A frog and a fish become unlikely friends. They find a clever way to share stories despite living in different worlds.",
+    "story": "Freddy the frog lived on a lily pad, and Finley the fish lived in the water below. They wanted to be friends. 'I wish you could jump up here!' croaked Freddy. 'I wish you could swim down here!' bubbled Finley. They were sad they couldn't play together. Then, Freddy had an idea. He would watch the world above the water and then tap on his lily pad. One tap meant he saw a bird. Two taps meant a butterfly. Finley would watch the world below. He would make one bubble for a snail and two bubbles for a pretty shell. They spent their days tapping and bubbling, sharing their worlds with each other. They were the best of friends, even though they never played in the same place.",
+    "moral": "True friendship can overcome any difference."
+  },
+  {
+    "id": 5,
+    "title": "The Girl Who Built a Spaceship",
+    "author": "Ken Astro",
+    "genre": "adventure",
+    "summary": "Using cardboard boxes and her imagination, a girl named Maya builds a spaceship. She and her teddy bear pilot explore the living room galaxy.",
+    "story": "Maya wanted to go to space. She didn't have a real rocket, but she had something better: imagination and lots of cardboard boxes! She taped them together, cut out a window, and drew buttons and dials with her crayons. Her co-pilot was Captain Fluff, her bravest teddy bear. 'Ready for launch, Captain Fluff?' she asked. She made whooshing sounds as they blasted off from Planet Sofa. They zoomed past the Tabletop Mountains and dodged the dangerous Lamp Asteroid. They landed on the Kitchen Counter Moon where they found shiny silver rocks (spoons). It was the greatest adventure in the whole living room galaxy. When her mom called for dinner, Maya parked her spaceship safely. Space travel could wait until tomorrow.",
+    "moral": "Your imagination can take you anywhere."
+  },
+  {
+    "id": 6,
+    "title": "The Mystery of the Missing Pencil",
+    "author": "Clara Blue",
+    "genre": "school",
+    "summary": "Tom's favorite pencil goes missing. He learns not to accuse others without proof and finds his pencil in a surprising place.",
+    "story": "Tom had a favorite pencil. It was bright yellow with a big eraser. One day at school, it was gone! He looked in his desk and in his bag. It was nowhere. He saw his friend Sam using a yellow pencil. 'That's my pencil!' Tom said angrily. Sam looked hurt. 'No, it's not. My dad gave it to me,' Sam replied. Tom didn't believe him and was grumpy all day. When he got home, he took off his shoe. Something was poking his foot. He looked inside his shoe, and there it was—his bright yellow pencil! He must have dropped it in his shoe when he was getting dressed. Tom felt very silly and ashamed. The next day, he apologized to Sam. Sam smiled and they played together during break time.",
+    "moral": "Always find out the facts before you accuse someone."
+  },
+  {
+    "id": 7,
+    "title": "The Scared Little Ghost",
+    "author": "B.O. Spectre",
+    "genre": "fantasy",
+    "summary": "A little ghost is afraid of the dark. With the help of a friendly firefly, he learns that the dark can be beautiful and not scary at all.",
+    "story": "Gus was a little ghost, but he had a big secret. He was afraid of the dark. This was very difficult because ghosts do most of their ghostly things at night. He would hide in the attic whenever the sun went down. One night, a little firefly named Flicker saw Gus shivering in a corner. 'Why are you scared?' blinked Flicker. 'It's so dark!' whispered Gus. Flicker smiled his tiny light. 'Come with me. I'll show you something.' Flicker led Gus outside. The night was not just black. The moon cast a soft, silver light. The stars twinkled like tiny diamonds. Other fireflies danced, making beautiful patterns. Gus realized the night was not empty and scary. It was full of quiet beauty and gentle light. He was never afraid of the dark again.",
+    "moral": "Things are not always as scary as they seem."
+  },
+  {
+    "id": 8,
+    "title": "The Unhappy King's Smile",
+    "author": "Penelope Quill",
+    "genre": "fairy tale",
+    "summary": "A king has everything but cannot smile. A poor girl gives him her only flower, and her simple act of kindness finally brings him joy.",
+    "story": "There once was a king who had everything. He had castles, gold, and fine clothes. But he never smiled. He offered a great reward to anyone who could make him happy. Knights told jokes, and jesters did funny tricks, but the king remained sad. One day, a little girl named Elara came to the castle. She had nothing to give but a single, bright daisy she had grown herself. She walked up to the king and placed the flower in his hand. 'This is for you, Your Majesty,' she said softly. The king looked at the simple flower and then at the girl's kind face. Her gift wasn't for a reward; it was from her heart. A slow, warm smile spread across the king's face. He had finally found happiness, not in things, but in a small act of kindness.",
+    "moral": "Kindness is a gift that can make anyone happy."
+  },
+  {
+    "id": 9,
+    "title": "The Day the Crayons Quit",
+    "author": "Iris Hue",
+    "genre": "fantasy",
+    "summary": "A girl finds her crayons have gone on strike. She learns to appreciate all colors, not just her favorite one, to create a beautiful picture.",
+    "story": "Lily loved to draw, but she only ever used the pink crayon. She drew pink flowers, pink houses, and pink cats. One day, she opened her crayon box and found all the crayons were gone! All except for a little note. It said: 'We quit! You only ever use Pink. What about us?' Signed, Red, Blue, Green, Yellow, and all the others. Lily looked at her drawing of a pink tree. It looked a bit boring. She found the other crayons hiding under her bed. 'I'm sorry,' she said. 'Will you come back?' They agreed. Lily started a new picture. She used blue for the sky, green for the grass, and a bright yellow for the sun. The picture was so much more beautiful and full of life. She learned that every color is special and important.",
+    "moral": "Variety is what makes the world beautiful."
+  },
+
+  {
+    "id": 10,
+    "title": "The Magical Treehouse",
+    "author": "Woody Branch",
+    "genre": "adventure",
+    "summary": "Two friends discover a treehouse that can travel anywhere they imagine. They visit the Amazon rainforest and learn about amazing animals.",
+    "story": "Mia and Sam found an old treehouse in the woods. Inside, there was a dusty book and a ship's wheel. Mia opened the book. It was full of pictures of amazing places. 'I wish we could go to the Amazon rainforest,' she said, touching a picture of a toucan. Suddenly, the treehouse started to shake! They looked out the window. They were no longer in the woods. Tall green trees were all around them. Monkeys swung from vines, and colourful parrots flew past. They had really traveled to the Amazon! They spent the day watching sloths, spotting pink river dolphins, and listening to the sounds of the jungle. When it was time to go home, Sam spun the wheel and wished for their backyard. The treehouse was truly magical, and their adventures were just beginning.",
+    "moral": "Books and imagination can transport you to amazing places."
+  },
+  {
+    "id": 11,
+    "title": "Brave Little Firefly",
+    "author": "Lucy Glow",
+    "genre": "animal tale",
+    "summary": "A small firefly uses his tiny light to guide a lost baby squirrel back to its family. He learns that even the smallest light can make a big difference.",
+    "story": "Pip was a very small firefly. His light was not as bright as the others. He often felt unimportant. One night, he heard a small cry. It was a baby squirrel, lost and scared in the dark woods. 'I can't find my mommy,' sniffled the squirrel. The other fireflies said the woods were too dark and dangerous to help. But Pip knew he had to try. 'Follow me,' he blinked. Pip flew slowly, using his small, steady light to show the way. He led the squirrel over roots and around bushes. It was a long journey, but finally, they saw the big oak tree where the squirrel's family was waiting. The baby squirrel was safe. Pip realized that his small light was enough. He was not unimportant at all.",
+    "moral": "Even a small act of courage can make a big difference."
+  },
+  {
+    "id": 12,
+    "title": "The Boy Who Could Talk to Plants",
+    "author": "Flora Green",
+    "genre": "fantasy",
+    "summary": "A quiet boy discovers he can hear plants whisper. He uses his gift to help his town's gardens grow beautiful and strong.",
+    "story": "Leo was a very quiet boy. He preferred listening to talking. One day, while sitting in his garden, he heard a faint whisper. 'A little more water, please.' He looked around but saw no one. Then he realized it was the tomato plant! Leo discovered he could understand plants. The roses told him they needed more sun, and the carrots complained about weeds. At first, he kept his secret. But he started taking care of all the plants in his neighborhood based on what they told him. Soon, his town had the most beautiful and healthy gardens. People called him the 'Garden Whisperer.' Leo was still quiet, but he was happy. He had found a special way to communicate and make the world a more beautiful place.",
+    "moral": "Listening carefully can help you understand the needs of others."
+  },
+  {
+    "id": 13,
+    "title": "The Grumpy Bear's Honey Cake",
+    "author": "Barry Hives",
+    "genre": "friendship",
+    "summary": "A grumpy bear never shares his honey. When he gets sick, the other animals he ignored bring him a honey cake, teaching him about friendship.",
+    "story": "Barnaby was a big, grumpy bear. He loved honey more than anything and never shared it. 'It's all mine!' he would growl if any animal came near his honey tree. One day, Barnaby caught a bad cold. He was too sick to climb the tree for honey. He lay in his cave, feeling miserable. To his surprise, a little rabbit, a squirrel, and a deer appeared at his cave entrance. They were carrying a small cake made with berries, nuts, and a lot of honey. 'We heard you were sick,' the rabbit said timidly. 'We wanted to help you feel better.' Barnaby was speechless. The animals he had been so grumpy to were being kind to him. The honey cake was the sweetest thing he had ever tasted, not just because of the honey, but because it was filled with friendship.",
+    "moral": "Friendship is sweeter when it is shared."
+  },
+  {
+    "id": 14,
+    "title": "The Lost Compass",
+    "author": "Nora North",
+    "genre": "adventure",
+    "summary": "While hiking with her dad, Lily loses their compass. She learns to use nature, like the sun and moss on trees, to find her way.",
+    "story": "Lily was excited to go hiking with her dad. He gave her the special job of carrying the compass. While skipping along the path, she tripped and the compass flew out of her hand, lost in the bushes. 'Oh no!' she cried. 'How will we find our way back?' Her dad smiled. 'Don't worry, Lily. Nature has its own compasses.' He showed her how the sun was setting in the west, so they knew which way was east. He pointed to the moss growing on the north side of the trees. Using these clues, they slowly made their way. It was like a real adventure puzzle! They arrived back at their camp just as the first stars appeared. Lily had lost the compass, but she had found a new and exciting way to understand the world around her.",
+    "moral": "Knowledge of nature can be your best guide."
+  },
+  {
+    "id": 15,
+    "title": "The Girl with the Paper Dragons",
+    "author": "Patty Fold",
+    "genre": "fantasy",
+    "summary": "A girl's origami dragons come to life when she is feeling sad. They cheer her up by putting on a magical paper-flying show in her room.",
+    "story": "Mei was very good at origami. Her favorite things to make were dragons. She had a whole collection of them, in all different colors. One afternoon, Mei felt very sad because her best friend was moving away. She sat in her room, and a tear dropped onto her favorite red paper dragon. Suddenly, the dragon wiggled its tiny paper wings! Then it flew up into the air. One by one, all her paper dragons came to life. They swooped and soared around her room, making silent roars and breathing tiny puffs of imaginary fire. They put on a magical show just for her. Mei started to laugh. The little paper dragons couldn't talk, but they had found a way to make her happy again. She knew she would miss her friend, but she would never be truly alone.",
+    "moral": "Creativity and imagination can comfort you when you're sad."
+  },
+  {
+    "id": 16,
+    "title": "The First Day of School Jitters",
+    "author": "Anna Bell",
+    "genre": "school",
+    "summary": "A boy named Sam is nervous about his first day at a new school. He discovers everyone feels a little nervous, and making one new friend makes all the difference.",
+    "story": "Sam's stomach felt like it was full of jumping frogs. It was his first day at a new school. What if he didn't make any friends? What if he got lost? He walked into his classroom and sat at an empty desk. He didn't look at anyone. The teacher, Mrs. Davis, had a warm smile. 'I know first days can be a bit scary,' she said. 'Even for teachers!' That made Sam feel a little better. During recess, a girl with bright red glasses came up to him. 'Hi, I'm Chloe,' she said. 'Do you like to draw?' Sam nodded. Chloe smiled and showed him her notebook full of drawings of cats in space. Sam laughed and showed her his drawing of a dinosaur playing football. By the end of the day, Sam's stomach felt calm. He had made a friend, and the new school didn't seem so scary anymore.",
+    "moral": "Being brave enough to say 'hello' can lead to a new friendship."
+  },
+  {
+    "id": 17,
+    "title": "The Shoe That Wanted to Dance",
+    "author": "Solomon Sole",
+    "genre": "fantasy",
+    "summary": "A lonely left shoe in a closet dreams of dancing. One night, a friendly mouse helps it escape to the dollhouse for a magical dance party.",
+    "story": "In a dark closet lived a lonely left shoe. It was a shiny red shoe, but it was very sad. Its partner, the right shoe, was lost. All the left shoe wanted to do was dance. One night, a little mouse named Squeaky heard the shoe sighing. 'What's wrong?' asked Squeaky. 'I want to dance, but I'm all alone,' said the shoe. Squeaky had an idea. 'Follow me!' he squeaked. The mouse helped the shoe hop out of the closet and into the playroom. The dolls in the dollhouse were having a party! Squeaky introduced the red shoe to a handsome toy soldier. The soldier bowed, and together they waltzed across the dollhouse floor. The red shoe had never been happier. It twirled and glided all night long.",
+    "moral": "You can still find joy even when things are not perfect."
+  },
+  {
+    "id": 18,
+    "title": "Sharing the Mango Tree",
+    "author": "Grace Auma",
+    "genre": "animal tale",
+    "summary": "Monkeys and birds fight over a mango tree. They learn that by working together and sharing, there are more than enough mangoes for everyone.",
+    "story": "In a big green field stood a magnificent mango tree. A troop of monkeys claimed the branches, and a flock of birds claimed the nests. 'The mangoes are ours!' chattered the monkeys. 'No, they belong to us!' chirped the birds. They argued all day and tried to chase each other away. This meant they spent more time fighting than eating. One wise old owl watched them. 'If you monkeys shake the high branches,' he hooted, 'the ripe mangoes will fall to the ground for the birds. And if the birds scare away the pests, the mangoes will be sweeter for the monkeys.' The monkeys and birds thought about this. It made sense. They decided to try. It worked perfectly! There were plenty of sweet, juicy mangoes for everyone. They learned that sharing and cooperation were much better than fighting.",
+    "moral": "Cooperation helps everyone get what they need."
+  },
+  {
+    "id": 19,
+    "title": "The Cloud Catcher",
+    "author": "Skye Pilvi",
+    "genre": "fantasy",
+    "summary": "A girl has a magical net that can catch small clouds. She learns that you cannot keep something wild and beautiful forever, and finds joy in setting it free.",
+    "story": "Nina had a secret. It was a net made of moonlight that could catch clouds. Every morning, she would go to the highest hill and scoop a small, fluffy cloud out of the sky. She would keep it in a glass jar by her bed. It was beautiful, but after a day, the cloud would start to look grey and sad. It would shrink and stop being fluffy. Nina realized the cloud missed the sky. It missed floating with its friends and changing shape in the wind. She felt sad, but she knew what she had to do. She took the jar back to the hill and opened it. The little cloud joyfully floated out and up, joining the other clouds in the vast blue sky. Nina learned that some things are too beautiful and wild to be kept. Their real beauty is in their freedom.",
+    "moral": "True love means letting things be free."
+  },
+  {
+    "id": 20,
+    "title": "Grandpa's Story Quilt",
+    "author": "Fabricio Tales",
+    "genre": "family",
+    "summary": "A boy learns about his family's history from the patches on a quilt his grandpa made. Each square tells a different story about a relative.",
+    "story": "Daniel loved staying at his grandpa's house, especially because of the big, colourful quilt on the bed. 'Grandpa, tell me about the quilt again,' Daniel would ask. His grandpa would smile. 'This isn't just a quilt, Daniel. It's our family's story.' He pointed to a blue square. 'This is from your great-grandmother's dress she wore when she sailed across the ocean.' He touched a green patch. 'This was from your uncle's first football jersey.' There was a patch from his mother's baby blanket and a square from his father's old work shirt. Each piece was a memory, a story of someone in their family. Daniel snuggled under the quilt. He wasn't just covered by a blanket; he was wrapped in the love and stories of his entire family.",
+    "moral": "Our family's history is a treasure made of stories and love."
+  },
+  {
+    "id": 21,
+    "title": "The Knight Who Was Afraid of Spiders",
+    "author": "Sir Reginald Helm",
+    "genre": "fairy tale",
+    "summary": "A brave knight who can fight dragons is secretly terrified of spiders. A princess helps him see that it's okay to be scared and that true bravery is facing your fears.",
+    "story": "Sir Gideon was the bravest knight in the kingdom. He fought fierce dragons and grumpy giants. But he had a secret: he was terrified of spiders. One day, the princess's favorite necklace was stolen by a goblin who hid it in a dark, spooky cave. Sir Gideon marched to the cave, his sword ready. But the entrance was covered in huge, sticky spiderwebs. And in the middle sat a very large, hairy spider. Sir Gideon froze. He couldn't move. Just then, the princess, who had followed him, appeared. 'It's okay to be scared, Sir Gideon,' she said kindly. 'Bravery isn't about not being afraid. It's about doing what's right even when you are afraid.' Taking a deep breath, Sir Gideon carefully poked a hole in the web with his sword, retrieved the necklace, and scurried out. He was still afraid of spiders, but he learned that being brave was more important.",
+    "moral": "True bravery is facing your fears, no matter how small they seem."
+  },
+  {
+    "id": 22,
+    "title": "The Magical Paintbrush",
+    "author": "Vincent V. Gogh",
+    "genre": "fantasy",
+    "summary": "A young artist is given a paintbrush that brings his paintings to life. He learns a valuable lesson about responsibility when a painted tiger escapes the canvas.",
+    "story": "Leo loved to paint. An old woman gave him a special paintbrush. 'Whatever you paint with this will become real,' she warned. 'Use it wisely.' Leo was excited. He painted a delicious red apple, and it popped right off the paper! He ate it greedily. Then he painted a beautiful blue bird, and it flew around his room before zipping out the window. This was amazing! Feeling bold, Leo painted a big, strong tiger. The tiger looked magnificent with its bright orange and black stripes. It yawned, stretched, and then leaped right off the canvas! It started prowling around his room, knocking things over. Leo was terrified. He quickly painted a strong, sturdy cage. The tiger, seeing the cage, walked inside. Leo had learned that powerful gifts require great responsibility.",
+    "moral": "With great power comes great responsibility."
+  },
+  {
+    "id": 23,
+    "title": "The Turtle Who Wanted to Fly",
+    "author": "Shelly Swift",
+    "genre": "animal tale",
+    "summary": "A turtle is sad that he can't fly like the birds. He learns to appreciate his own unique ability to explore the world underwater.",
+    "story": "Toby the turtle loved to watch the birds soar through the blue sky. 'I wish I could fly,' he would sigh. He felt slow and clumsy with his heavy shell. One day, he met a wise old fish. 'Why are you so sad, Toby?' asked the fish. 'I want to fly and see the world from above,' Toby replied. The fish smiled. 'You can't see the world from above, but you can see a world the birds will never know. Follow me.' Toby followed the fish deep into the pond. He saw colourful plants that waved like dancers. He swam through sparkling underwater caves and met fish that shimmered like rainbows. It was a beautiful, silent, magical world. Toby realized that while he couldn't fly in the sky, he could 'fly' through the water. He was proud of his shell and his special ability to explore the amazing world below.",
+    "moral": "Appreciate your own unique talents and abilities."
+  },
+  {
+    "id": 24,
+    "title": "The Boy and the Worry Monster",
+    "author": "Freida Nott",
+    "genre": "well-being",
+    "summary": "A boy's worries manifest as a little monster that grows bigger every time he worries. He learns that talking about his worries makes the monster shrink.",
+    "story": "Whenever Alex worried, a little grey monster appeared. If Alex worried about a test, the monster got a little bigger. If he worried about talking in class, it grew even more. Soon, the Worry Monster was so big it followed him everywhere, making him feel sad and heavy. He couldn't play or laugh. His mom noticed how quiet he was. 'What's on your mind, Alex?' she asked gently. Alex hesitated, then decided to tell her everything. He told her about the test and about being scared to talk in class. As he spoke, something strange happened. The Worry Monster started to shrink! With every worry he shared, the monster got smaller and smaller until it was just a tiny, squeaking speck. Alex learned that worries grow in silence but shrink when you share them with someone you trust.",
+    "moral": "Sharing your worries makes them smaller."
+  },
+  {
+    "id": 25,
+    "title": "The King's Missing Voice",
+    "author": "Melody Piper",
+    "genre": "fairy tale",
+    "summary": "A king who loves to sing loses his voice. He travels his kingdom in disguise and learns to listen to the voices of his people.",
+    "story": "King Arion had the most beautiful singing voice in the world. But one day, he woke up and his voice was gone! Not a sound came out. The doctors could not help him. Sad and desperate, the king disguised himself as a common traveler and walked through his kingdom. For the first time, he wasn't singing; he was listening. He listened to farmers worrying about the rain. He listened to children laughing as they played. He heard merchants haggling and mothers singing lullabies. He heard stories of hardship and joy. His heart filled with understanding for his people. One evening, sitting by a campfire, he felt a deep urge to join a happy song. He opened his mouth, and a clear, beautiful note came out. His voice was back, richer and more full of feeling than ever before, because now he carried the voices of his people in his heart.",
+    "moral": "To lead well, one must first learn to listen."
+  },
+  {
+    "id": 26,
+    "title": "The Forgiving Friend",
+    "author": "Priya Patel",
+    "genre": "friendship",
+    "summary": "Ria accidentally breaks her friend Ben's favorite toy car. She is scared to tell him but learns that true friends forgive each other's mistakes.",
+    "story": "Ria and Ben were best friends. Ben's most prized possession was a shiny, red toy race car. One afternoon, while they were playing, Ria accidentally knocked the car off the table. It hit the floor with a crash, and one of the wheels broke off. Ria's heart sank. She knew how much Ben loved that car. She was so scared to tell him that she quickly hid the broken toy. But she felt terrible all day. She couldn't eat her dinner or sleep that night. The next day, she took a deep breath, found the broken car, and went to Ben. 'I'm so sorry, Ben,' she said, with tears in her eyes. 'I broke your car.' Ben looked at the car, then at Ria's sad face. He gave her a hug. 'It's okay,' he said. 'It was an accident. We can try to fix it together. You're more important than a toy.'",
+    "moral": "A true friendship is more valuable than any possession."
+  },
+  {
+    "id": 27,
+    "title": "The Island of Giant Fruit",
+    "author": "Captain Berry",
+    "genre": "adventure",
+    "summary": "Two children get shipwrecked on an island where all the fruit is enormous. They must use teamwork and cleverness to gather food and get rescued.",
+    "story": "Finn and Willow were sailing with their parents when a storm washed them onto a strange island. They were scared, but then they saw the trees. The bananas were as big as boats, and the strawberries were the size of chairs! 'We won't go hungry!' said Finn. But getting the fruit was hard. The bananas were too heavy to lift, and the blueberries were too high up. 'We have to work together,' said Willow. Finn, who was a good climber, shimmied up a giant strawberry vine. Willow, who was clever, used a large leaf to build a ramp. They managed to roll a huge grape down the ramp. They worked together all day, gathering bits of giant fruit. They used a massive orange peel as a shelter. When a ship finally spotted them, it wasn't just because of their signal fire, but because of the giant 'HELP' sign they had spelled out using huge apple cores.",
+    "moral": "Teamwork can help you solve even the biggest problems."
+  },
+  {
+    "id": 28,
+    "title": "The Robot Who Learned to Feel",
+    "author": "Dr. Gizmo",
+    "genre": "science fiction",
+    "summary": "A robot designed for logic learns about emotions from a little girl. He discovers that feelings like happiness and sadness are what make life meaningful.",
+    "story": "Unit 734 was a robot. Its job was to calculate and solve problems. It did not understand 'happy' or 'sad'. It lived with a little girl named Lily. One day, Lily's ice cream fell on the ground. She started to cry. 'Data indicates a negative vocal response,' said Unit 734. 'I'm sad,' Lily sniffled. She explained what sad felt like. Later, Lily's dad came home, and she ran to hug him, laughing. 'I'm happy!' she exclaimed, and explained that feeling too. Unit 734 stored this new data. One afternoon, Unit 734 saw a cat stuck in a tree. Using its logical mind, it calculated the best way to rescue it. When it placed the cat safely on the ground, Lily hugged the robot. 'You're a hero!' she said. For the first time, Unit 734 processed a new feeling in its circuits, a warm, pleasant sensation it identified as 'happy'.",
+    "moral": "Feelings and emotions are what give life meaning."
+  },
+  {
+    "id": 29,
+    "title": "The Shy Giraffe",
+    "author": "Gerry Longneck",
+    "genre": "animal tale",
+    "summary": "A tall giraffe is shy because he thinks he's too clumsy. A clever monkey helps him see that his height is a great strength that can be used to help others.",
+    "story": "Gideon the giraffe was very, very tall. He was also very, very shy. He was afraid of tripping over his long legs, so he often hid behind the tallest trees. The other animals would play games, but Gideon was too nervous to join in. One day, a baby monkey climbed too high and was stuck on a thin branch, crying for his mother. The branch was too high for any other animal to reach. The monkeys panicked. Gideon peeked out from behind his tree. He was scared, but the baby monkey looked terrified. Taking a careful, slow step, Gideon stretched his long neck up, up, up. He gently nudged the baby monkey, who climbed onto his head. Gideon carefully lowered his head, and the baby monkey jumped safely into its mother's arms. All the animals cheered. Gideon didn't feel clumsy anymore; he felt tall and proud.",
+    "moral": "What you see as a weakness might be your greatest strength."
+  },
+  {
+    "id": 30,
+    "title": "The Last Cookie in the Jar",
+    "author": "Cookie Crumble",
+    "genre": "family",
+    "summary": "Two siblings both want the last cookie in the jar. They decide to share it and discover that sharing makes the treat even better.",
+    "story": "There was only one cookie left in the cookie jar. It was a big, chocolate chip cookie. It was Max's favorite, and it was also Maya's favorite. 'It's mine!' said Max, reaching for the jar. 'No, I saw it first!' said Maya, grabbing his arm. They started to argue. Their mom heard them from the other room. 'What's all the fuss about?' she asked. 'Max wants the last cookie, but I want it!' said Maya. 'It's not fair!' said Max. Their mom looked at the cookie, and then at her two children. 'Well,' she said, 'a whole cookie is nice. But I've heard that half a cookie, when shared with someone you love, can sometimes taste twice as sweet.' Max and Maya looked at each other. Max carefully took the cookie and broke it into two equal halves. He gave one half to Maya. They ate their cookie pieces together, and they had to agree, it was the best cookie they had ever eaten.",
+    "moral": "Sharing with others can bring more joy than having something all to yourself."
+  },
+  {
+    "id": 31,
+    "title": "The Detective and the Missing Seeds",
+    "author": "Sherlock Gnomes",
+    "genre": "mystery",
+    "summary": "A gardener's prize-winning sunflower seeds are missing. A young detective follows the clues and discovers the culprit is a cheeky squirrel.",
+    "story": "Mr. McGregor was very proud of his giant sunflower seeds. He was saving them for the village fair. One morning, the jar was empty! 'My seeds are gone!' he cried. Young Leo, who loved mysteries, put on his detective hat. 'I'll solve the case, Mr. McGregor!' First, Leo found a trail of tiny, muddy footprints leading away from the shed. They were too small for a person. Next, he found an empty nutshell near the footprints. The final clue was a bit of grey fur caught on the door latch. Muddy paws, nutshells, grey fur... Leo put the clues together. He followed the trail to a big oak tree. He looked up and saw a squirrel with very chubby cheeks, sitting on a branch, happily nibbling on a giant sunflower seed. 'Case closed!' Leo announced. The mystery of the missing seeds was solved.",
+    "moral": "Careful observation can help you solve any puzzle."
+  },
+  {
+    "id": 32,
+    "title": "The Little Raindrop's Big Journey",
+    "author": "Dewey Drop",
+    "genre": "science",
+    "summary": "A small raindrop travels from a cloud, down a river, into the ocean, and back up to a cloud again. This story simply explains the water cycle.",
+    "story": "Drip was a tiny raindrop living in a big, fluffy cloud with millions of other raindrops. One day, the cloud became heavy and Drip began to fall. 'Whee!' he shouted as he tumbled through the air. He landed with a soft 'plip' on a leaf in a tall forest. Then he rolled off the leaf into a small stream. The stream carried him into a bigger river. He journeyed past towns and fields. Finally, the river flowed into the vast, salty ocean. Drip floated in the ocean for many days under the warm sun. The sun's heat made him feel very light. He floated up, up, up into the sky, becoming a vapor. High in the air, he joined other water vapors to form a brand new cloud, ready to start his big journey all over again.",
+    "moral": "Life is a continuous and wonderful journey."
+  },
+  {
+    "id": 33,
+    "title": "The Boy Who Built with Words",
+    "author": "Lexi Khan",
+    "genre": "creativity",
+    "summary": "A boy who isn't good at building with blocks discovers he can build amazing castles and worlds using words and stories.",
+    "story": "All the kids in Finn's class were great at building with blocks. They made tall towers and strong forts. Finn's towers always wobbled and fell. It made him feel clumsy. One day, instead of building, Finn just sat and watched. He started to describe the castle another kid was building. 'A mighty fortress with a tall, spiraling tower guarded by a brave knight,' he whispered to himself. The other kids overheard him. 'Wow,' said one. 'Tell us more!' So Finn did. He described a hidden treasure and a friendly dragon. Soon, all the kids were gathered around, listening. They forgot about their blocks. Finn realized he could build things too, not with blocks, but with words. His words could create castles more magical and adventures more exciting than any plastic brick. He was a story builder, and his creations were magnificent.",
+    "moral": "Everyone has a unique way to be creative."
+  },
+  {
+    "id": 34,
+    "title": "The Girl Who Found a Starfish",
+    "author": "Sandy Shore",
+    "genre": "nature",
+    "summary": "A girl finds a starfish washed up on the beach. She learns from her mother that it's a living creature and that helping even one makes a difference.",
+    "story": "Tess was walking along the beach after a big storm. The sand was covered with seaweed and shells. Then she saw something bright orange. It was a starfish, lying still on the sand. Tess picked it up. 'Look, Mom, a star fell from the sky!' Her mom smiled. 'It's a starfish, sweetie. It's a real animal that lives in the ocean.' She showed Tess the tiny tube feet on the bottom of the starfish that were trying to move. 'It's alive, but it can't get back to the water by itself.' 'There are so many of them washed up,' Tess said sadly, looking down the beach. 'We can't save them all.' 'No,' her mom agreed, 'but we can save this one.' Tess gently carried the starfish to the edge of the water and placed it in a shallow pool. The starfish slowly began to move. It made a difference to that one starfish, and that felt wonderful.",
+    "moral": "Helping even one person or creature is important."
+  },
+  {
+    "id": 35,
+    "title": "The Magical Bedtime Story",
+    "author": "Yolanda Yawn",
+    "genre": "fantasy",
+    "summary": "A boy reads a bedtime story that pulls him into the adventure. He helps the story's hero find a hidden treasure before waking up safely in his own bed.",
+    "story": "Every night, Ben's dad read him a bedtime story. Tonight's book was 'The Secret of Pirate Island.' As his dad read about the brave Captain Blueheart searching for treasure, Ben's eyelids grew heavy. Suddenly, Ben wasn't in his bed anymore! He was on a sandy beach, and Captain Blueheart was standing right in front of him. 'Ahoy, matey!' the captain said. 'I need help reading this map!' Ben looked at the map. He saw a clue that the captain had missed. 'The treasure isn't under the palm tree,' Ben said, 'it's under the rock that looks like a turtle!' They dug together and found a chest filled with sparkling chocolate coins. 'Thank you, young adventurer!' Captain Blueheart cheered. Just then, Ben felt a gentle shake. He opened his eyes. He was back in his bed, and his dad was closing the book. The adventure was a dream, but the thrill felt very real.",
+    "moral": "Stories can take us on the most amazing adventures in our dreams."
+  },
+  {
+    "id": 36,
+    "title": "The Dog Who Didn't Bark",
+    "author": "Woofster Brown",
+    "genre": "animal tale",
+    "summary": "A small dog is made fun of because he can't bark loudly like the others. He proves his bravery by quietly discovering a fire and warning his family.",
+    "story": "Pip was a small terrier who couldn't bark. He would open his mouth and a tiny 'yip' would come out. The big dogs in the neighborhood would laugh. 'You sound like a mouse!' they'd woof. Pip felt very small and useless. One night, while his family was asleep, Pip smelled something strange. Smoke! He saw a little flicker of orange light coming from the kitchen. A towel had fallen on the stove and was starting to burn. Pip tried to bark, but only a small 'yip' came out. No one would hear him! Thinking fast, he ran to his owner's bedroom. He jumped on the bed and started licking his owner's face again and again. His owner woke up, smelled the smoke, and quickly put out the small fire. Pip didn't have a loud bark, but he was a hero. He had used what he had to save his family.",
+    "moral": "You don't have to be loud to be brave and make a difference."
+  },
+  {
+    "id": 37,
+    "title": "The Day the Sun Slept In",
+    "author": "Dawn Lightly",
+    "genre": "fantasy",
+    "summary": "One morning, the sun decides it is too tired to rise. The animals must work together to sing the sun awake and bring back the day.",
+    "story": "One morning, the world stayed dark. The rooster crowed, but the sun did not rise. 'What's happening?' chirped a sparrow. High above, the sun was still snoozing behind a big, dark cloud. 'I'm just too tired today,' the sun murmured. Down below, the animals were worried. The flowers wouldn't open, and the world was cold. A wise old elephant had an idea. 'We must wake the sun with a song!' he trumpeted. So they all began to sing. The roosters crowed their loudest, the lions roared their deepest, the birds chirped their sweetest, and the frogs croaked their happiest. The beautiful sound floated up to the sky. The sun slowly peeked out from behind the cloud. It heard the beautiful music and felt the love from the world below. The sun smiled, and its bright, warm rays spread across the land, bringing back the day.",
+    "moral": "Working together can bring light and warmth to the world."
+  },
+  {
+    "id": 38,
+    "title": "The Clean-Up Crew",
+    "author": "Polly Lution",
+    "genre": "community",
+    "summary": "A group of friends decides to clean up their favorite park, which has become littered with trash. They inspire the whole neighborhood to help keep it clean.",
+    "story": "Maria, Sam, and Chloe loved playing in the park. But lately, it was covered in trash. There were plastic bottles, empty bags, and old newspapers everywhere. 'This is sad,' said Maria. 'We can't even play properly.' 'Let's do something about it!' said Sam. The three friends got trash bags and gloves. They started picking up all the litter. It was hard work. An adult walking his dog saw them. 'What a wonderful idea!' he said, and he started to help. Soon, other people from the neighborhood joined in. In a few hours, the park was sparkling clean! The friends made a big sign that said, 'Please Keep Our Park Clean!' From that day on, everyone worked together to keep the park beautiful. The friends learned that a few people working together can inspire a whole community.",
+    "moral": "Taking care of your community starts with you."
+  },
+  {
+    "id": 39,
+    "title": "The Girl with a Pocketful of Seeds",
+    "author": "Poppy Green",
+    "genre": "environment",
+    "summary": "A girl always carries seeds in her pocket and plants them in forgotten places. Over time, she transforms her grey city with surprise patches of color.",
+    "story": "Lila lived in a city that was mostly grey concrete. But Lila always had a secret in her pocket: seeds. Sunflower seeds, poppy seeds, and daisy seeds. As she walked to school, if she saw a forgotten patch of dirt by a wall or a crack in the pavement, she would poke a little hole with her finger and drop a seed in. She never knew if they would grow. But slowly, things began to change. One day, a bright yellow sunflower popped up next to a bus stop. A patch of red poppies appeared in a forgotten park corner. People started to notice. The little bursts of color made them smile. Lila never told anyone her secret, but as her grey city became a little more colorful, her heart filled with a secret joy. She was a secret gardener, making the world beautiful one seed at a time.",
+    "moral": "Small, quiet actions can create a lot of beauty in the world."
+  },
+  {
+    "id": 40,
+    "title": "The Penguin Who Hated the Cold",
+    "author": "Percy Brrr",
+    "genre": "animal tale",
+    "summary": "A penguin who dislikes the cold learns the importance of huddling with his friends and family. He finds that their warmth together is better than any sunny place.",
+    "story": "Percy was a penguin with a problem. He hated the cold. While the other penguins happily slid on the ice and swam in the chilly water, Percy shivered on the edge, dreaming of a warm, sunny beach. One day, a fierce, icy wind began to blow. It was the coldest day of the year. 'Huddle time!' called the oldest penguin. All the penguins squeezed together into a big, tight group to share their body heat. Percy didn't want to. He wanted to find shelter alone. But the wind was too strong. He was getting colder and colder. Finally, he waddled into the middle of the huddle. It was so warm! Surrounded by his friends and family, he felt safe and cozy. He realized that the best way to get through the cold wasn't to run away from it, but to face it together with the ones you love.",
+    "moral": "There is warmth and strength in family and community."
+  },
+  {
+    "id": 41,
+    "title": "The Boy Who Tried to Catch the Wind",
+    "author": "Gustav Gale",
+    "genre": "nature",
+    "summary": "A boy tries to catch the wind in a jar. He learns that some things are best enjoyed by experiencing them, not by possessing them.",
+    "story": "Leo loved the wind. He loved how it flew his kite and rustled the leaves. 'I want to keep the wind!' he decided. He got a big glass jar and ran outside. He swished the jar through the air and quickly screwed the lid on tight. 'I've got it!' he yelled. He took the jar to his room. But inside the jar, there was nothing. The wind was invisible and still. It didn't rustle or whoosh. It was just trapped air. Leo was disappointed. He opened the jar, and he felt a tiny puff of air on his cheek as it escaped. He went back outside and just stood with his arms outstretched. He felt the wind blow through his hair and against his face. He realized he could never own the wind, but he could always feel it and enjoy its wild freedom.",
+    "moral": "The best things in life are meant to be experienced, not owned."
+  },
+  {
+    "id": 42,
+    "title": "The Perfect Pet",
+    "author": "Noah Bark",
+    "genre": "family",
+    "summary": "A girl wants a pet, but her apartment is too small for a dog or cat. She discovers that a small, quiet pet like a fish can bring just as much joy.",
+    "story": "Maya desperately wanted a pet. She dreamed of a big, fluffy dog to play fetch with or a cuddly cat to sleep on her bed. But Maya's family lived in a small apartment. 'There's just not enough room,' her dad said kindly. Maya was very disappointed. One day, her mom brought home a small fishbowl. Inside swam a beautiful betta fish with fins that looked like blue and red silk. 'His name is Finny,' her mom said. At first, Maya was not excited. A fish couldn't play fetch or cuddle. But she started watching Finny. He would swim up to the glass to greet her. He would do little 'dances' when she fed him. She talked to him about her day. Soon, Maya loved Finny very much. He was a small, quiet friend, but he was the perfect pet for her.",
+    "moral": "The perfect thing for you might not be what you originally expected."
+  },
+  {
+    "id": 43,
+    "title": "The Mountain That Touched the Sky",
+    "author": "Everest Peak",
+    "genre": "adventure",
+    "summary": "A young goat wants to climb the highest mountain. Along the way, he learns that the journey and the friends he makes are more important than reaching the top.",
+    "story": "Barnaby was a young mountain goat who dreamed of one thing: climbing to the very top of the highest mountain, the one that seemed to touch the sky. He started his journey alone, leaping from rock to rock. Along the way, he met an old rabbit who shared his carrots and a wise eagle who showed him the safest paths. He spent an afternoon playing with a family of marmots. He was having so much fun that he almost forgot about reaching the peak. As the sun began to set, he was still far from the top. He felt a little sad. But then he looked down. He saw the friends he had made and remembered the stories they had shared. He realized that the goal wasn't just about getting to the top. It was about the adventure and the kindness he found along the path.",
+    "moral": "The journey is often more important than the destination."
+  },
+  {
+    "id": 44,
+    "title": "The Time-Telling Flower",
+    "author": "Daisy Clock",
+    "genre": "fantasy",
+    "summary": "A special flower opens its petals at sunrise and closes them at sunset. It helps a village without clocks know when to work, play, and rest.",
+    "story": "In a small village without any clocks, there grew a magical flower called the Sun-petal. Every morning, exactly when the sun rose, its bright yellow petals would open wide. This was the signal for the villagers to wake up and start their day. The farmers would go to their fields, and the children would go to school. Throughout the day, the flower would slowly turn to follow the sun across thesky. When the sun began to set in the evening, the Sun-petal's petals would gently close. This told everyone it was time to go home for dinner and rest. The flower was the village's clock. It taught them to live in harmony with the natural rhythm of the day. It was a simple life, but a happy one, all thanks to the wise and beautiful time-telling flower.",
+    "moral": "Nature has its own beautiful rhythm we can learn from."
+  },
+  {
+    "id": 45,
+    "title": "The Day It Rained Popcorn",
+    "author": "Kernel Puff",
+    "genre": "fantasy",
+    "summary": "A farming town is suffering from a drought until a clumsy young wizard accidentally makes it rain fluffy popcorn. The delicious mistake saves the town's spirit.",
+    "story": "The town of Dry Gulch was very dry. It hadn't rained for months, and the cornfields were sad and brown. A young wizard-in-training named Pip was trying to learn a rain spell. He mixed his potions and chanted his words, but he got the spell a little bit wrong. Instead of raindrops, something white and fluffy started to fall from the sky. It was popcorn! Fluffy, buttery popcorn rained down all over the town. At first, people were confused. Then, a little girl tasted a piece. 'It's delicious!' she shouted. Soon, everyone was outside, laughing and catching popcorn in buckets and in their mouths. It wasn't the rain they needed, but the silly, wonderful popcorn shower lifted everyone's spirits and brought the community together in laughter. And the next day, inspired by the magic, the real rain finally came.",
+    "moral": "Sometimes a happy mistake can lead to wonderful things."
+  },
+  {
+    "id": 46,
+    "title": "The Bridge of Kindness",
+    "author": "Faith Hope",
+    "genre": "fable",
+    "summary": "Two stubborn goats meet in the middle of a narrow bridge and refuse to move. A wise fox teaches them that cooperation is the only way for both to pass.",
+    "story": "Two very stubborn goats, Gus and Greg, met in the middle of a long, narrow bridge over a rushing river. 'Get out of my way!' bleated Gus. 'You get out of my way!' bleated Greg. They pushed and shoved, but neither would budge. They were stuck. A clever fox watching from the riverbank called up to them. 'If you keep fighting, you will both fall into the river.' The goats were too proud to listen. 'I have an idea,' said the fox. 'Gus, if you lie down on the bridge, Greg can carefully step over you. Then you can both get to the other side.' The goats thought about it. It was better than falling into the water. So Gus carefully lay down, and Greg carefully stepped over him. They had to work together. They learned that being stubborn gets you nowhere, but cooperation helps everyone move forward.",
+    "moral": "It is better to cooperate than to be stubborn and get nowhere."
+  },
+  {
+    "id": 47,
+    "title": "The Silent Storyteller",
+    "author": "Mime Teller",
+    "genre": "arts",
+    "summary": "A new girl at school cannot speak but is a wonderful mime. She tells amazing stories with her hands and face, teaching her new friends that there are many ways to communicate.",
+    "story": "There was a new girl at school named Elodie. Elodie didn't talk. Some kids thought she was strange. During show-and-tell, Elodie went to the front of the class. She didn't say a word. Instead, she started to move her hands. She pretended to climb a tall ladder into the clouds. She acted out finding a big, fluffy dog and giving it a bath, getting soaked in the process. Her face showed every emotion: fear, surprise, and great happiness. The whole class was silent, watching her. They understood her story perfectly, even without words. When she was finished, everyone clapped louder than they ever had before. Elodie smiled. The kids learned that you don't need a voice to tell a wonderful story. There are many ways to share what is in your heart.",
+    "moral": "Communication comes in many forms, not just words."
+  },
+  {
+    "id": 48,
+    "title": "The Little Boat That Could",
+    "author": "Poppy Skipper",
+    "genre": "adventure",
+    "summary": "A small toy boat gets swept into a big river. It bravely navigates big waves and strange new places, learning that it is much stronger than it looks.",
+    "story": "Sam made a little boat out of a walnut shell and a leaf for a sail. He floated it in a small puddle. But a sudden rush of water from a sprinkler washed the little boat into a gutter, which flowed into a big stream. The little boat was scared. It was tossed by tiny waves that felt like mountains. It sailed past giant dragonflies and grumpy frogs. It spun in whirlpools and dodged big, scary water bugs. The little boat just held its leaf-sail high and kept going. It sailed all day, on a much bigger adventure than it ever expected. Finally, it drifted to the edge of the stream, where another child found it. The little boat was tired, but it was proud. It had been on a grand voyage and learned that even though it was very small, it was also very brave and strong.",
+    "moral": "You are braver and stronger than you think."
+  },
+  {
+    "id": 49,
+    "title": "The Garden of Forgiveness",
+    "author": "Rosemary Rue",
+    "genre": "friendship",
+    "summary": "Two friends have an argument and stop speaking. They each plant a flower on their side of the fence, and as the flowers grow and intertwine, they are reminded of their friendship.",
+    "story": "Lily and Tom were best friends, but one day they had a big argument. They stopped talking to each other. Lily went to her garden on her side of the fence and angrily planted a sunflower seed. On the other side of the fence, Tom angrily planted a bean seed. They didn't speak, but they both watered their plants every day. The sunflower grew tall, and the beanstalk grew fast. Soon, the sunflower peeked over the fence. The beanstalk's vines wrapped gently around the sunflower's stem. Seeing the two plants growing together, Lily and Tom felt sad about their fight. The plants didn't care about the argument; they just wanted to reach for the sun together. Lily walked to the fence. 'I'm sorry,' she said. 'Me too,' said Tom. Their friendship, like the plants, began to grow again.",
+    "moral": "Friendship, like a garden, needs care and forgiveness to grow."
+  },
+  {
+    "id": 50,
+    "title": "The Magical Echo",
+    "author": "Holly Cavern",
+    "genre": "fable",
+    "summary": "A boy shouts angry words into a cave and hears them back. When he shouts kind words, he hears those back, learning that the world often gives you back what you put into it.",
+    "story": "A young boy named Kai was feeling very grumpy. He went for a walk in the hills and found a cave. He stood at the entrance and shouted, 'I am angry!' From deep inside the cave, a voice shouted back, 'I am angry!' Kai was surprised and a little scared. He shouted, 'You are mean!' The voice echoed back, 'You are mean!' Kai ran home and told his mother about the mean boy in the cave. His mother smiled and said, 'Go back, and this time, try shouting something nice.' Kai went back to the cave. He took a breath and shouted, 'You are kind!' The voice from the cave answered, 'You are kind!' Kai smiled. He shouted, 'I like you!' and the echo replied, 'I like you!' He learned a simple but important lesson about life and about people.",
+    "moral": "Life often echoes back to you what you say and do."
+  }
+]
