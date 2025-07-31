@@ -1,0 +1,22 @@
+{
+  "name": "NovaLearn ",
+  "short_name": "Nova",
+  "description": "CBC study app - Offline and Installable",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#312e81",
+  "theme_color": "#1f2937",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/novalearn.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/novalearn.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

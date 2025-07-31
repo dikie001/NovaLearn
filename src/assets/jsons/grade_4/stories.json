@@ -1,0 +1,453 @@
+[
+  {
+    "id": 1,
+    "title": "The Magical Treehouse Adventure",
+    "author": "Leo Ashworth",
+    "genre": "Fantasy",
+    "summary": "Two friends discover a treehouse that can travel to any place they can imagine.",
+    "story": "Mia and her best friend, Sam, found an old treehouse in the woods behind their homes. It looked ordinary, with a rope ladder and a crooked window. But when Mia wished they were on a sandy beach, the treehouse started to shake! They looked out the window and saw sparkling blue water and palm trees. They had teleported! Next, Sam wished they were in a candy castle. The treehouse zoomed through the clouds and landed in a world made of gingerbread and lollipops. They spent the whole day exploring amazing worlds, from dinosaur jungles to cities in the sky. They learned that the treehouse was powered by their imagination. As the sun began to set, they wished to be home. The treehouse gently landed back in the woods. They promised to keep their magical treehouse a secret and planned their next adventure.",
+    "moral": "Imagination is the most powerful magic of all."
+  },
+  {
+    "id": 2,
+    "title": "Leo the Lion's Lost Roar",
+    "author": "Zara Imani",
+    "genre": "Animal Tale",
+    "summary": "A young lion goes on a journey to find his roar with the help of his friends.",
+    "story": "Leo was a young lion who couldn't roar. He could only make a tiny squeak. All the other lions had big, loud roars. Feeling sad, Leo went to find his roar. First, he met a monkey. 'Can you help me find my roar?' Leo asked. The monkey taught him to shout from the treetops, but it didn't work. Then, he met an elephant. The elephant showed him how to make a loud trumpet sound, but that wasn't a roar either. Finally, he met a wise old owl. The owl told him, 'A roar comes from your heart, when you feel brave.' Just then, a scared little rabbit was cornered by a hyena. Leo felt a surge of courage. He stood tall, took a deep breath, and let out the biggest, loudest ROAR he had ever heard! The hyena ran away, and the rabbit was safe. Leo had found his roar by being brave for a friend.",
+    "moral": "True courage comes from helping others."
+  },
+
+  {
+    "id": 3,
+    "title": "Grandma's Secret Recipe",
+    "author": "Isla Rose",
+    "genre": "Family",
+    "summary": "A young girl tries to bake her grandma's famous cookies and learns the secret ingredient.",
+    "story": "Lily loved her Grandma's chocolate chip cookies more than anything. They were soft, chewy, and perfect. One day, she asked for the recipe. Grandma smiled and gave her a list of ingredients. Lily followed the instructions carefully. She mixed the flour, sugar, butter, and chocolate chips. But when the cookies came out of the oven, they didn't taste the same. They were good, but not Grandma-good. Lily tried again, but the result was the same. 'What's the secret ingredient, Grandma?' she finally asked. Her grandma hugged her. 'The secret ingredient isn't on the list,' she whispered. 'It's the love you put into making them.' Lily realized she had been so focused on getting it right that she forgot to enjoy it. The next time, she baked with a happy heart, thinking about how much her family would love the cookies. And this time, they tasted just like Grandma's.",
+    "moral": "Doing things with love makes them extra special."
+  },
+  {
+    "id": 4,
+    "title": "The Mystery of the Missing Toy",
+    "author": "Finn Carter",
+    "genre": "Friendship",
+    "summary": "When a favorite toy goes missing, two friends must work together as detectives to solve the case.",
+    "story": "Tom's favorite toy car, a shiny red racer, was gone. He looked everywhere, but it had vanished. His friend, Chloe, decided they should be detectives. 'Detective Chloe is on the case!' she announced, wearing her dad's big sunglasses. They looked for clues. They found a trail of small footprints in the mud outside. The footprints led to the backyard fence. Peeking through a hole, they saw their neighbor's new puppy, Buster, chewing on something red. It was the racer! They didn't get mad. They knew Buster was just a puppy. They politely asked their neighbor if they could have the toy back. The neighbor apologized and gave them the slightly chewed car. Tom was just happy to have it back. To thank Buster for the adventure, they gave him a new chew toy to play with. They had solved the mystery together.",
+    "moral": "Teamwork can solve any problem, big or small."
+  },
+  {
+    "id": 5,
+    "title": "A Quick Trip to the Moon",
+    "author": "Orion Sky",
+    "genre": "Fantasy",
+    "summary": "A boy builds a cardboard rocket and dreams of an adventure to the moon.",
+    "story": "Alex wanted to go to the moon. He took a big cardboard box, some foil, and lots of tape. He built a rocket ship in his living room. He even made a helmet from a paper bag. 'Ready for liftoff!' he shouted. He closed his eyes and counted down, 'Five, four, three, two, one, BLAST OFF!' He imagined his rocket soaring through the stars. When he opened his eyes, he was on the moon! The ground was dusty and gray, and he could jump super high. He bounced around, collecting moon rocks, which looked a lot like pebbles from his driveway. He saw Earth, a beautiful blue and white marble in the black sky. After a while, he got hungry. He flew his rocket back home, just in time for dinner. His mom asked, 'How was your trip?' 'It was out of this world!' Alex said with a grin, his pockets full of 'moon rocks'.",
+    "moral": "Your imagination can take you anywhere you want to go."
+  },
+  {
+    "id": 6,
+    "title": "The Brave Little Squirrel",
+    "author": "Hazel Meadows",
+    "genre": "Animal Tale",
+    "summary": "A small squirrel must find the courage to gather nuts for the winter.",
+    "story": "Squeaky was the smallest squirrel in his family. He was afraid of everything: loud noises, big birds, and especially climbing the tallest oak tree where the best acorns grew. Winter was coming, and the family needed to store food. His brothers and sisters scampered up the tree easily, but Squeaky stayed on the lowest branch, trembling. His mother came to him. 'It's okay to be scared,' she said gently. 'Bravery isn't about not being afraid. It's about doing it anyway.' Squeaky thought about his warm, cozy nest and how hungry everyone would be without enough food. He took a deep breath, looked up, and started to climb. He went one branch at a time, focusing only on the next step. Before he knew it, he was at the top! He gathered the biggest, crunchiest acorns and scurried back down, his heart full of pride. He was small, but he was brave.",
+    "moral": "Bravery is taking one small step at a time, even when you're scared."
+  },
+  {
+    "id": 7,
+    "title": "The Day I Swapped With My Dog",
+    "author": "Max Rover",
+    "genre": "Fantasy",
+    "summary": "A boy magically switches bodies with his dog for a day and learns an important lesson.",
+    "story": "One morning, Jake woke up on the floor. He tried to stand up, but he was on four paws! He looked in the mirror and saw his dog, Buddy, staring back at him with his own eyes. They had swapped bodies! At first, it was fun. Jake, as Buddy, got to chase squirrels and get belly rubs. Buddy, as Jake, got to eat cereal at the table and play video games. But soon, Jake realized being a dog was hard. He couldn't talk to his parents, and he had to eat kibble for lunch. He missed being a boy. Buddy also found out that being a human was complicated. He had to go to school and do homework, which was very boring for a dog. By the end of the day, they both wished they could switch back. As they fell asleep, they wished with all their might. The next morning, Jake woke up in his bed, and Buddy was wagging his tail on the floor. Jake gave his dog a big hug, happy to be himself again.",
+    "moral": "It's important to appreciate your own life and experiences."
+  },
+  {
+    "id": 8,
+    "title": "The Soccer Match Surprise",
+    "author": "Sofia Garcia",
+    "genre": "Friendship",
+    "summary": "A team learns that winning isn't everything when their star player gets injured.",
+    "story": "The Green Dragons were in the final soccer match. Their star player, Maya, could score a goal from anywhere. But halfway through the game, Maya twisted her ankle and had to sit on the bench. The team was devastated. 'We can't win without her!' cried Ben, the goalie. Their coach gathered them together. 'Maya is one player,' he said. 'But you are a team. Play for each other.' The Green Dragons went back on the field. They didn't have Maya's amazing kicks, but they had something else: teamwork. They passed the ball, communicated, and protected their goal together. They didn't score again, and they lost the game by one point. But as they walked off the field, they weren't sad. They were proud. They had played their best and supported each other. Maya cheered for them from the bench, the loudest of all. They learned that playing together as a team was its own kind of victory.",
+    "moral": "Working together is more important than winning."
+  },
+  {
+    "id": 9,
+    "title": "My Family's Camping Trip",
+    "author": "River Stone",
+    "genre": "Family",
+    "summary": "A family's camping trip is full of small disasters, but they learn to laugh and have fun anyway.",
+    "story": "This year's family camping trip was a mess. First, Dad forgot the tent poles. They had to tie the tent to a tree, and it looked like a sad, droopy mushroom. Then, Mom dropped the hot dogs in the dirt. They had to eat peanut butter sandwiches for dinner. At night, it started to rain, and the droopy tent leaked. Everyone was damp and grumpy. My little sister, Ava, started to cry. But then Dad started making funny shadow puppets on the tent wall. He made a rabbit and a silly-looking monster. Soon, we were all laughing. We told stories and sang songs until we fell asleep. The next morning, the sun was shining. The trip wasn't perfect, but it was memorable. We learned that even when things go wrong, being together and making the best of it is what really matters. It was the best worst camping trip ever.",
+    "moral": "The best memories are made when you can find joy in imperfect moments."
+  },
+  {
+    "id": 10,
+    "title": "The Girl Who Talked to Birds",
+    "author": "Skye Lark",
+    "genre": "Fantasy",
+    "summary": "A quiet girl discovers she has a special ability to communicate with birds.",
+    "story": "Elara was a very quiet girl. She preferred listening to talking. One day, while sitting in the park, a small bluebird landed on the bench next to her. It chirped a sad little song. Without thinking, Elara chirped back, 'What's wrong, little one?' To her surprise, the bird understood! It told her it had lost its way to its nest. Elara discovered she could understand the language of birds. She helped the bluebird find its family in the big maple tree. Soon, all the birds in the neighborhood knew about Elara. They would come to her with their problems. A robin needed help finding juicy worms, and a crow had lost its favorite shiny bottle cap. Elara loved her new friends. She wasn't just the quiet girl anymore; she was the girl who listened to the birds. Her secret gift made her feel special and connected to the world in a whole new way.",
+    "moral": "Everyone has a unique talent that makes them special."
+  },
+  {
+    "id": 11,
+    "title": "The Lost Dolphin",
+    "author": "Coral Waters",
+    "genre": "Animal Tale",
+    "summary": "A young dolphin gets separated from its family and must be brave to find its way back.",
+    "story": "Echo, a young dolphin, loved to play. He chased fish and did flips in the water. One day, he chased a sparkling fish farther than he ever had before. When he looked around, his family was gone. The ocean suddenly felt huge and lonely. Echo was scared, but he knew he had to be brave. He remembered his mother's song, a series of clicks and whistles she used to call him. He swam to the surface, took a deep breath, and sang the song as loudly as he could. He listened, but only heard the waves. He didn't give up. He swam and sang, swam and sang. He met a wise old sea turtle who told him to follow the warm current. Echo followed the advice. After a long swim, he heard a faint reply. It was his mother's song! He followed the sound and found his family. They were so happy to see him. Echo had learned that even when you are lost, you must never lose hope.",
+    "moral": "Even when you feel lost, courage and hope can guide you home."
+  },
+  {
+    "id": 12,
+    "title": "Building the Best Fort Ever",
+    "author": "Noah Brooks",
+    "genre": "Friendship",
+    "summary": "A group of friends with different ideas learns to compromise to build an amazing fort.",
+    "story": "Four friends decided to build a fort in the woods. But everyone had a different idea. Liam wanted a tall tower. Sarah wanted a secret trapdoor. Ben wanted a comfortable reading nook with pillows. And Emily wanted to paint it bright purple. They started to argue. 'A tower is more important!' said Liam. 'No, comfort is!' said Ben. They couldn't agree on anything, so they all started building their own little sections. Liam's tower was wobbly, Sarah's trapdoor led nowhere, Ben's nook was too small, and Emily only had enough paint for one wall. They looked at their messy, unfinished fort and felt disappointed. Finally, Sarah said, 'What if we combine our ideas?' They decided to work together. They used Liam's idea for a lookout post on top, built Sarah's trapdoor as a secret entrance, added Ben's cozy pillow corner inside, and used Emily's paint to make a cool purple flag. The fort was amazing, better than any of them could have built alone.",
+    "moral": "Great things can be built when we listen to each other and work together."
+  },
+  {
+    "id": 13,
+    "title": "The Time-Traveling Backpack",
+    "author": "Alex Wells",
+    "genre": "Fantasy",
+    "summary": "A boy finds a backpack that takes him to different historical time periods.",
+    "story": "When Kevin bought an old backpack at a garage sale, he had no idea it was magical. Inside, he found a strange dial with dates on it. He curiously turned it to '100 years ago' and pressed a button. Whoosh! His room disappeared, and he was standing on a cobblestone street with horse-drawn carriages. He had traveled back in time! He spent the day exploring, careful not to change anything. The next day, he turned the dial to the time of the dinosaurs. He peeked out of the backpack and saw a giant Brachiosaurus munching on leaves. It was incredible but also a little scary, so he quickly returned to his own time. He learned about history in the most exciting way possible. He saw pyramids being built and knights in shining armor. The backpack showed him that the world has always been full of amazing stories and people. He knew he had to use his secret responsibly and learn as much as he could.",
+    "moral": "History is full of incredible adventures waiting to be discovered."
+  },
+  {
+    "id": 14,
+    "title": "A Surprise Birthday Party",
+    "author": "Grace Kim",
+    "genre": "Family",
+    "summary": "Two siblings work together to plan a surprise party for their mom.",
+    "story": "It was Mom's birthday, and Maya and Leo wanted to do something special. 'Let's throw her a surprise party!' Maya whispered. They made a plan. Maya was in charge of decorations, and Leo was in charge of the cake. Maya made a long paper chain and drew a big 'Happy Birthday' banner. Leo, with a little help from Dad, mixed the batter for a chocolate cake. It was a secret mission. They had to hide everything whenever Mom came into the room. It was hard not to giggle. When Mom went out to the grocery store, it was time to act fast. They hung the decorations, set the table, and put candles on the cake. When Mom walked through the door, they jumped out and yelled, 'SURPRISE!' Mom's face lit up with the biggest smile. She hugged them both tightly. 'This is the best birthday ever,' she said. The cake was a little lopsided, and the banner was crooked, but it was a perfect party because they had made it with love.",
+    "moral": "The best gifts are the ones that come from the heart."
+  },
+  {
+    "id": 15,
+    "title": "The Grumpy Bear Next Door",
+    "author": "Willow Creek",
+    "genre": "Animal Tale",
+    "summary": "A kind rabbit tries to befriend her grumpy bear neighbor.",
+    "story": "Barnaby the bear was very grumpy. He lived next door to a cheerful rabbit named Rosie. Whenever Rosie said 'Good morning!', Barnaby would just grumble. One day, Rosie decided she was going to make the grumpy bear smile. She baked him a carrot cake, his favorite. She left it on his doorstep, but he just grumbled and took it inside. The next day, she picked him a bouquet of bright yellow dandelions. He grumbled but put them in a jar. Rosie didn't give up. She saw that Barnaby's mailbox was broken, so she fixed it for him. The next morning, when Rosie said 'Good morning!', Barnaby didn't grumble. He said, 'Thank you for fixing my mailbox.' And then, he did something amazing. He smiled! It was a small, shy smile, but it was a start. Rosie learned that sometimes, all a grumpy person needs is a little bit of kindness.",
+    "moral": "A little kindness can make a big difference."
+  },
+  {
+    "id": 16,
+    "title": "The Science Fair Project",
+    "author": "Omar Ali",
+    "genre": "Friendship",
+    "summary": "Two friends with a failed science project learn that mistakes can lead to new discoveries.",
+    "story": "For the science fair, Liam and Ava decided to build a model volcano. They worked for weeks, building a big paper-mache mountain and mixing the 'lava' ingredients: vinegar and baking soda. On the day of the fair, they stood proudly by their project. When it was their turn, they poured the vinegar into the volcano's crater. But instead of a huge eruption, it just fizzed a little and then stopped. They were so embarrassed. They felt like failures. But then, Ava noticed something. The fizzy mixture had overflowed and was bubbling around a small plant they had used for decoration. The plant's leaves were covered in tiny bubbles. 'Look!' she said. 'We accidentally made a bubble machine for plants!' They explained their mistake to the judge but also showed her their new discovery. The judge was impressed by their honesty and their ability to see something new in their failure. They didn't win first prize, but they learned that science is all about trying, failing, and learning from your mistakes.",
+    "moral": "Mistakes are not failures; they are opportunities to learn something new."
+  },
+  {
+    "id": 17,
+    "title": "The Enchanted Forest Adventure",
+    "author": "Faye Woods",
+    "genre": "Fantasy",
+    "summary": "A brother and sister follow a sparkling path into a forest filled with magical creatures.",
+    "story": "While walking in the woods, siblings Finn and Willow saw a path they had never seen before. It shimmered with a soft, golden light. Curious, they followed it deep into the forest. The trees began to have silver leaves, and the flowers glowed with gentle colors. They had entered an enchanted forest! They met tiny, winged pixies who giggled and sprinkled them with sparkling dust that made them float for a few seconds. They shared their lunch with a unicorn whose horn glowed with rainbow light. They even helped a gnome find his lost spectacles. The gnome was so grateful that he gave them each a smooth, gray stone. 'Hold this if you ever need to find your way,' he said. As evening approached, they knew they had to go home. They followed the sparkling path back out of the forest, the magic fading behind them. They held their stones tightly, knowing they would never forget their adventure in the enchanted forest.",
+    "moral": "There is magic and wonder to be found if you are brave enough to explore."
+  },
+  {
+    "id": 18,
+    "title": "My First Day at a New School",
+    "author": "Chloe Zhang",
+    "genre": "Friendship",
+    "summary": "A nervous girl finds a new friend on her first day at a new school.",
+    "story": "It was Sarah's first day at a new school, and her stomach was full of butterflies. She didn't know anyone. She walked into the classroom and sat at an empty desk in the back. At recess, everyone ran out to the playground in their groups. Sarah stood by the wall, feeling lonely. A girl with a bright pink bow in her hair came up to her. 'Hi, I'm Emily,' she said. 'Do you want to play on the swings?' Sarah was surprised. 'Okay,' she whispered. They swung so high it felt like they could touch the clouds. They talked about their favorite colors and animals. Emily showed Sarah the best spot to find ladybugs. By the end of the day, Sarah's stomach wasn't full of butterflies anymore. It was full of happy feelings. Making one new friend had made the big, scary school feel friendly and welcoming. She couldn't wait to come back tomorrow.",
+    "moral": "A simple act of kindness can make someone feel welcome."
+  },
+  {
+    "id": 19,
+    "title": "The Penguin Who Wanted to Fly",
+    "author": "Percy Iceberg",
+    "genre": "Animal Tale",
+    "summary": "A penguin tries everything to fly, only to discover his own special talent.",
+    "story": "Pip was a penguin who dreamed of flying. He watched the albatrosses soar high above the ocean and wished he could join them. He tried everything. He flapped his wings as hard as he could, running along the ice. He just flopped onto his belly. He climbed to the top of a tall snowdrift and jumped off, flapping furiously. He just slid all the way down. He felt like a failure. A wise old seal saw him looking sadly at the sky. 'Why do you want to fly so much?' the seal asked. 'Because it looks like so much fun!' Pip said. The seal smiled. 'You may not be able to fly in the air,' he said, 'but have you ever tried flying in the water?' Pip had never thought of it that way. He dove into the icy ocean. He used his wings as flippers, and he zoomed through the water. He twisted and turned, faster than any fish. He was flying! He realized he didn't need to be like the albatrosses. He was a penguin, and he was a magnificent swimmer.",
+    "moral": "Embrace what makes you unique, because that is your superpower."
+  },
+  {
+    "id": 20,
+    "title": "A Rainy Day Treasure Hunt",
+    "author": "April Showers",
+    "genre": "Family",
+    "summary": "A dad creates an indoor treasure hunt to cure his kids' rainy-day boredom.",
+    "story": "It was raining so hard that Ben and his sister, Lucy, couldn't play outside. 'I'm so bored!' Ben groaned. Just then, their dad came in with a mysterious-looking scroll. 'I've made a treasure hunt for you!' he announced. The first clue was a riddle that led them to the washing machine. Taped inside was the next clue. They raced all over the house, solving riddles and finding clues in the silliest places: inside a shoe, under the sofa cushions, and even in the vegetable drawer of the fridge! The final clue led them to their playroom. In the middle of the room was a big box. They opened it excitedly. Inside was not gold or jewels, but something even better: a brand new board game, a big bag of popcorn, and a note that said, 'The real treasure is having fun together.' The rain didn't seem so boring anymore. They spent the rest of the afternoon playing the game and eating popcorn as a family.",
+    "moral": "You can find fun and adventure anywhere, even inside your own home."
+  },
+  {
+    "id": 21,
+    "title": "The Dragon Who Loved Tacos",
+    "author": "Ignatius Pepper",
+    "genre": "Fantasy",
+    "summary": "A friendly dragon's love for spicy tacos causes some fiery problems for a nearby village.",
+    "story": "Ferdinand was not like other dragons. He didn't hoard gold or scare knights. Ferdinand loved tacos. The spicier, the better! The problem was, whenever he ate a really spicy taco, he would get the hiccups. And a dragon's hiccup wasn't a small 'hic!'. It was a big puff of fire! The villagers nearby were getting tired of their haystacks catching on fire. They went to Ferdinand's cave. 'Please, Ferdinand,' said the mayor. 'No more spicy tacos!' Ferdinand was very sad. He loved tacos. A clever girl named Isabella had an idea. 'What if we made you tacos that weren't spicy?' she asked. She brought him tacos filled with cheese, lettuce, and mild salsa. Ferdinand tried one. It was delicious! And best of all, no fiery hiccups. From then on, the villagers would bring Ferdinand mild tacos every Tuesday, and Ferdinand would use his gentle fire-breathing to light their festival bonfires. Everyone was happy.",
+    "moral": "Finding a compromise can make everyone happy."
+  },
+  {
+    "id": 22,
+    "title": "The Kindest Kid in Class",
+    "author": "Amelia Heart",
+    "genre": "Friendship",
+    "summary": "A boy learns that small acts of kindness can have a big impact on his classmates.",
+    "story": "Daniel wanted to be known for something. He wasn't the best at sports or the smartest in math. One day, he saw his classmate, Maria, drop all her pencils. He helped her pick them up. She gave him a big smile. It felt good. So, Daniel decided he would try to do one kind thing every day. He held the door open for his teacher. He shared his crayons with a boy who had forgotten his. He told a friend that he liked his drawing. They were small things, but he noticed a change. People started smiling at him more. They invited him to play at recess. At the end of the year, the teacher gave out special awards. Daniel didn't get 'Best Athlete' or 'Top Student'. He got an award for 'Kindest Classmate'. Everyone clapped loudly. Daniel realized that he didn't need to be the best at everything. Being kind was his special talent, and it was the most important one of all.",
+    "moral": "Kindness is a superpower that everyone can have."
+  },
+  {
+    "id": 23,
+    "title": "The Koala Who Couldn't Sleep",
+    "author": "Eucalyptus Green",
+    "genre": "Animal Tale",
+    "summary": "A young koala seeks advice from other Australian animals to learn how to fall asleep.",
+    "story": "Kiki the koala could not fall asleep. She tossed and turned in her eucalyptus tree, while all the other koalas were snoozing. She decided to ask other animals for advice. First, she found a kangaroo. 'How do you sleep?' she asked. 'I just lie down in the cool grass,' the kangaroo said. Kiki tried it, but the grass was too itchy. Next, she asked a kookaburra. 'I just laugh myself to sleep!' the bird cackled. Kiki tried to laugh, but it just made her feel more awake. Finally, she met a wise old wombat. 'What's on your mind, little one?' the wombat asked. Kiki explained that she was worried about not being able to find the tastiest leaves tomorrow. The wombat nodded. 'Worrying keeps you awake,' he said. 'Think of something calm. Think of the leaves gently swaying in the breeze.' Kiki climbed back up her tree, closed her eyes, and thought of the peaceful, swaying leaves. Before she knew it, she was fast asleep.",
+    "moral": "A calm mind helps you find rest."
+  },
+  {
+    "id": 24,
+    "title": "Moving to a New House",
+    "author": "Jasmine Villa",
+    "genre": "Family",
+    "summary": "A child is sad about moving but discovers that home is about family, not just a place.",
+    "story": "Leo was standing in his empty room. All his toys and books were in boxes. His family was moving to a new house in a different city. He was going to miss his room, his friends, and the big tree in the backyard he loved to climb. A tear rolled down his cheek. His dad came in and sat next to him. 'I know it's hard to leave,' he said. 'But a house is just walls and a roof. A home is wherever we are together.' When they got to the new house, it felt strange and empty. But then, they started to unpack. Leo put his favorite posters on the new walls. His mom put their family pictures on the mantelpiece. Soon, the house started to smell like their old one, as Mom cooked their favorite spaghetti for dinner. That night, tucked into his bed, Leo realized his dad was right. Even though the house was different, he was still with his family. He was home.",
+    "moral": "Home is not a place, it's the people you love."
+  },
+  {
+    "id": 25,
+    "title": "The Secret of the Hidden Garden",
+    "author": "Ivy Thorne",
+    "genre": "Fantasy",
+    "summary": "A girl finds a key that unlocks a forgotten, magical garden in her own backyard.",
+    "story": "Clara was exploring the farthest corner of her new backyard when she found a rusty key half-buried in the dirt. It looked very old. Nearby, covered in ivy, was a small wooden door in the stone wall. She had never noticed it before. With a little effort, she put the key in the lock and turned. The door creaked open. Inside was a secret garden. It was overgrown and wild, but it was beautiful. There was a sundial covered in moss, a tiny pond with sparkling water, and flowers she had never seen before. Butterflies with wings like stained glass fluttered all around. It felt like a magical, secret world that was all hers. She spent the whole summer tending to the garden, pulling weeds and planting new seeds. It became her special place to read and dream. She learned that sometimes, the most wonderful secrets are hidden right where you are.",
+    "moral": "There are hidden treasures waiting to be discovered all around you."
+  },
+  {
+    "id": 26,
+    "title": "The Sleepover Ghost Story",
+    "author": "Sam Knight",
+    "genre": "Friendship",
+    "summary": "A scary ghost story at a sleepover leads to a funny misunderstanding.",
+    "story": "It was Maya's first sleepover. She and her friends, Lily and Chloe, were huddled under a blanket with a flashlight. 'Let's tell ghost stories!' Lily whispered. Chloe told a spooky story about a ghost that rattled chains and moaned in the night. Suddenly, they heard a noise from downstairs. SCRAPE... DRAG... MOAN... The girls screamed and hid under the blanket. 'It's the ghost!' Maya cried. They were terrified. They stayed hidden for what felt like forever, listening to the spooky sounds. Finally, they gathered their courage and decided to peek. They crept to the top of the stairs and looked down. It wasn't a ghost at all! It was Maya's dad, trying to quietly move a heavy armchair across the living room floor. The 'moan' was just him groaning from the effort. The girls burst out laughing. Their scary ghost was just a dad moving furniture. They learned that sometimes, your imagination can be scarier than reality.",
+    "moral": "Things are not always as scary as they seem."
+  },
+  {
+    "id": 27,
+    "title": "The Fox and the Clever Crow",
+    "author": "Fable Finch",
+    "genre": "Animal Tale",
+    "summary": "A clever crow outsmarts a flattering fox who wants to steal its cheese.",
+    "story": "A crow was sitting on a branch with a big piece of cheese in its beak. A sly fox saw the cheese and wanted it for himself. He knew he couldn't climb the tree, so he decided to use his words. 'Oh, beautiful crow!' the fox said, looking up. 'Your feathers are so shiny, and your eyes are so bright! I bet your voice is just as lovely. Won't you sing a song for me?' The crow was very proud. He had never been called beautiful before. He wanted to show the fox his amazing voice. He puffed out his chest, opened his beak, and let out a loud 'CAW!'. Of course, the moment he opened his beak, the cheese fell out and landed right in the fox's waiting mouth. The fox gobbled it up and trotted away, laughing. The crow was left on the branch, feeling very foolish. He had learned a hard lesson.",
+    "moral": "Be careful of people who give you too much praise; they might want something from you."
+  },
+  {
+    "id": 28,
+    "title": "A Visit to the Fire Station",
+    "author": "Captain Miller",
+    "genre": "Family",
+    "summary": "A family trip to the local fire station teaches a young boy about real-life heroes.",
+    "story": "For his birthday, Ben's dad took him to visit the local fire station. Ben loved superheroes, but he was about to meet some real ones. A friendly firefighter named Maria showed them around. She let Ben sit in the driver's seat of the huge, red fire engine. He saw the long hoses, the shiny helmets, and the big ladder. Maria explained that firefighters don't just put out fires. They help people in car accidents and rescue cats from trees. 'Being a hero isn't about having superpowers,' she told him. 'It's about being brave and helping people who are in trouble.' Just then, the alarm bell rang loudly. The firefighters slid down the pole, put on their gear, and were in the truck in less than a minute. As the engine sped away with its sirens wailing, Ben watched in awe. He decided that when he grew up, he wanted to be a real hero, just like them.",
+    "moral": "Real heroes are the ordinary people who help others every day."
+  },
+  {
+    "id": 29,
+    "title": "The Boy with Super Speed",
+    "author": "Dash Swift",
+    "genre": "Fantasy",
+    "summary": "A boy with super speed learns to use his powers to help others, not just to win.",
+    "story": "Leo could run faster than anyone. He could run to school in ten seconds and win every race at recess without even trying. At first, it was awesome. He loved winning. But soon, it became boring. No one wanted to race him anymore because they knew they would lose. One day, he saw Mrs. Gable, his elderly neighbor, drop her bag of groceries. Apples rolled all over the sidewalk. Before anyone could even move, Leo zipped around and collected every single apple, placing them gently back in her bag. 'My goodness!' she said. 'You were a blur!' For the first time, Leo had used his speed to help someone, not just to show off. It felt better than winning any race. From then on, he looked for ways to use his power for good. He would deliver forgotten homework, find lost pets, and help set up for school events in record time. He was still the fastest boy in town, but now he was also the most helpful.",
+    "moral": "The best way to use your talents is to help others."
+  },
+  {
+    "id": 30,
+    "title": "The Class Pet Problem",
+    "author": "Hannah Potter",
+    "genre": "Friendship",
+    "summary": "Two friends who are supposed to share a class pet learn about responsibility.",
+    "story": "When their class got a hamster named Pip, Jake and Maria were chosen to take care of him for the first week. They were supposed to share the duties. But on the first day, Jake forgot to give Pip fresh water. The next day, Maria forgot to clean the cage. They both thought the other person would do it. Soon, Pip's cage was messy and his water bottle was empty. Their teacher, Mr. Davis, noticed. He didn't get angry. He just said, 'Pip is counting on both of you. When you share a responsibility, you have to communicate and work as a team.' Jake and Maria felt terrible. They had let Pip down. That afternoon, they made a chart. Jake would be in charge of food and water, and Maria would be in charge of cleaning the cage. They worked together to give Pip the cleanest cage and the freshest food. They learned that responsibility isn't about blaming someone else; it's about doing your part.",
+    "moral": "Responsibility means working together and doing your part."
+  },
+  {
+    "id": 31,
+    "title": "The Monkey Who Lost His Laugh",
+    "author": "Giggles McGee",
+    "genre": "Animal Tale",
+    "summary": "A cheerful monkey loses his laugh and his friends help him find it again.",
+    "story": "Miko the monkey had the best laugh in the jungle. It was a cheerful, bubbly sound that made everyone smile. But one morning, Miko woke up and his laugh was gone. He tried to laugh at his friend the parrot's silly jokes, but nothing came out. The jungle felt quiet and sad without Miko's laugh. His friends decided to help. The elephant tried to make him laugh by spraying water, but Miko just got wet. The sloths told him a very, very slow joke, but he fell asleep before the punchline. Finally, a tiny hummingbird had an idea. It flew up to Miko and started tickling him under his chin with its little beak. At first, nothing happened. But the hummingbird kept tickling. A small chuckle escaped. Then a giggle. And then, Miko's big, bubbly laugh came roaring back, louder than ever! He was so happy, he couldn't stop laughing. His friends had reminded him that sometimes, you just need a little tickle to find your joy.",
+    "moral": "Friends can help you find your happiness, even when it feels lost."
+  },
+  {
+    "id": 32,
+    "title": "Learning to Ride a Bike",
+    "author": "Penny Farthing",
+    "genre": "Family",
+    "summary": "With her dad's encouragement, a girl overcomes her fear and learns to ride a bike.",
+    "story": "Lily's new bike was bright yellow and beautiful, but it was also scary. It didn't have training wheels. Every time her dad let go, she would wobble and fall. 'I can't do it!' she cried, rubbing her scraped knee. 'It's too hard.' Her dad smiled. 'Everything is hard at first,' he said. 'But you can't give up. Let's try again.' He held onto the back of the seat, running alongside her. 'Keep pedaling and look straight ahead, not at your feet,' he advised. Lily focused on the big tree at the end of the sidewalk. She pedaled and pedaled. After a few tries, her dad let go. Lily kept going! She was wobbly, but she was doing it! She was riding her bike all by herself. She felt like she was flying. She learned that falling down is a part of learning, and the most important thing is to get back up and try again.",
+    "moral": "Don't be afraid to fall; it's the first step to learning something new."
+  },
+  {
+    "id": 33,
+    "title": "The Magical Paintbrush",
+    "author": "Vincent Van Glow",
+    "genre": "Fantasy",
+    "summary": "A young artist discovers a paintbrush that brings her paintings to life.",
+    "story": "Maya loved to paint. One day, she found an old, wooden paintbrush in her grandmother's attic. It didn't look special, but when she used it, something magical happened. She painted a blue butterfly, and it lifted off the page and fluttered around her room! The paintbrush was magic! Maya was excited. She painted a delicious-looking cupcake, and it appeared on her desk, ready to eat. She painted a small, fluffy kitten, and it purred as it rubbed against her leg. She could create anything she wanted! But then she painted a big, roaring T-Rex, thinking it would be fun. The dinosaur jumped off the page and started stomping around her room, knocking things over. Maya quickly realized her mistake. She grabbed the magic paintbrush and painted a giant cage around the T-Rex. She learned that with great power, you must also have great responsibility. From then on, she only painted happy, gentle things.",
+    "moral": "Great power requires great responsibility."
+  },
+  {
+    "id": 34,
+    "title": "The Talent Show Team",
+    "author": "Harmony Song",
+    "genre": "Friendship",
+    "summary": "A group of friends with very different talents combines them to create a unique talent show act.",
+    "story": "The school talent show was coming up, and a group of friends wanted to enter together. The problem was, they all had very different talents. Sam was a great juggler. Priya was an amazing dancer. Tom could tell hilarious jokes. And Aisha could play the flute beautifully. 'How can we possibly do an act together?' Sam asked. They almost gave up and decided to enter separately. But then Priya had an idea. 'What if we combine everything?' They practiced for days. On the night of the show, their act began. Aisha played a fast, fun song on her flute. Priya danced to the music. While she danced, Sam juggled colorful balls around her. And at the end, Tom told a funny joke that made the whole audience laugh. Their act was strange and different, but everyone loved it! They learned that their differences were not a weakness, but a strength. By combining their unique talents, they created something wonderful.",
+    "moral": "Combining different talents can create something amazing and unique."
+  },
+  {
+    "id": 35,
+    "title": "The Turtle's Big Race",
+    "author": "Shelly Swift",
+    "genre": "Animal Tale",
+    "summary": "A slow and steady turtle proves that you don't have to be the fastest to win the race.",
+    "story": "All the animals in the forest were getting ready for the annual race. The rabbit, who was very fast, bragged that he would win easily. A turtle named Sheldon decided he wanted to race too. All the other animals laughed. 'You are too slow!' they said. 'You'll never win.' Sheldon just smiled. 'I will do my best,' he said. The race started, and the rabbit shot off like a rocket, leaving everyone in the dust. Sheldon started his slow and steady walk. The rabbit was so far ahead that he decided he had time for a nap. He lay down under a tree and fell fast asleep. Meanwhile, Sheldon kept going. He didn't stop. He just put one foot in front of the other, slowly but surely. He walked right past the sleeping rabbit. When the rabbit finally woke up, he saw Sheldon about to cross the finish line. The rabbit ran as fast as he could, but it was too late. The slow and steady turtle had won the race!",
+    "moral": "Slow and steady wins the race."
+  },
+  {
+    "id": 36,
+    "title": "A Day at the Beach",
+    "author": "Sandy Shores",
+    "genre": "Family",
+    "summary": "A family works together to build the most magnificent sandcastle on the beach.",
+    "story": "The sun was shining, and the Garcia family was at the beach. 'Let's build the best sandcastle ever!' said Dad. They all got to work. Mom dug a big moat. Dad built tall, strong walls. My brother, Carlos, and I were in charge of the towers. We used buckets to make perfect, round towers. Carlos found seashells and smooth stones to decorate the walls. I used a feather to draw windows and a big door. It was hard work. Sometimes a big wave would come and wash away part of our moat, but we would just build it again, bigger and better. Everyone on the beach stopped to look at our amazing castle. It had towers, walls, a moat, and even a seashell flag on top. We didn't win a prize, but it didn't matter. We were so proud of what we had built together. The best part of the day wasn't the castle itself, but the fun we had making it as a family.",
+    "moral": "Working together as a team makes the final result even more special."
+  },
+  {
+    "id": 37,
+    "title": "The Invisible Friend",
+    "author": "Clara Seeley",
+    "genre": "Fantasy",
+    "summary": "A lonely boy's imaginary friend helps him find the courage to make real friends.",
+    "story": "Leo was new in town and didn't have any friends yet. So, he invented one. His name was Pip, and he was invisible. Leo and Pip did everything together. They explored the neighborhood and played in the park. Pip was a great friend because he always agreed with Leo and was never busy. One day, Leo and Pip were at the park when a group of kids started a game of kickball. 'You should go play,' Pip whispered in Leo's ear. 'But I don't know them,' Leo said nervously. 'It's okay,' Pip said. 'I'll be right here.' Leo took a deep breath and walked over to the kids. 'Can I play?' he asked. A girl smiled and said, 'Sure!' Leo had so much fun playing. He even kicked a home run. He made new friends that day. When he went home, he looked for Pip, but he was gone. Leo realized he didn't need an invisible friend anymore. Pip had helped him find the courage to make real ones.",
+    "moral": "Sometimes, you just need a little courage to make new friends."
+  },
+  {
+    "id": 38,
+    "title": "Sharing Is Caring",
+    "author": "Jenna Givens",
+    "genre": "Friendship",
+    "summary": "Two friends learn that sharing their toys makes playtime much more fun.",
+    "story": "Sam and Tom were best friends, but they were not good at sharing. When Tom came over to play, Sam would hide all his favorite toys. When Sam went to Tom's house, Tom would put his best video games away. They would end up playing with boring, old toys and not have much fun. One day, Sam's mom saw what was happening. She sat them down. 'Toys are no fun if you can't share them with your friends,' she said. 'Why don't you try playing with your best toys together?' Sam and Tom were hesitant, but they agreed to try. Sam brought out his amazing new robot, and Tom brought out his favorite race car set. They discovered that the robot could be the race car driver! They had more fun than they had ever had before. They played for hours, creating new games with their combined toys. They learned that sharing didn't mean losing something; it meant making playtime twice as fun.",
+    "moral": "Sharing with friends can make everything more fun."
+  },
+  {
+    "id": 39,
+    "title": "The Owl Who Was Afraid of the Dark",
+    "author": "Professor Hoot",
+    "genre": "Animal Tale",
+    "summary": "A young owl is afraid of the dark until a friendly firefly shows him its beauty.",
+    "story": "Oliver was a little owl with a big problem. He was afraid of the dark. This was very inconvenient, as owls are nocturnal. While all the other owls flew off to hunt at night, Oliver stayed in his nest, trembling. One night, a tiny firefly saw him shivering. 'Why are you so scared?' the firefly glowed. 'The dark is so big and empty,' Oliver whispered. 'It's not empty,' the firefly said. 'It's full of beautiful things. Let me show you.' The firefly led Oliver on a flight through the forest. He showed him the moon reflecting on the smooth surface of the pond. He showed him the bright, twinkling stars that looked like diamonds scattered on a black blanket. He introduced him to other fireflies, and they all lit up the forest with their gentle, blinking lights. Oliver saw that the night was not scary at all. It was peaceful and beautiful. He thanked his new friend for showing him the magic of the darkness.",
+    "moral": "Sometimes you just need to look at things from a different perspective to see their beauty."
+  },
+  {
+    "id": 40,
+    "title": "Baking Cookies with Dad",
+    "author": "Cookie Crumb",
+    "genre": "Family",
+    "summary": "A boy and his dad make a huge mess but have a wonderful time baking cookies together.",
+    "story": "It was Saturday, and Leo and his dad were going to bake cookies. Mom was out, so they were in charge. It started out well. They measured the sugar and butter. But when Dad tried to crack an egg, it slipped and landed on his head! Leo laughed so hard. Then, when they turned on the mixer, they forgot to put the lid on properly. Flour puffed out in a big cloud, covering the whole kitchen in white dust. They looked like two friendly ghosts! They were making a huge mess, but they were having so much fun. They added chocolate chips and finally put the cookies in the oven. The kitchen was a disaster, but it smelled delicious. When Mom came home, she just shook her head and smiled. The cookies were a little burnt on the bottom, but they were the best cookies Leo had ever tasted, because he had made them with his dad.",
+    "moral": "The best part of doing an activity is the fun you have along the way."
+  },
+  {
+    "id": 41,
+    "title": "The Princess Who Saved Herself",
+    "author": "Queenie Brave",
+    "genre": "Fantasy",
+    "summary": "A clever princess outsmarts a dragon and proves she doesn't need a prince to rescue her.",
+    "story": "Princess Amelia was captured by a fierce dragon and locked in a tall tower. According to the stories, she was supposed to wait for a handsome prince to come and rescue her. But Amelia was not a waiting kind of princess. She was clever and brave. She noticed that the dragon loved riddles. So, every day, she would tell the dragon a new riddle from her tower window. The dragon was so intrigued, he would sit for hours trying to solve them. One day, Amelia told him her best riddle: 'What has an eye, but cannot see?' The dragon thought and thought. He got so distracted that he didn't notice Amelia was braiding her long blankets into a strong rope. As the dragon was still puzzling over the answer (a needle!), Amelia climbed down the rope and escaped. She didn't need a prince to save her. She had used her own cleverness to save herself. She rode back to her castle, a hero in her own story.",
+    "moral": "You have the cleverness and strength to solve your own problems."
+  },
+  {
+    "id": 42,
+    "title": "The Tree Planting Project",
+    "author": "Forrest Green",
+    "genre": "Friendship",
+    "summary": "A class works together to plant trees in their community and learns about making a difference.",
+    "story": "Ms. Davis's fourth-grade class had a special project: to plant trees at the local park. The park had a big, empty field, and their job was to help make it beautiful. They worked in teams. Some teams dug holes, some teams carefully placed the young saplings in the ground, and other teams watered them. It was hard, muddy work, but everyone was excited. They knew they were doing something important for their community and for the planet. They named their little trees. There was 'Woody', 'Leafy', and 'Sir Reginald'. As they worked, they talked and laughed. They weren't just classmates; they were a team making a difference. When they were finished, they stood back and looked at the neat rows of tiny trees. It didn't look like much now, but they knew that one day, that field would be a cool, shady forest for everyone to enjoy. They felt proud that they had helped make their world a little greener.",
+    "moral": "Even small actions can make a big difference in the world."
+  },
+  {
+    "id": 43,
+    "title": "The Curious Giraffe",
+    "author": "Nia Neckley",
+    "genre": "Animal Tale",
+    "summary": "A giraffe's curiosity helps her discover a new source of water for her herd.",
+    "story": "Gigi was a young giraffe who was very, very curious. While the other giraffes were happy to eat from the same tall acacia trees every day, Gigi was always wondering what was beyond the next hill. One day, during a dry season, the waterhole started to shrink. The herd was worried. Gigi, with her long neck, could see something green far in the distance. The other giraffes told her it was too far and dangerous to go. But Gigi's curiosity was too strong. She set off on her own. She walked for a long time. Finally, she found what she had seen: a small, hidden spring surrounded by lush, green plants. There was plenty of water! She raced back to her herd and led them to the new spring. Everyone was able to drink and was saved from the drought. Gigi's curiosity, which sometimes got her into trouble, had saved them all. She learned that being curious can lead to wonderful discoveries.",
+    "moral": "Curiosity can lead to wonderful and important discoveries."
+  },
+  {
+    "id": 44,
+    "title": "A Letter from Grandpa",
+    "author": "Penelope Post",
+    "genre": "Family",
+    "summary": "A girl receives a letter from her grandpa and learns the joy of writing back.",
+    "story": "Eva loved her grandpa, but he lived very far away. She missed him a lot. One day, a letter arrived in the mail. It was for her! It was from Grandpa. In his loopy handwriting, he told her about the birds in his garden and the funny thing his cat did. Reading the letter felt like Grandpa was right there with her. At the end, he wrote, 'I would love to hear what you are up to.' Eva's mom gave her some paper and a pen. Eva spent the whole afternoon writing back. She told him about her soccer team and her best friend. She drew a picture of her family to include with the letter. It was much more fun than sending a quick text message. A few weeks later, she got another letter back. They became pen pals, sending letters back and forth. Each letter was a little treasure, a special connection to her grandpa, even though he was far away.",
+    "moral": "Taking the time to write a letter is a special way to stay connected to loved ones."
+  },
+  {
+    "id": 45,
+    "title": "The Wishing Well Secret",
+    "author": "Penny Bright",
+    "genre": "Fantasy",
+    "summary": "A boy who makes a selfish wish learns that the best wishes are the ones you make for others.",
+    "story": "In the center of town, there was an old wishing well. People said that if you dropped a coin in, your wish would come true. A boy named Tim had been saving his money. He wanted to wish for the biggest, best toy robot in the world. He went to the well, closed his eyes, and made his wish as he dropped the coin in. The next morning, the robot was on his doorstep! It was amazing, but after a few hours, he felt strangely lonely. His friend, Sarah, couldn't come over to play because her puppy was sick. Tim felt bad for her. He went back to the well with another coin. This time, he didn't wish for a toy. He closed his eyes and wished for Sarah's puppy to get better. The next day, Sarah called. Her puppy was all better and wanted to play! Seeing his friend so happy made Tim feel a hundred times better than getting the robot. He had learned the well's true secret.",
+    "moral": "The greatest happiness comes from making others happy."
+  },
+  {
+    "id": 46,
+    "title": "The Library Book Adventure",
+    "author": "Paige Turner",
+    "genre": "Friendship",
+    "summary": "A forgotten library book leads two friends on an adventure through their town.",
+    "story": "Liam and Chloe were building a fort when they found it: a library book, 'Adventures in the Amazon', that was due back today! They had completely forgotten. 'We have to get it back before the library closes!' Chloe said. It was the start of their own adventure. They couldn't take the bus, so they had to use their scooters. They zoomed down sidewalks, pretending they were navigating the Amazon river. A big dog that barked at them was a 'ferocious jaguar'. The busy intersection was 'dangerous rapids' they had to cross carefully. They worked together, with Liam reading the map (a drawing of the neighborhood) and Chloe steering them through the 'jungle' of their town. They made it to the library just as the librarian was about to lock the doors. They returned the book, breathless and laughing. The adventure in their town was just as exciting as the one they had read about in the book.",
+    "moral": "You can turn any ordinary task into an exciting adventure."
+  },
+  {
+    "id": 7,
+    "title": "The Elephant's New Friend",
+    "author": "Ellie Phant",
+    "genre": "Animal Tale",
+    "summary": "A big elephant and a tiny mouse prove that friends can come in all shapes and sizes.",
+    "story": "Elara the elephant was very lonely. All the other animals were scared of her big size and loud footsteps. One day, a tiny mouse named Squeak was not paying attention and ran right into Elara's foot. 'Oh, please don't step on me!' he cried. Elara looked down gently. 'I would never hurt you,' she said softly. Squeak was surprised. He looked up at the giant, kind elephant. They started talking and soon became the best of friends. The other animals were shocked. 'How can an elephant be friends with a mouse?' they whispered. But Elara and Squeak didn't care. Elara would protect Squeak from big birds, and Squeak would find tasty berries for Elara in places she couldn't reach. One day, a thorn got stuck in Elara's foot. She couldn't get it out. Little Squeak, being so small and nimble, was able to pull it out for her. They showed everyone that it doesn't matter how different you are; a true friend helps you no matter what.",
+    "moral": "True friendship is not about how you look, but about how you care for each other."
+  },
+  {
+    "id": 48,
+    "title": "The Family Road Trip",
+    "author": "Miles Away",
+    "genre": "Family",
+    "summary": "A family road trip doesn't go as planned, but they learn that the journey is the destination.",
+    "story": "The Miller family was going on a road trip to the beach. They had a map and a plan. But the trip did not go according to plan. They took a wrong turn and got lost on a country road. The car got a flat tire. And it started to rain. Everyone was getting grumpy. But then, Dad spotted a small, quirky diner. They went inside and had the best milkshakes they had ever tasted. While waiting for the tire to be fixed, they discovered a beautiful waterfall just a short walk from the road. They played 'I Spy' for hours in the car. By the time they finally got to the beach, it was almost dark. They hadn't spent the day on the sand as planned, but they had discovered new places and had fun together. They realized that the best parts of their trip were the unexpected moments along the way. The road trip was a success after all.",
+    "moral": "Sometimes the best adventures are the ones you didn't plan."
+  },
+  {
+    "id": 49,
+    "title": "The Boy Who Could Breathe Underwater",
+    "author": "Finn Ocean",
+    "genre": "Fantasy",
+    "summary": "A boy discovers he has a magical ability that helps him save a trapped dolphin.",
+    "story": "Kai loved the ocean more than anything. One day, while swimming, he was pulled under by a big wave. He was scared, but then he realized something amazing: he could breathe. He could breathe underwater just like a fish! He kept his power a secret, exploring the colorful coral reefs and making friends with the fish. One afternoon, he saw a dolphin caught in an old, tangled fishing net. The dolphin was struggling and couldn't get free. Kai knew he had to help. He swam down and worked carefully, using a sharp shell to cut the ropes. It took a long time, but finally, the dolphin was free. It swam around him in a happy circle, thanking him with clicks and whistles before swimming away. Kai felt a deep sense of joy. His secret power wasn't just for fun; it was a gift that he could use to protect the ocean and its beautiful creatures. He became the secret guardian of the reef.",
+    "moral": "Use your special gifts to help those in need."
+  },
+  {
+    "id": 50,
+    "title": "The Last Day of School",
+    "author": "Summer Day",
+    "genre": "Friendship",
+    "summary": "A group of friends says goodbye for the summer but makes a plan to stay in touch.",
+    "story": "It was the last day of school. The final bell rang, and everyone cheered. Summer was here! But for a group of best friends—Maya, Leo, Sam, and Chloe—it was also a little sad. They wouldn't see each other every day for two whole months. They sat together on the playground, signing each other's yearbooks. 'I'm going to miss you guys,' Sam said. 'Me too,' said Chloe. 'What if we forget about each other?' But Maya had an idea. She pulled out a notebook and a pen. 'Let's create a Summer Adventure Club!' she announced. They wrote down a list of things they could do. They planned to meet at the park every Tuesday, ride their bikes to the ice cream shop, and even start a book club. They promised to write letters if anyone went on vacation. Saying goodbye wasn't so sad anymore. They knew that even though they weren't in school, their friendship would continue all summer long.",
+    "moral": "True friends find ways to stay connected, no matter the distance."
+  }
+]

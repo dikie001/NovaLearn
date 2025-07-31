@@ -1,16 +1,16 @@
 import { useEffect, useState } from "react";
-import { School, CheckCircle, ArrowLeft } from "lucide-react"; // 🔄 switched to Lucide
+import { School, CheckCircle } from "lucide-react"; // 🔄 switched to Lucide
 import { getStudyDataFromStorage } from "../../utils/mini_functions";
 
-type Quiz = {
-  id: number;
-  subject: string;
-  grade: number;
-  question: string;
-  options: string[];
-  answer: string;
-  explanation: string;
-};
+// type Quiz = {
+//   id: number;
+//   subject: string;
+//   grade: number;
+//   question: string;
+//   options: string[];
+//   answer: string;
+//   explanation: string;
+// };
 
 export default function QuizzesPage() {
   const quizzesData = [
@@ -66,7 +66,12 @@ export default function QuizzesPage() {
 
   const loadDataFromStorage = async () => {
     const loadedData = await getStudyDataFromStorage();
-    console.log(loadedData);
+        if (loadedData) {
+      const data = await import(
+        `../../assets/jsons/grade_${loadedData.grade}/quiz.json`
+      );
+      console.log(data.default)
+    }
   };
   return (
     <div className="p-6 max-w-3xl  mx-auto text-gray-900 dark:text-white">

@@ -1,0 +1,1746 @@
+[
+  {
+    "id": 1,
+    "subject": "Math",
+    "question": "Which number comes after 8?",
+    "options": ["A. 7", "B. 9", "C. 10"],
+    "correctAnswer": "B",
+    "explanation": "When we count up from 8, the next number is 9."
+  },
+  {
+    "id": 2,
+    "subject": "English",
+    "question": "Which word rhymes with 'cat'?",
+    "options": ["A. Dog", "B. Sun", "C. Hat"],
+    "correctAnswer": "C",
+    "explanation": "'Cat' and 'hat' both have the 'at' sound at the end, so they rhyme."
+  },
+  {
+    "id": 3,
+    "subject": "Kiswahili",
+    "question": "What is 'simba' in English?",
+    "options": ["A. Lion", "B. Elephant", "C. Giraffe"],
+    "correctAnswer": "A",
+    "explanation": "The Kiswahili word for lion is 'simba'."
+  },
+  {
+    "id": 4,
+    "subject": "Environment",
+    "question": "Which of these is a source of water?",
+    "options": ["A. Stone", "B. River", "C. Tree"],
+    "correctAnswer": "B",
+    "explanation": "A river is a large stream of flowing water that we can use."
+  },
+  {
+    "id": 5,
+    "subject": "Hygiene & Nutrition",
+    "question": "Why should we wash our hands before eating?",
+    "options": [
+      "A. To make them cold",
+      "B. To remove germs",
+      "C. To make them dirty"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Washing our hands with soap and water removes germs that can make us sick."
+  },
+  {
+    "id": 6,
+    "subject": "CRE",
+    "question": "Who created the world according to the Bible?",
+    "options": ["A. Noah", "B. Adam", "C. God"],
+    "correctAnswer": "C",
+    "explanation": "The book of Genesis says that God created the heavens and the Earth."
+  },
+  {
+    "id": 7,
+    "subject": "Math",
+    "question": "How many sides does a triangle have?",
+    "options": ["A. 3", "B. 4", "C. 5"],
+    "correctAnswer": "A",
+    "explanation": "A triangle is a shape that is always made of three straight sides."
+  },
+  {
+    "id": 8,
+    "subject": "English",
+    "question": "What is the first letter of the word 'Apple'?",
+    "options": ["A. B", "B. A", "C. C"],
+    "correctAnswer": "B",
+    "explanation": "The word 'Apple' starts with the letter A."
+  },
+  {
+    "id": 9,
+    "subject": "Kiswahili",
+    "question": "How do you say 'thank you' in Kiswahili?",
+    "options": ["A. Karibu", "B. Asante", "C. Jambo"],
+    "correctAnswer": "B",
+    "explanation": "'Asante' is the Kiswahili word for 'thank you'."
+  },
+  {
+    "id": 10,
+    "subject": "Environment",
+    "question": "What does a plant need to grow?",
+    "options": ["A. Rocks and sand", "B. Sun and water", "C. Milk and cookies"],
+    "correctAnswer": "B",
+    "explanation": "Plants need sunlight for energy and water to drink, just like us!"
+  },
+  {
+    "id": 11,
+    "subject": "Hygiene & Nutrition",
+    "question": "Which of these is a healthy food?",
+    "options": ["A. Banana", "B. Sweets", "C. Crisps"],
+    "correctAnswer": "A",
+    "explanation": "A banana is a fruit, which is a healthy food that gives us energy."
+  },
+  {
+    "id": 12,
+    "subject": "CRE",
+    "question": "Who built a big boat called an Ark to save animals from a flood?",
+    "options": ["A. Jesus", "B. Noah", "C. David"],
+    "correctAnswer": "B",
+    "explanation": "God asked Noah to build a very big boat, called an Ark, to save his family and two of every animal."
+  },
+  {
+    "id": 13,
+    "subject": "Math",
+    "question": "What is 2 + 3?",
+    "options": ["A. 4", "B. 5", "C. 6"],
+    "correctAnswer": "B",
+    "explanation": "If you have 2 pencils and you get 3 more, you will have 5 pencils in total."
+  },
+  {
+    "id": 14,
+    "subject": "English",
+    "question": "Which animal says 'Moo'?",
+    "options": ["A. A sheep", "B. A cat", "C. A cow"],
+    "correctAnswer": "C",
+    "explanation": "A cow is the farm animal that makes a 'moo' sound."
+  },
+  {
+    "id": 15,
+    "subject": "Kiswahili",
+    "question": "What is the number 'tatu' in English?",
+    "options": ["A. Two", "B. Three", "C. One"],
+    "correctAnswer": "B",
+    "explanation": "In Kiswahili, we count 'moja, mbili, tatu', which means 'one, two, three'."
+  },
+  {
+    "id": 16,
+    "subject": "Environment",
+    "question": "What do we call the time of day when the sun goes down?",
+    "options": ["A. Morning", "B. Sunset", "C. Midday"],
+    "correctAnswer": "B",
+    "explanation": "Sunset is at the end of the day when the sun disappears and it starts to get dark."
+  },
+  {
+    "id": 17,
+    "subject": "Hygiene & Nutrition",
+    "question": "How many times a day should you brush your teeth?",
+    "options": ["A. Once a week", "B. Never", "C. At least twice"],
+    "correctAnswer": "C",
+    "explanation": "We should brush our teeth in the morning and before bed to keep them clean and strong."
+  },
+  {
+    "id": 18,
+    "subject": "CRE",
+    "question": "Where was Jesus born?",
+    "options": [
+      "A. In a palace",
+      "B. In a manger in Bethlehem",
+      "C. In a big city"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The Bible tells us that Mary and Joseph could not find a room, so Jesus was born in a stable and laid in a manger."
+  },
+  {
+    "id": 19,
+    "subject": "Math",
+    "question": "Which shape is round like a ball?",
+    "options": ["A. Square", "B. Triangle", "C. Circle"],
+    "correctAnswer": "C",
+    "explanation": "A circle is a shape that is perfectly round and has no corners."
+  },
+  {
+    "id": 20,
+    "subject": "English",
+    "question": "What do we use to write with?",
+    "options": ["A. A book", "B. A pencil", "C. A chair"],
+    "correctAnswer": "B",
+    "explanation": "A pencil is a tool we use for writing and drawing on paper."
+  },
+  {
+    "id": 21,
+    "subject": "Kiswahili",
+    "question": "What does 'karibu' mean?",
+    "options": ["A. Goodbye", "B. Welcome", "C. Sorry"],
+    "correctAnswer": "B",
+    "explanation": "When someone says 'asante' (thank you), a polite reply is 'karibu' (welcome)."
+  },
+  {
+    "id": 22,
+    "subject": "Environment",
+    "question": "Which animal is known as the 'King of the Jungle'?",
+    "options": ["A. Zebra", "B. Lion", "C. Monkey"],
+    "correctAnswer": "B",
+    "explanation": "The lion is often called the 'King of the Jungle' because it is a big and powerful hunter."
+  },
+  {
+    "id": 23,
+    "subject": "Hygiene & Nutrition",
+    "question": "What should you do after playing outside?",
+    "options": [
+      "A. Eat immediately",
+      "B. Wash your hands and face",
+      "C. Go to sleep"
+    ],
+    "correctAnswer": "B",
+    "explanation": "It's important to wash away the dirt and germs after playing outside to stay clean and healthy."
+  },
+  {
+    "id": 24,
+    "subject": "CRE",
+    "question": "Who were the first man and woman created by God?",
+    "options": [
+      "A. Abraham and Sarah",
+      "B. Mary and Joseph",
+      "C. Adam and Eve"
+    ],
+    "correctAnswer": "C",
+    "explanation": "In the Garden of Eden, God created the first man, Adam, and the first woman, Eve."
+  },
+  {
+    "id": 25,
+    "subject": "Math",
+    "question": "What is 5 - 2?",
+    "options": ["A. 3", "B. 4", "C. 7"],
+    "correctAnswer": "A",
+    "explanation": "If you have 5 sweets and you eat 2, you will have 3 sweets left."
+  },
+  {
+    "id": 26,
+    "subject": "English",
+    "question": "What is the opposite of 'big'?",
+    "options": ["A. Large", "B. Small", "C. Tall"],
+    "correctAnswer": "B",
+    "explanation": "Something that is not big is small. They are opposites."
+  },
+  {
+    "id": 27,
+    "subject": "Kiswahili",
+    "question": "What is the colour 'nyekundu'?",
+    "options": ["A. Blue", "B. Green", "C. Red"],
+    "correctAnswer": "C",
+    "explanation": "The Kiswahili word for the colour red is 'nyekundu'."
+  },
+  {
+    "id": 28,
+    "subject": "Environment",
+    "question": "What kind of weather is it when water falls from the sky?",
+    "options": ["A. Sunny", "B. Windy", "C. Rainy"],
+    "correctAnswer": "C",
+    "explanation": "Rainy weather is when rain, which is water, falls from the clouds."
+  },
+  {
+    "id": 29,
+    "subject": "Hygiene & Nutrition",
+    "question": "Which drink is best for keeping our bodies healthy?",
+    "options": ["A. Soda", "B. Water", "C. Juice"],
+    "correctAnswer": "B",
+    "explanation": "Water is the most important drink for our bodies. It keeps us hydrated and healthy."
+  },
+  {
+    "id": 30,
+    "subject": "CRE",
+    "question": "What is the name of God's son?",
+    "options": ["A. Moses", "B. Jesus", "C. Peter"],
+    "correctAnswer": "B",
+    "explanation": "Christians believe that Jesus is the Son of God."
+  },
+  {
+    "id": 31,
+    "subject": "Math",
+    "question": "If you have 4 apples and you get 0 more, how many do you have?",
+    "options": ["A. 4", "B. 0", "C. 5"],
+    "correctAnswer": "A",
+    "explanation": "Adding zero to any number does not change the number. So, 4 + 0 is still 4."
+  },
+  {
+    "id": 32,
+    "subject": "English",
+    "question": "Which of these is a fruit?",
+    "options": ["A. Carrot", "B. Orange", "C. Cabbage"],
+    "correctAnswer": "B",
+    "explanation": "An orange is a sweet, round fruit. A carrot and cabbage are vegetables."
+  },
+  {
+    "id": 33,
+    "subject": "Kiswahili",
+    "question": "What is a 'mwalimu'?",
+    "options": ["A. A doctor", "B. A teacher", "C. A farmer"],
+    "correctAnswer": "B",
+    "explanation": "The Kiswahili word for a teacher is 'mwalimu'."
+  },
+  {
+    "id": 34,
+    "subject": "Environment",
+    "question": "Where do fish live?",
+    "options": ["A. In trees", "B. In the ground", "C. In water"],
+    "correctAnswer": "C",
+    "explanation": "Fish have gills that allow them to breathe and live in water like rivers, lakes, and the ocean."
+  },
+  {
+    "id": 35,
+    "subject": "Hygiene & Nutrition",
+    "question": "What should you do when you cough or sneeze?",
+    "options": ["A. Cover your mouth", "B. Shout loudly", "C. Run around"],
+    "correctAnswer": "A",
+    "explanation": "Covering your mouth with your elbow or a tissue stops germs from spreading to other people."
+  },
+  {
+    "id": 36,
+    "subject": "CRE",
+    "question": "Which book contains the stories of God and Jesus?",
+    "options": ["A. A storybook", "B. A newspaper", "C. The Bible"],
+    "correctAnswer": "C",
+    "explanation": "The Bible is the holy book for Christians and it tells many stories about God and the life of Jesus."
+  },
+  {
+    "id": 37,
+    "subject": "Math",
+    "question": "How many fingers do you have on one hand?",
+    "options": ["A. 10", "B. 5", "C. 4"],
+    "correctAnswer": "B",
+    "explanation": "Most people have five fingers on one hand: a thumb, index, middle, ring, and pinky finger."
+  },
+  {
+    "id": 38,
+    "subject": "English",
+    "question": "A baby dog is called a...",
+    "options": ["A. Kitten", "B. Puppy", "C. Cub"],
+    "correctAnswer": "B",
+    "explanation": "A young dog is called a puppy. A kitten is a baby cat and a cub is a baby lion or bear."
+  },
+  {
+    "id": 39,
+    "subject": "Kiswahili",
+    "question": "What is 'ndizi'?",
+    "options": ["A. An apple", "B. A banana", "C. An orange"],
+    "correctAnswer": "B",
+    "explanation": "The Kiswahili word for banana is 'ndizi'."
+  },
+  {
+    "id": 40,
+    "subject": "Environment",
+    "question": "Which part of a plant is usually under the ground?",
+    "options": ["A. The leaves", "B. The flower", "C. The roots"],
+    "correctAnswer": "C",
+    "explanation": "The roots of a plant grow underground to hold the plant in place and drink water from the soil."
+  },
+  {
+    "id": 41,
+    "subject": "Hygiene & Nutrition",
+    "question": "Is it healthy to eat a lot of sugar?",
+    "options": [
+      "A. Yes, it's very good",
+      "B. No, it can be bad for your teeth and body",
+      "C. It doesn't matter"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Eating too much sugar is not healthy. It can cause cavities in your teeth."
+  },
+  {
+    "id": 42,
+    "subject": "CRE",
+    "question": "We go to church to...",
+    "options": ["A. Play games", "B. Worship God", "C. Eat food"],
+    "correctAnswer": "B",
+    "explanation": "People go to church to pray, sing songs, and worship God together."
+  },
+  {
+    "id": 43,
+    "subject": "Math",
+    "question": "Which number is bigger: 15 or 12?",
+    "options": ["A. 15", "B. 12", "C. They are the same"],
+    "correctAnswer": "A",
+    "explanation": "Fifteen is a larger number than twelve. It comes after twelve when we count."
+  },
+  {
+    "id": 44,
+    "subject": "English",
+    "question": "What colour is the sun?",
+    "options": ["A. Blue", "B. Green", "C. Yellow"],
+    "correctAnswer": "C",
+    "explanation": "We see the sun as a bright yellow star in the sky."
+  },
+  {
+    "id": 45,
+    "subject": "Kiswahili",
+    "question": "How do you say 'goodbye' in Kiswahili?",
+    "options": ["A. Kwaheri", "B. Habari", "C. Tafadhali"],
+    "correctAnswer": "A",
+    "explanation": "'Kwaheri' is a common way to say 'goodbye' in Kiswahili."
+  },
+  {
+    "id": 46,
+    "subject": "Environment",
+    "question": "Which of these animals can fly?",
+    "options": ["A. A fish", "B. A bird", "C. A snake"],
+    "correctAnswer": "B",
+    "explanation": "Birds have wings that allow them to fly through the air."
+  },
+  {
+    "id": 47,
+    "subject": "Hygiene & Nutrition",
+    "question": "What is the most important meal of the day?",
+    "options": ["A. Breakfast", "B. Lunch", "C. Dinner"],
+    "correctAnswer": "A",
+    "explanation": "Breakfast is very important because it gives your body energy to start the day after a long sleep."
+  },
+  {
+    "id": 48,
+    "subject": "CRE",
+    "question": "What is a prayer?",
+    "options": ["A. A song", "B. Talking to God", "C. A story"],
+    "correctAnswer": "B",
+    "explanation": "Prayer is when people talk to God to thank him, ask for help, or just share their thoughts."
+  },
+  {
+    "id": 49,
+    "subject": "Math",
+    "question": "What tool do we use to measure time?",
+    "options": ["A. A ruler", "B. A clock", "C. A scale"],
+    "correctAnswer": "B",
+    "explanation": "A clock or a watch helps us to tell what time it is."
+  },
+  {
+    "id": 50,
+    "subject": "English",
+    "question": "What do you wear on your feet?",
+    "options": ["A. Hats", "B. Gloves", "C. Shoes"],
+    "correctAnswer": "C",
+    "explanation": "We wear shoes on our feet to protect them when we walk."
+  },
+  {
+    "id": 51,
+    "subject": "Kiswahili",
+    "question": "What is a 'paka'?",
+    "options": ["A. A dog", "B. A bird", "C. A cat"],
+    "correctAnswer": "C",
+    "explanation": "The Kiswahili word for a cat is 'paka'."
+  },
+  {
+    "id": 52,
+    "subject": "Environment",
+    "question": "What covers most of the Earth?",
+    "options": ["A. Land", "B. Water", "C. Sand"],
+    "correctAnswer": "B",
+    "explanation": "Most of our planet Earth is covered by water in oceans, seas, and lakes."
+  },
+  {
+    "id": 53,
+    "subject": "Hygiene & Nutrition",
+    "question": "Why do we need to sleep?",
+    "options": [
+      "A. To get tired",
+      "B. To rest our bodies and brains",
+      "C. To watch TV"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Sleep is very important. It helps our bodies and minds to rest and get ready for the next day."
+  },
+  {
+    "id": 54,
+    "subject": "CRE",
+    "question": "Who was swallowed by a big fish?",
+    "options": ["A. Jonah", "B. Peter", "C. Paul"],
+    "correctAnswer": "A",
+    "explanation": "The Bible story tells of Jonah who ran away from God and was swallowed by a giant fish."
+  },
+  {
+    "id": 55,
+    "subject": "Math",
+    "question": "Which coin has a picture of a giraffe on it in Kenya?",
+    "options": [
+      "A. 1 shilling coin",
+      "B. 5 shillings coin",
+      "C. 10 shillings coin"
+    ],
+    "correctAnswer": "A",
+    "explanation": "The one shilling coin in Kenya has a picture of a giraffe."
+  },
+  {
+    "id": 56,
+    "subject": "English",
+    "question": "How many letters are in the English alphabet?",
+    "options": ["A. 20", "B. 26", "C. 30"],
+    "correctAnswer": "B",
+    "explanation": "The English alphabet has 26 letters, from A to Z."
+  },
+  {
+    "id": 57,
+    "subject": "Kiswahili",
+    "question": "What is 'kichwa'?",
+    "options": ["A. Head", "B. Hand", "C. Foot"],
+    "correctAnswer": "A",
+    "explanation": "The part of your body that has your brain, eyes, and mouth is called 'kichwa' in Kiswahili."
+  },
+  {
+    "id": 58,
+    "subject": "Environment",
+    "question": "What is the big, bright light we see in the sky during the day?",
+    "options": ["A. The Moon", "B. A star", "C. The Sun"],
+    "correctAnswer": "C",
+    "explanation": "The Sun is the star that gives us light and heat during the daytime."
+  },
+  {
+    "id": 59,
+    "subject": "Hygiene & Nutrition",
+    "question": "What is a vegetable?",
+    "options": ["A. An apple", "B. A cabbage", "C. A cake"],
+    "correctAnswer": "B",
+    "explanation": "A cabbage is a leafy green vegetable that is good for our health."
+  },
+  {
+    "id": 60,
+    "subject": "CRE",
+    "question": "What is the Golden Rule?",
+    "options": [
+      "A. Always be first",
+      "B. Treat others as you want to be treated",
+      "C. Never share your toys"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Jesus taught the Golden Rule, which means we should be kind to others, just like we want them to be kind to us."
+  },
+  {
+    "id": 61,
+    "subject": "Math",
+    "question": "What is the shape of a book page?",
+    "options": ["A. Circle", "B. Rectangle", "C. Triangle"],
+    "correctAnswer": "B",
+    "explanation": "A rectangle is a shape with four sides, like the page of a book."
+  },
+  {
+    "id": 62,
+    "subject": "English",
+    "question": "What sound does the letter 'S' make?",
+    "options": ["A. Buh", "B. Ssss", "C. Cuh"],
+    "correctAnswer": "B",
+    "explanation": "The letter 'S' makes a hissing sound, like a snake: 'ssss'."
+  },
+  {
+    "id": 63,
+    "subject": "Kiswahili",
+    "question": "What is 'maji'?",
+    "options": ["A. Food", "B. Water", "C. Milk"],
+    "correctAnswer": "B",
+    "explanation": "The Kiswahili word for water is 'maji'."
+  },
+  {
+    "id": 64,
+    "subject": "Environment",
+    "question": "What do bees make?",
+    "options": ["A. Milk", "B. Honey", "C. Juice"],
+    "correctAnswer": "B",
+    "explanation": "Bees collect nectar from flowers and use it to make sweet honey."
+  },
+  {
+    "id": 65,
+    "subject": "Hygiene & Nutrition",
+    "question": "Why is exercise important?",
+    "options": [
+      "A. It makes us tired",
+      "B. It keeps our bodies strong and healthy",
+      "C. It is not important"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Exercising by running and playing helps our muscles and heart to be strong."
+  },
+  {
+    "id": 66,
+    "subject": "CRE",
+    "question": "Who defeated the giant Goliath with a sling and a stone?",
+    "options": ["A. Samson", "B. David", "C. Moses"],
+    "correctAnswer": "B",
+    "explanation": "Even though he was small, David was brave and trusted in God to help him defeat the giant Goliath."
+  },
+  {
+    "id": 67,
+    "subject": "Math",
+    "question": "What is 10 - 5?",
+    "options": ["A. 5", "B. 6", "C. 15"],
+    "correctAnswer": "A",
+    "explanation": "If you have 10 shillings and you spend 5, you will have 5 shillings left."
+  },
+  {
+    "id": 68,
+    "subject": "English",
+    "question": "Which of these is a colour?",
+    "options": ["A. Happy", "B. Jump", "C. Blue"],
+    "correctAnswer": "C",
+    "explanation": "Blue is a colour, like the colour of the sky. 'Happy' is a feeling and 'jump' is an action."
+  },
+  {
+    "id": 69,
+    "subject": "Kiswahili",
+    "question": "What is 'mbwa'?",
+    "options": ["A. A cat", "B. A dog", "C. A bird"],
+    "correctAnswer": "B",
+    "explanation": "The Kiswahili word for a dog is 'mbwa'."
+  },
+  {
+    "id": 70,
+    "subject": "Environment",
+    "question": "What season is it when it is very hot and sunny?",
+    "options": ["A. Rainy season", "B. Dry season", "C. Cold season"],
+    "correctAnswer": "B",
+    "explanation": "The dry season is a time of year with lots of sun and not much rain."
+  },
+  {
+    "id": 71,
+    "subject": "Hygiene & Nutrition",
+    "question": "Where should we put our rubbish?",
+    "options": ["A. On the floor", "B. In a bin", "C. In our pockets"],
+    "correctAnswer": "B",
+    "explanation": "We should always put rubbish in a bin to keep our environment clean."
+  },
+  {
+    "id": 72,
+    "subject": "CRE",
+    "question": "How many disciples did Jesus have?",
+    "options": ["A. 10", "B. 12", "C. 5"],
+    "correctAnswer": "B",
+    "explanation": "Jesus chose twelve men, called disciples, to be his special followers and friends."
+  },
+  {
+    "id": 73,
+    "subject": "Math",
+    "question": "Which is more: 3 or 7?",
+    "options": ["A. 3", "B. 7", "C. They are equal"],
+    "correctAnswer": "B",
+    "explanation": "The number 7 represents a larger amount than the number 3."
+  },
+  {
+    "id": 74,
+    "subject": "English",
+    "question": "A person who flies an airplane is called a...",
+    "options": ["A. Doctor", "B. Pilot", "C. Teacher"],
+    "correctAnswer": "B",
+    "explanation": "A pilot is the person who is trained to fly airplanes."
+  },
+  {
+    "id": 75,
+    "subject": "Kiswahili",
+    "question": "What is a 'shule'?",
+    "options": ["A. A hospital", "B. A market", "C. A school"],
+    "correctAnswer": "C",
+    "explanation": "The place where children go to learn is called a 'shule' in Kiswahili."
+  },
+  {
+    "id": 76,
+    "subject": "Environment",
+    "question": "Which animal has a very long neck?",
+    "options": ["A. Elephant", "B. Giraffe", "C. Hippo"],
+    "correctAnswer": "B",
+    "explanation": "Giraffes have very long necks to help them reach leaves high up in the trees."
+  },
+  {
+    "id": 77,
+    "subject": "Hygiene & Nutrition",
+    "question": "What should you wear when it is raining?",
+    "options": ["A. A swimsuit", "B. A raincoat and gumboots", "C. Sunglasses"],
+    "correctAnswer": "B",
+    "explanation": "A raincoat and gumboots will help to keep you dry when it is raining outside."
+  },
+  {
+    "id": 78,
+    "subject": "CRE",
+    "question": "What is a miracle?",
+    "options": [
+      "A. A sad story",
+      "B. A special, wonderful thing that only God can do",
+      "C. A normal, everyday thing"
+    ],
+    "correctAnswer": "B",
+    "explanation": "A miracle, like Jesus healing the sick, is a powerful and wonderful act of God."
+  },
+  {
+    "id": 79,
+    "subject": "Math",
+    "question": "What comes next: 2, 4, 6, ___?",
+    "options": ["A. 7", "B. 8", "C. 9"],
+    "correctAnswer": "B",
+    "explanation": "This is counting in twos. After 6, the next number when counting in twos is 8."
+  },
+  {
+    "id": 80,
+    "subject": "English",
+    "question": "What do we sleep on?",
+    "options": ["A. A table", "B. A bed", "C. A floor"],
+    "correctAnswer": "B",
+    "explanation": "A bed is a piece of furniture that we use for sleeping comfortably."
+  },
+  {
+    "id": 81,
+    "subject": "Kiswahili",
+    "question": "How do you say 'please' in Kiswahili?",
+    "options": ["A. Tafadhali", "B. Samahani", "C. Hongera"],
+    "correctAnswer": "A",
+    "explanation": "When you are asking for something politely, you can say 'tafadhali'."
+  },
+  {
+    "id": 82,
+    "subject": "Environment",
+    "question": "What gives us wood for making furniture?",
+    "options": ["A. Rocks", "B. Animals", "C. Trees"],
+    "correctAnswer": "C",
+    "explanation": "Wood comes from the trunk and branches of trees and is used to make things like chairs and tables."
+  },
+  {
+    "id": 83,
+    "subject": "Hygiene & Nutrition",
+    "question": "Is it safe to play with fire?",
+    "options": [
+      "A. Yes, it is fun",
+      "B. No, it is very dangerous and can burn you",
+      "C. Only with friends"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Fire is very dangerous. We should never play with matches, lighters, or fire."
+  },
+  {
+    "id": 84,
+    "subject": "CRE",
+    "question": "What did God promise Abraham?",
+    "options": [
+      "A. A new house",
+      "B. Descendants as many as the stars",
+      "C. A lot of money"
+    ],
+    "correctAnswer": "B",
+    "explanation": "God promised Abraham that he would have a very large family, with as many descendants as stars in the sky."
+  },
+  {
+    "id": 85,
+    "subject": "Math",
+    "question": "How many days are in one week?",
+    "options": ["A. 5", "B. 10", "C. 7"],
+    "correctAnswer": "C",
+    "explanation": "A week has seven days: Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, and Saturday."
+  },
+  {
+    "id": 86,
+    "subject": "English",
+    "question": "Which word means to look at something?",
+    "options": ["A. See", "B. Run", "C. Eat"],
+    "correctAnswer": "A",
+    "explanation": "When you use your eyes to look at something, you 'see' it."
+  },
+  {
+    "id": 87,
+    "subject": "Kiswahili",
+    "question": "What is 'chai'?",
+    "options": ["A. Coffee", "B. Tea", "C. Juice"],
+    "correctAnswer": "B",
+    "explanation": "The Kiswahili word for tea is 'chai'."
+  },
+  {
+    "id": 88,
+    "subject": "Environment",
+    "question": "Which of these is a domestic animal?",
+    "options": ["A. A cow", "B. A lion", "C. A crocodile"],
+    "correctAnswer": "A",
+    "explanation": "A cow is a domestic animal, which means it is kept by people on a farm. Lions and crocodiles are wild animals."
+  },
+  {
+    "id": 89,
+    "subject": "Hygiene & Nutrition",
+    "question": "What do we get from eating eggs?",
+    "options": ["A. Sugar", "B. Protein to build our bodies", "C. Water"],
+    "correctAnswer": "B",
+    "explanation": "Eggs are a good source of protein, which helps our bodies to grow strong."
+  },
+  {
+    "id": 90,
+    "subject": "CRE",
+    "question": "What is a parable?",
+    "options": [
+      "A. A simple story Jesus told to teach a lesson",
+      "B. A long and difficult book",
+      "C. A type of prayer"
+    ],
+    "correctAnswer": "A",
+    "explanation": "Jesus often told parables, which are simple stories with a deeper meaning, to help people understand his teachings."
+  },
+  {
+    "id": 91,
+    "subject": "Math",
+    "question": "What is 6 + 4?",
+    "options": ["A. 9", "B. 10", "C. 11"],
+    "correctAnswer": "B",
+    "explanation": "If you have 6 balls and you find 4 more, you will have 10 balls altogether."
+  },
+  {
+    "id": 92,
+    "subject": "English",
+    "question": "A baby cat is called a...",
+    "options": ["A. Puppy", "B. Chick", "C. Kitten"],
+    "correctAnswer": "C",
+    "explanation": "A young cat is called a kitten."
+  },
+  {
+    "id": 93,
+    "subject": "Kiswahili",
+    "question": "What is 'moja'?",
+    "options": ["A. One", "B. Two", "C. Ten"],
+    "correctAnswer": "A",
+    "explanation": "The number one in Kiswahili is 'moja'."
+  },
+  {
+    "id": 94,
+    "subject": "Environment",
+    "question": "What do we call the air that moves?",
+    "options": ["A. Wind", "B. Sun", "C. Rain"],
+    "correctAnswer": "A",
+    "explanation": "Wind is moving air. We can feel it on our skin and see it move tree leaves."
+  },
+  {
+    "id": 95,
+    "subject": "Hygiene & Nutrition",
+    "question": "Why should we keep our nails short and clean?",
+    "options": [
+      "A. Because it looks nice",
+      "B. To stop dirt and germs from hiding under them",
+      "C. It is not important"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Dirt and germs can get trapped under long nails, so keeping them short and clean helps us stay healthy."
+  },
+  {
+    "id": 96,
+    "subject": "CRE",
+    "question": "Who helped the man that was beaten by robbers in the story of the Good Samaritan?",
+    "options": ["A. A priest", "B. A Levite", "C. A Samaritan"],
+    "correctAnswer": "C",
+    "explanation": "The Samaritan stopped and helped the injured man, showing kindness and love for his neighbor."
+  },
+  {
+    "id": 97,
+    "subject": "Math",
+    "question": "Which object is the heaviest?",
+    "options": ["A. A feather", "B. A stone", "C. A leaf"],
+    "correctAnswer": "B",
+    "explanation": "A stone is much heavier to lift than a light feather or a leaf."
+  },
+  {
+    "id": 98,
+    "subject": "English",
+    "question": "What is the sound of the letter 'B'?",
+    "options": ["A. Buh", "B. Duh", "C. Fuh"],
+    "correctAnswer": "A",
+    "explanation": "The letter 'B' makes the 'buh' sound, as in 'ball' or 'boy'."
+  },
+  {
+    "id": 99,
+    "subject": "Kiswahili",
+    "question": "What is 'kitabu'?",
+    "options": ["A. A pen", "B. A chair", "C. A book"],
+    "correctAnswer": "C",
+    "explanation": "The Kiswahili word for a book is 'kitabu'."
+  },
+  {
+    "id": 100,
+    "subject": "Environment",
+    "question": "What do we call a baby plant?",
+    "options": ["A. A seedling", "B. A flower", "C. A tree"],
+    "correctAnswer": "A",
+    "explanation": "A very young plant that has just grown from a seed is called a seedling."
+  },
+  {
+    "id": 101,
+    "subject": "Hygiene & Nutrition",
+    "question": "Which of these is a dairy product made from milk?",
+    "options": ["A. Bread", "B. Yoghurt", "C. An apple"],
+    "correctAnswer": "B",
+    "explanation": "Yoghurt is a healthy food that is made from milk."
+  },
+  {
+    "id": 102,
+    "subject": "CRE",
+    "question": "What is the first book of the Bible?",
+    "options": ["A. Psalms", "B. Matthew", "C. Genesis"],
+    "correctAnswer": "C",
+    "explanation": "Genesis is the very first book, and it tells the story of creation."
+  },
+  {
+    "id": 103,
+    "subject": "Math",
+    "question": "What is 8 - 3?",
+    "options": ["A. 5", "B. 11", "C. 6"],
+    "correctAnswer": "A",
+    "explanation": "If you have 8 mangoes and you give 3 away, you will have 5 left."
+  },
+  {
+    "id": 104,
+    "subject": "English",
+    "question": "The opposite of 'hot' is...",
+    "options": ["A. Warm", "B. Cold", "C. Sun"],
+    "correctAnswer": "B",
+    "explanation": "Hot and cold are opposite temperatures."
+  },
+  {
+    "id": 105,
+    "subject": "Kiswahili",
+    "question": "What is the colour 'kijani'?",
+    "options": ["A. Yellow", "B. Black", "C. Green"],
+    "correctAnswer": "C",
+    "explanation": "The colour of grass and many leaves is 'kijani', which is green in English."
+  },
+  {
+    "id": 106,
+    "subject": "Environment",
+    "question": "Which animal lives on a farm and gives us eggs?",
+    "options": ["A. A goat", "B. A chicken", "C. A pig"],
+    "correctAnswer": "B",
+    "explanation": "A chicken (or hen) is a farm bird that lays eggs we can eat."
+  },
+  {
+    "id": 107,
+    "subject": "Hygiene & Nutrition",
+    "question": "Why is it important to have clean clothes?",
+    "options": [
+      "A. It is not important",
+      "B. To look smart and prevent skin problems",
+      "C. To make our friends laugh"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Wearing clean clothes helps us look neat and tidy, and it prevents germs on dirty clothes from irritating our skin."
+  },
+  {
+    "id": 108,
+    "subject": "CRE",
+    "question": "What did Jesus use to feed 5,000 people?",
+    "options": [
+      "A. Five loaves of bread and two fish",
+      "B. A lot of money",
+      "C. Ten bags of rice"
+    ],
+    "correctAnswer": "A",
+    "explanation": "It was a miracle. Jesus fed a huge crowd of people with just a small amount of food."
+  },
+  {
+    "id": 109,
+    "subject": "Math",
+    "question": "Which number is smaller: 20 or 10?",
+    "options": ["A. 20", "B. 10", "C. They are the same"],
+    "correctAnswer": "B",
+    "explanation": "Ten is a smaller number than twenty. It comes before twenty when we count."
+  },
+  {
+    "id": 110,
+    "subject": "English",
+    "question": "What do we use to hear sounds?",
+    "options": ["A. Our eyes", "B. Our nose", "C. Our ears"],
+    "correctAnswer": "C",
+    "explanation": "Our ears are the parts of our body that we use for hearing."
+  },
+  {
+    "id": 111,
+    "subject": "Kiswahili",
+    "question": "What is 'meza'?",
+    "options": ["A. A chair", "B. A table", "C. A bed"],
+    "correctAnswer": "B",
+    "explanation": "A piece of furniture where we eat or write is called a 'meza' in Kiswahili."
+  },
+  {
+    "id": 112,
+    "subject": "Environment",
+    "question": "What do you call a baby sheep?",
+    "options": ["A. A lamb", "B. A calf", "C. A piglet"],
+    "correctAnswer": "A",
+    "explanation": "A baby sheep is called a lamb."
+  },
+  {
+    "id": 113,
+    "subject": "Hygiene & Nutrition",
+    "question": "What food group does bread belong to?",
+    "options": ["A. Fruits", "B. Vegetables", "C. Grains (Carbohydrates)"],
+    "correctAnswer": "C",
+    "explanation": "Bread, rice, and ugali are grains. They give our bodies energy."
+  },
+  {
+    "id": 114,
+    "subject": "CRE",
+    "question": "Who is called the 'Father of Faith'?",
+    "options": ["A. Abraham", "B. Moses", "C. Jacob"],
+    "correctAnswer": "A",
+    "explanation": "Abraham is known as the Father of Faith because he trusted God's promises completely."
+  },
+  {
+    "id": 115,
+    "subject": "Math",
+    "question": "What time is it if the big hand is on 12 and the small hand is on 3?",
+    "options": ["A. 12 o'clock", "B. 3 o'clock", "C. 9 o'clock"],
+    "correctAnswer": "B",
+    "explanation": "When the long hand points to 12, we look at the short hand to tell the hour. So, it is 3 o'clock."
+  },
+  {
+    "id": 116,
+    "subject": "English",
+    "question": "Which of these can you read?",
+    "options": ["A. A ball", "B. A book", "C. A bicycle"],
+    "correctAnswer": "B",
+    "explanation": "A book is filled with words and pictures that we can read."
+  },
+  {
+    "id": 117,
+    "subject": "Kiswahili",
+    "question": "What is 'mguu'?",
+    "options": ["A. Hand", "B. Leg or Foot", "C. Head"],
+    "correctAnswer": "B",
+    "explanation": "The part of your body you use to walk is your 'mguu'."
+  },
+  {
+    "id": 118,
+    "subject": "Environment",
+    "question": "What is the home of a bird called?",
+    "options": ["A. A den", "B. A nest", "C. A hive"],
+    "correctAnswer": "B",
+    "explanation": "Birds build nests in trees or other high places to lay their eggs and raise their babies."
+  },
+  {
+    "id": 119,
+    "subject": "Hygiene & Nutrition",
+    "question": "What should you do if you see a sharp object like a razor blade?",
+    "options": [
+      "A. Pick it up and play with it",
+      "B. Tell a grown-up and do not touch it",
+      "C. Hide it from your friends"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Sharp objects are very dangerous. You should never touch them and always tell an adult if you find one."
+  },
+  {
+    "id": 120,
+    "subject": "CRE",
+    "question": "What did Zacchaeus do to see Jesus?",
+    "options": [
+      "A. He pushed through the crowd",
+      "B. He stood on a chair",
+      "C. He climbed a sycamore tree"
+    ],
+    "correctAnswer": "C",
+    "explanation": "Zacchaeus was a short man, so he climbed a tree to be able to see Jesus over the crowd."
+  },
+  {
+    "id": 121,
+    "subject": "Math",
+    "question": "What is 7 + 3?",
+    "options": ["A. 10", "B. 9", "C. 11"],
+    "correctAnswer": "A",
+    "explanation": "If you have 7 crayons and your friend gives you 3 more, you will have 10 crayons."
+  },
+  {
+    "id": 122,
+    "subject": "English",
+    "question": "The sun rises in the...",
+    "options": ["A. Evening", "B. Morning", "C. Night"],
+    "correctAnswer": "B",
+    "explanation": "The morning is the start of the day, when the sun comes up."
+  },
+  {
+    "id": 123,
+    "subject": "Kiswahili",
+    "question": "What is the colour 'manjano'?",
+    "options": ["A. Yellow", "B. White", "C. Orange"],
+    "correctAnswer": "A",
+    "explanation": "The colour of a ripe banana or the sun is 'manjano', which is yellow."
+  },
+  {
+    "id": 124,
+    "subject": "Environment",
+    "question": "What do we call the hard, outer part of a tree?",
+    "options": ["A. Leaf", "B. Bark", "C. Root"],
+    "correctAnswer": "B",
+    "explanation": "The bark is the tough, protective layer on the outside of a tree's trunk."
+  },
+  {
+    "id": 125,
+    "subject": "Hygiene & Nutrition",
+    "question": "Which of these is a bad manner at the table?",
+    "options": [
+      "A. Chewing with your mouth closed",
+      "B. Talking with food in your mouth",
+      "C. Saying 'please' and 'thank you'"
+    ],
+    "correctAnswer": "B",
+    "explanation": "It is polite to chew and swallow your food before you start talking."
+  },
+  {
+    "id": 126,
+    "subject": "CRE",
+    "question": "What does 'Thou shalt not steal' mean?",
+    "options": [
+      "A. You should not lie",
+      "B. You should not take things that are not yours",
+      "C. You should not fight"
+    ],
+    "correctAnswer": "B",
+    "explanation": "This is one of the Ten Commandments, and it teaches us to respect other people's property."
+  },
+  {
+    "id": 127,
+    "subject": "Math",
+    "question": "Which number comes before 14?",
+    "options": ["A. 15", "B. 13", "C. 12"],
+    "correctAnswer": "B",
+    "explanation": "When we count, the number right before 14 is 13."
+  },
+  {
+    "id": 128,
+    "subject": "English",
+    "question": "What do we use to smell things?",
+    "options": ["A. Our mouth", "B. Our hands", "C. Our nose"],
+    "correctAnswer": "C",
+    "explanation": "Our nose is the part of our face that we use for smelling flowers, food, and other things."
+  },
+  {
+    "id": 129,
+    "subject": "Kiswahili",
+    "question": "What is 'rafiki'?",
+    "options": ["A. A parent", "B. A friend", "C. A brother"],
+    "correctAnswer": "B",
+    "explanation": "A person you like and enjoy playing with is your 'rafiki'."
+  },
+  {
+    "id": 130,
+    "subject": "Environment",
+    "question": "Which insect is known for making a web?",
+    "options": ["A. A bee", "B. An ant", "C. A spider"],
+    "correctAnswer": "C",
+    "explanation": "Spiders spin sticky webs to catch other insects for food."
+  },
+  {
+    "id": 131,
+    "subject": "Hygiene & Nutrition",
+    "question": "What should you do before crossing a road?",
+    "options": [
+      "A. Run as fast as you can",
+      "B. Close your eyes",
+      "C. Look left, right, and then left again"
+    ],
+    "correctAnswer": "C",
+    "explanation": "To be safe, you must always stop and look carefully for cars in both directions before you cross the road."
+  },
+  {
+    "id": 132,
+    "subject": "CRE",
+    "question": "Who was Jesus's mother?",
+    "options": ["A. Mary", "B. Eve", "C. Sarah"],
+    "correctAnswer": "A",
+    "explanation": "Mary was the mother of Jesus Christ."
+  },
+  {
+    "id": 133,
+    "subject": "Math",
+    "question": "What is 5 + 5?",
+    "options": ["A. 9", "B. 10", "C. 11"],
+    "correctAnswer": "B",
+    "explanation": "The total of your five fingers on one hand and five on the other hand is ten."
+  },
+  {
+    "id": 134,
+    "subject": "English",
+    "question": "What is the opposite of 'happy'?",
+    "options": ["A. Glad", "B. Sad", "C. Angry"],
+    "correctAnswer": "B",
+    "explanation": "The feeling that is the opposite of being happy is being sad."
+  },
+  {
+    "id": 135,
+    "subject": "Kiswahili",
+    "question": "What is 'nyumba'?",
+    "options": ["A. A car", "B. A house", "C. A tree"],
+    "correctAnswer": "B",
+    "explanation": "The building where a family lives is called a 'nyumba'."
+  },
+  {
+    "id": 136,
+    "subject": "Environment",
+    "question": "What do we call a large area of land covered with trees?",
+    "options": ["A. A desert", "B. A forest", "C. An ocean"],
+    "correctAnswer": "B",
+    "explanation": "A forest is a place with very many trees growing close together."
+  },
+  {
+    "id": 137,
+    "subject": "Hygiene & Nutrition",
+    "question": "Which of these helps our bones to be strong?",
+    "options": ["A. Milk", "B. Soda", "C. Sweets"],
+    "correctAnswer": "A",
+    "explanation": "Milk contains calcium, which is very important for making our bones and teeth strong."
+  },
+  {
+    "id": 138,
+    "subject": "CRE",
+    "question": "What did Joseph's brothers do to him?",
+    "options": [
+      "A. They gave him a gift",
+      "B. They sold him as a slave",
+      "C. They took him to a party"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Because they were jealous of him, Joseph's brothers sold him into slavery in Egypt."
+  },
+  {
+    "id": 139,
+    "subject": "Math",
+    "question": "How many corners does a square have?",
+    "options": ["A. 3", "B. 4", "C. 0"],
+    "correctAnswer": "B",
+    "explanation": "A square has four straight sides and four corners."
+  },
+  {
+    "id": 140,
+    "subject": "English",
+    "question": "Which word means to make a loud sound with your voice?",
+    "options": ["A. Whisper", "B. Shout", "C. Listen"],
+    "correctAnswer": "B",
+    "explanation": "When you shout, you use a very loud voice."
+  },
+  {
+    "id": 141,
+    "subject": "Kiswahili",
+    "question": "What is 'jua'?",
+    "options": ["A. The moon", "B. A star", "C. The sun"],
+    "correctAnswer": "C",
+    "explanation": "The big, bright star that gives us light during the day is called 'jua'."
+  },
+  {
+    "id": 142,
+    "subject": "Environment",
+    "question": "Which of these is a reptile?",
+    "options": ["A. A snake", "B. A monkey", "C. A fish"],
+    "correctAnswer": "A",
+    "explanation": "A snake is a reptile, which is an animal with scales that often lays eggs."
+  },
+  {
+    "id": 143,
+    "subject": "Hygiene & Nutrition",
+    "question": "Is it good to share your toothbrush with someone else?",
+    "options": [
+      "A. Yes, it is friendly",
+      "B. No, it can spread germs",
+      "C. It does not matter"
+    ],
+    "correctAnswer": "B",
+    "explanation": "You should never share your toothbrush, as it can pass germs from one person's mouth to another."
+  },
+  {
+    "id": 144,
+    "subject": "CRE",
+    "question": "What is the name of the garden where Adam and Eve lived?",
+    "options": [
+      "A. The Garden of Gethsemane",
+      "B. The Garden of Eden",
+      "C. The Hanging Gardens"
+    ],
+    "correctAnswer": "B",
+    "explanation": "God placed Adam and Eve in a beautiful garden called the Garden of Eden."
+  },
+  {
+    "id": 145,
+    "subject": "Math",
+    "question": "What is 9 - 1?",
+    "options": ["A. 10", "B. 8", "C. 7"],
+    "correctAnswer": "B",
+    "explanation": "When you take away one from nine, you are left with eight."
+  },
+  {
+    "id": 146,
+    "subject": "English",
+    "question": "What do we wear on our head to keep warm?",
+    "options": ["A. A sock", "B. A hat", "C. A glove"],
+    "correctAnswer": "B",
+    "explanation": "A hat is a piece of clothing we wear on our heads."
+  },
+  {
+    "id": 147,
+    "subject": "Kiswahili",
+    "question": "What is 'mtoto'?",
+    "options": ["A. A child", "B. A man", "C. A woman"],
+    "correctAnswer": "A",
+    "explanation": "A young person is called a 'mtoto' in Kiswahili."
+  },
+  {
+    "id": 148,
+    "subject": "Environment",
+    "question": "What do we call a baby lion?",
+    "options": ["A. A kitten", "B. A puppy", "C. A cub"],
+    "correctAnswer": "C",
+    "explanation": "A baby lion, bear, or wolf is called a cub."
+  },
+  {
+    "id": 149,
+    "subject": "Hygiene & Nutrition",
+    "question": "Which of these is a healthy snack?",
+    "options": ["A. A packet of crisps", "B. A chocolate bar", "C. An apple"],
+    "correctAnswer": "C",
+    "explanation": "An apple is a fruit, which is a very healthy choice for a snack."
+  },
+  {
+    "id": 150,
+    "subject": "CRE",
+    "question": "What did the wise men bring to baby Jesus?",
+    "options": [
+      "A. Toys and clothes",
+      "B. Gold, frankincense, and myrrh",
+      "C. Food and water"
+    ],
+    "correctAnswer": "B",
+    "explanation": "The wise men followed a star to find Jesus and brought him special, valuable gifts."
+  },
+  {
+    "id": 151,
+    "subject": "Math",
+    "question": "What comes next: 5, 10, 15, ___?",
+    "options": ["A. 16", "B. 25", "C. 20"],
+    "correctAnswer": "C",
+    "explanation": "This is counting in fives. After 15, the next number is 20."
+  },
+  {
+    "id": 152,
+    "subject": "English",
+    "question": "Which word means 'not slow'?",
+    "options": ["A. Quick", "B. Stop", "C. Big"],
+    "correctAnswer": "A",
+    "explanation": "'Quick' or 'fast' is the opposite of 'slow'."
+  },
+  {
+    "id": 153,
+    "subject": "Kiswahili",
+    "question": "What is 'chakula'?",
+    "options": ["A. Drink", "B. Food", "C. Sleep"],
+    "correctAnswer": "B",
+    "explanation": "Anything that you eat is called 'chakula' in Kiswahili."
+  },
+  {
+    "id": 154,
+    "subject": "Environment",
+    "question": "What is the largest animal on land?",
+    "options": ["A. The elephant", "B. The rhino", "C. The hippo"],
+    "correctAnswer": "A",
+    "explanation": "The African elephant is the biggest and heaviest animal that lives on land."
+  },
+  {
+    "id": 155,
+    "subject": "Hygiene & Nutrition",
+    "question": "Why is it important to keep our classroom clean?",
+    "options": [
+      "A. So we can't find our books",
+      "B. To make the teacher happy",
+      "C. So we have a nice, safe place to learn"
+    ],
+    "correctAnswer": "C",
+    "explanation": "A clean and tidy classroom is a better and safer environment for everyone to learn and play."
+  },
+  {
+    "id": 156,
+    "subject": "CRE",
+    "question": "Who was the strongest man in the Bible?",
+    "options": ["A. Goliath", "B. Samson", "C. Solomon"],
+    "correctAnswer": "B",
+    "explanation": "Samson was given super strength by God, which was connected to his long hair."
+  },
+  {
+    "id": 157,
+    "subject": "Math",
+    "question": "Which shape has no corners?",
+    "options": ["A. A square", "B. A rectangle", "C. A circle"],
+    "correctAnswer": "C",
+    "explanation": "A circle is a round shape and does not have any straight sides or corners."
+  },
+  {
+    "id": 158,
+    "subject": "English",
+    "question": "What is the last letter of the alphabet?",
+    "options": ["A. A", "B. M", "C. Z"],
+    "correctAnswer": "C",
+    "explanation": "The alphabet starts with A and ends with Z."
+  },
+  {
+    "id": 159,
+    "subject": "Kiswahili",
+    "question": "What is 'familia'?",
+    "options": ["A. Friends", "B. Family", "C. Teachers"],
+    "correctAnswer": "B",
+    "explanation": "Your parents, brothers, and sisters are your 'familia'."
+  },
+  {
+    "id": 160,
+    "subject": "Environment",
+    "question": "What do we call a baby goat?",
+    "options": ["A. A kid", "B. A calf", "C. A lamb"],
+    "correctAnswer": "A",
+    "explanation": "A young goat is called a kid."
+  },
+  {
+    "id": 161,
+    "subject": "Hygiene & Nutrition",
+    "question": "What should you do with leftover food?",
+    "options": [
+      "A. Throw it on the floor",
+      "B. Cover it and store it properly or put it in the bin",
+      "C. Leave it on the table"
+    ],
+    "correctAnswer": "B",
+    "explanation": "To avoid attracting pests and spreading germs, leftover food should be stored safely or thrown in a bin."
+  },
+  {
+    "id": 162,
+    "subject": "CRE",
+    "question": "What did God use to speak to Moses on the mountain?",
+    "options": ["A. A burning bush", "B. A loud trumpet", "C. A strong wind"],
+    "correctAnswer": "A",
+    "explanation": "God famously spoke to Moses from a bush that was on fire but was not being burned up."
+  },
+  {
+    "id": 163,
+    "subject": "Math",
+    "question": "What is 1 + 2 + 3?",
+    "options": ["A. 5", "B. 6", "C. 7"],
+    "correctAnswer": "B",
+    "explanation": "1 plus 2 is 3. Then, 3 plus 3 is 6."
+  },
+  {
+    "id": 164,
+    "subject": "English",
+    "question": "The opposite of 'day' is...",
+    "options": ["A. Sun", "B. Moon", "C. Night"],
+    "correctAnswer": "C",
+    "explanation": "Day is when it is light outside, and night is when it is dark."
+  },
+  {
+    "id": 165,
+    "subject": "Kiswahili",
+    "question": "What is 'moyo'?",
+    "options": ["A. Head", "B. Heart", "C. Hand"],
+    "correctAnswer": "B",
+    "explanation": "The organ inside your chest that pumps blood is your 'moyo'."
+  },
+  {
+    "id": 166,
+    "subject": "Environment",
+    "question": "What do we call the yellow and black striped insect that buzzes?",
+    "options": ["A. A butterfly", "B. A bee", "C. A ladybug"],
+    "correctAnswer": "B",
+    "explanation": "A bee is an insect that flies, buzzes, and makes honey."
+  },
+  {
+    "id": 167,
+    "subject": "Hygiene & Nutrition",
+    "question": "Which of these is a source of Vitamin C that helps fight sickness?",
+    "options": ["A. An orange", "B. A sausage", "C. A biscuit"],
+    "correctAnswer": "A",
+    "explanation": "Oranges and other fruits are full of vitamins, like Vitamin C, that help keep our bodies from getting sick."
+  },
+  {
+    "id": 168,
+    "subject": "CRE",
+    "question": "What is the main message of Christianity?",
+    "options": [
+      "A. To be rich",
+      "B. To love God and love your neighbor",
+      "C. To be famous"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Jesus taught that the most important commandments are to love God and to love other people as you love yourself."
+  },
+  {
+    "id": 169,
+    "subject": "Math",
+    "question": "How many wheels does a bicycle have?",
+    "options": ["A. 2", "B. 3", "C. 4"],
+    "correctAnswer": "A",
+    "explanation": "A bicycle always has two wheels."
+  },
+  {
+    "id": 170,
+    "subject": "English",
+    "question": "A place where we go to buy things is a...",
+    "options": ["A. School", "B. Shop", "C. Park"],
+    "correctAnswer": "B",
+    "explanation": "A shop or a store is a place where we can buy food, clothes, and other items."
+  },
+  {
+    "id": 171,
+    "subject": "Kiswahili",
+    "question": "What is 'gari'?",
+    "options": ["A. A bicycle", "B. A car", "C. A bus"],
+    "correctAnswer": "B",
+    "explanation": "A vehicle that we drive on the road is called a 'gari'."
+  },
+  {
+    "id": 172,
+    "subject": "Environment",
+    "question": "What do we call the season when many plants and flowers grow?",
+    "options": [
+      "A. The dry season",
+      "B. The cold season",
+      "C. The rainy season"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The rain provides the water that plants need to grow, so many flowers bloom during the rainy season."
+  },
+  {
+    "id": 173,
+    "subject": "Hygiene & Nutrition",
+    "question": "What can happen if you don't drink enough water?",
+    "options": [
+      "A. You get stronger",
+      "B. You can feel tired and get a headache",
+      "C. Nothing happens"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Our bodies need water to work properly. Not drinking enough can make you feel unwell."
+  },
+  {
+    "id": 174,
+    "subject": "CRE",
+    "question": "Who was the first person to sin?",
+    "options": ["A. Adam", "B. Eve", "C. Cain"],
+    "correctAnswer": "B",
+    "explanation": "In the Garden of Eden, Eve was the first to disobey God by eating the forbidden fruit."
+  },
+  {
+    "id": 175,
+    "subject": "Math",
+    "question": "What is 10 + 10?",
+    "options": ["A. 100", "B. 20", "C. 11"],
+    "correctAnswer": "B",
+    "explanation": "Ten plus another ten makes twenty."
+  },
+  {
+    "id": 176,
+    "subject": "English",
+    "question": "The mother of your mother is your...",
+    "options": ["A. Aunt", "B. Sister", "C. Grandmother"],
+    "correctAnswer": "C",
+    "explanation": "Your mother's mother is called your grandmother."
+  },
+  {
+    "id": 177,
+    "subject": "Kiswahili",
+    "question": "What is 'polepole'?",
+    "options": ["A. Quickly", "B. Loudly", "C. Slowly"],
+    "correctAnswer": "C",
+    "explanation": "When you want someone to do something slowly, you can say 'polepole'."
+  },
+  {
+    "id": 178,
+    "subject": "Environment",
+    "question": "What do we call the light from the moon?",
+    "options": ["A. Sunlight", "B. Moonlight", "C. Starlight"],
+    "correctAnswer": "B",
+    "explanation": "The gentle light we see at night comes from the moon and is called moonlight."
+  },
+  {
+    "id": 179,
+    "subject": "Hygiene & Nutrition",
+    "question": "What should you do if a stranger offers you sweets?",
+    "options": [
+      "A. Take them and say thank you",
+      "B. Say 'no thank you' and walk away to a safe place or person",
+      "C. Ask for more"
+    ],
+    "correctAnswer": "B",
+    "explanation": "It is very important for your safety to never take things from people you do not know."
+  },
+  {
+    "id": 180,
+    "subject": "CRE",
+    "question": "What happened to Jesus after he died on the cross?",
+    "options": [
+      "A. Nothing",
+      "B. He rose from the dead on the third day",
+      "C. He went to a different country"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Christians celebrate Easter because they believe Jesus came back to life three days after he was crucified."
+  },
+  {
+    "id": 181,
+    "subject": "Math",
+    "question": "Which one is a 10 shilling coin?",
+    "options": [
+      "A. The small silver one with a giraffe",
+      "B. The big silver and gold one with an elephant",
+      "C. The medium silver one with a lion"
+    ],
+    "correctAnswer": "C",
+    "explanation": "The Kenyan 10 shilling coin has a picture of a lion on one side."
+  },
+  {
+    "id": 182,
+    "subject": "English",
+    "question": "What do we call a person who helps sick people?",
+    "options": ["A. A farmer", "B. A doctor", "C. A builder"],
+    "correctAnswer": "B",
+    "explanation": "A doctor is a person trained to help people when they are sick or hurt."
+  },
+  {
+    "id": 183,
+    "subject": "Kiswahili",
+    "question": "What is 'hapana'?",
+    "options": ["A. Yes", "B. No", "C. Maybe"],
+    "correctAnswer": "B",
+    "explanation": "When you want to say no to something, you say 'hapana'."
+  },
+  {
+    "id": 184,
+    "subject": "Environment",
+    "question": "How should we treat animals?",
+    "options": [
+      "A. With kindness",
+      "B. By chasing them",
+      "C. By throwing stones at them"
+    ],
+    "correctAnswer": "A",
+    "explanation": "It is important to be kind and gentle to all animals."
+  },
+  {
+    "id": 185,
+    "subject": "Hygiene & Nutrition",
+    "question": "What is a balanced diet?",
+    "options": [
+      "A. Eating only sweets",
+      "B. Eating only fruits",
+      "C. Eating a little bit of different healthy foods"
+    ],
+    "correctAnswer": "C",
+    "explanation": "A balanced diet means eating a variety of healthy foods like fruits, vegetables, and proteins to help our body grow well."
+  },
+  {
+    "id": 186,
+    "subject": "CRE",
+    "question": "What did the Ten Commandments come on?",
+    "options": ["A. Two stone tablets", "B. A piece of paper", "C. A scroll"],
+    "correctAnswer": "A",
+    "explanation": "God gave Moses the Ten Commandments written on two tablets of stone."
+  },
+  {
+    "id": 187,
+    "subject": "Math",
+    "question": "What is 4 + 4?",
+    "options": ["A. 7", "B. 8", "C. 9"],
+    "correctAnswer": "B",
+    "explanation": "Four plus four equals eight."
+  },
+  {
+    "id": 188,
+    "subject": "English",
+    "question": "What is the opposite of 'up'?",
+    "options": ["A. Over", "B. Down", "C. Under"],
+    "correctAnswer": "B",
+    "explanation": "If you are not going up, you are going down. They are opposites."
+  },
+  {
+    "id": 189,
+    "subject": "Kiswahili",
+    "question": "What is the colour 'nyeupe'?",
+    "options": ["A. Black", "B. White", "C. Brown"],
+    "correctAnswer": "B",
+    "explanation": "The colour of milk or paper is 'nyeupe', which is white."
+  },
+  {
+    "id": 190,
+    "subject": "Environment",
+    "question": "What do we call a baby cow?",
+    "options": ["A. A calf", "B. A foal", "C. A chick"],
+    "correctAnswer": "A",
+    "explanation": "A young cow or elephant is called a calf."
+  },
+  {
+    "id": 191,
+    "subject": "Hygiene & Nutrition",
+    "question": "What should you do every day to keep your body clean?",
+    "options": [
+      "A. Wear the same clothes",
+      "B. Take a bath or shower",
+      "C. Play in the mud"
+    ],
+    "correctAnswer": "B",
+    "explanation": "Bathing or showering with soap and water every day washes away sweat and dirt to keep us clean."
+  },
+  {
+    "id": 192,
+    "subject": "CRE",
+    "question": "Who was the wisest king in the Bible?",
+    "options": ["A. King David", "B. King Saul", "C. King Solomon"],
+    "correctAnswer": "C",
+    "explanation": "When God offered King Solomon anything he wanted, he asked for wisdom, and God granted it to him."
+  },
+  {
+    "id": 193,
+    "subject": "Math",
+    "question": "What is 12 - 2?",
+    "options": ["A. 14", "B. 11", "C. 10"],
+    "correctAnswer": "C",
+    "explanation": "If you have 12 pencils and you give away 2, you will have 10 left."
+  },
+  {
+    "id": 194,
+    "subject": "English",
+    "question": "Which of these is a piece of furniture?",
+    "options": ["A. A tree", "B. A car", "C. A chair"],
+    "correctAnswer": "C",
+    "explanation": "A chair is a piece of furniture that we use for sitting on."
+  },
+  {
+    "id": 195,
+    "subject": "Kiswahili",
+    "question": "What is 'ndiyo'?",
+    "options": ["A. Yes", "B. No", "C. Please"],
+    "correctAnswer": "A",
+    "explanation": "When you want to say yes or agree with something, you say 'ndiyo'."
+  },
+  {
+    "id": 196,
+    "subject": "Environment",
+    "question": "What do we call the home of a lion?",
+    "options": ["A. A nest", "B. A den", "C. A web"],
+    "correctAnswer": "B",
+    "explanation": "Lions and other animals like bears often live in a cave or a hidden place called a den."
+  },
+  {
+    "id": 197,
+    "subject": "Hygiene & Nutrition",
+    "question": "Which food helps you to see better in the dark?",
+    "options": ["A. Carrots", "B. Cake", "C. Bread"],
+    "correctAnswer": "A",
+    "explanation": "Carrots are full of a special vitamin (Vitamin A) that is very good for our eyesight."
+  },
+  {
+    "id": 198,
+    "subject": "CRE",
+    "question": "Who baptized Jesus?",
+    "options": ["A. Peter", "B. John the Baptist", "C. Joseph"],
+    "correctAnswer": "B",
+    "explanation": "Jesus was baptized in the River Jordan by his cousin, John the Baptist."
+  },
+  {
+    "id": 199,
+    "subject": "Math",
+    "question": "Which number is missing: 8, 9, __, 11?",
+    "options": ["A. 7", "B. 12", "C. 10"],
+    "correctAnswer": "C",
+    "explanation": "When we count in order, the number that comes between 9 and 11 is 10."
+  },
+  {
+    "id": 200,
+    "subject": "English",
+    "question": "The opposite of 'empty' is...",
+    "options": ["A. Full", "B. Big", "C. Open"],
+    "correctAnswer": "A",
+    "explanation": "If a cup is not empty, it is full. They are opposites."
+  }
+]

@@ -1,0 +1,1057 @@
+[
+  {
+    "id": 1,
+    "subject": "English",
+    "question": "Which of the following is a 'doing' word (verb)?",
+    "options": { "A.": "run", "B.": "chair", "C.": "blue", "D.": "Kamau" },
+    "correctAnswer": "A",
+    "explanation": "A 'doing' word, or verb, shows an action. 'Run' is an action."
+  },
+  {
+    "id": 2,
+    "subject": "English",
+    "question": "Which of these is a 'naming' word (noun)?",
+    "options": { "A.": "happy", "B.": "eat", "C.": "book", "D.": "quickly" },
+    "correctAnswer": "C",
+    "explanation": "A 'naming' word, or noun, is the name of a person, place, or thing. A 'book' is a thing."
+  },
+  {
+    "id": 3,
+    "subject": "English",
+    "question": "What is the plural of 'boy'?",
+    "options": { "A.": "boyes", "B.": "boys", "C.": "boies", "D.": "boy's" },
+    "correctAnswer": "B",
+    "explanation": "To make 'boy' plural, which means more than one, we just add 's' to make 'boys'."
+  },
+  {
+    "id": 4,
+    "subject": "English",
+    "question": "What is the opposite of 'hot'?",
+    "options": { "A.": "cold", "B.": "warm", "C.": "sun", "D.": "fire" },
+    "correctAnswer": "A",
+    "explanation": "The opposite of hot is cold. They are two different temperatures."
+  },
+  {
+    "id": 5,
+    "subject": "English",
+    "question": "The cat is hiding ___ the table.",
+    "options": { "A.": "on", "B.": "under", "C.": "with", "D.": "of" },
+    "correctAnswer": "B",
+    "explanation": "The word 'under' tells us the position of the cat, which is below the table."
+  },
+  {
+    "id": 6,
+    "subject": "English",
+    "question": "A dog says ___.",
+    "options": { "A.": "meow", "B.": "moo", "C.": "woof", "D.": "oink" },
+    "correctAnswer": "C",
+    "explanation": "The sound a dog makes is called a bark or 'woof'. A cat says 'meow'."
+  },
+  {
+    "id": 7,
+    "subject": "English",
+    "question": "Which word is a vowel?",
+    "options": { "A.": "b", "B.": "t", "C.": "p", "D.": "e" },
+    "correctAnswer": "D",
+    "explanation": "The vowels in English are a, e, i, o, u. So, 'e' is a vowel."
+  },
+  {
+    "id": 8,
+    "subject": "English",
+    "question": "We use ___ apple to make juice.",
+    "options": { "A.": "a", "B.": "the", "C.": "some", "D.": "an" },
+    "correctAnswer": "D",
+    "explanation": "We use 'an' before words that start with a vowel sound, like 'apple'."
+  },
+  {
+    "id": 9,
+    "subject": "English",
+    "question": "Which animal is the young one of a cat?",
+    "options": { "A.": "puppy", "B.": "calf", "C.": "kitten", "D.": "chick" },
+    "correctAnswer": "C",
+    "explanation": "A baby cat is called a kitten. A puppy is a baby dog."
+  },
+  {
+    "id": 10,
+    "subject": "English",
+    "question": "We use a ___ to write in a book.",
+    "options": { "A.": "spoon", "B.": "cup", "C.": "pencil", "D.": "plate" },
+    "correctAnswer": "C",
+    "explanation": "A pencil is a tool used for writing or drawing."
+  },
+  {
+    "id": 11,
+    "subject": "English",
+    "question": "Which punctuation mark do we put at the end of a sentence?",
+    "options": {
+      "A.": "Comma (,)",
+      "B.": "Full stop (.)",
+      "C.": "Question mark (?)",
+      "D.": "Dash (-)"
+    },
+    "correctAnswer": "B",
+    "explanation": "A full stop is used to show that a sentence has ended."
+  },
+  {
+    "id": 12,
+    "subject": "English",
+    "question": "Choose the correctly spelled word.",
+    "options": { "A.": "woter", "B.": "watar", "C.": "water", "D.": "weter" },
+    "correctAnswer": "C",
+    "explanation": "The correct spelling for the liquid we drink is 'water'."
+  },
+  {
+    "id": 13,
+    "subject": "English",
+    "question": "The sun shines during the ___.",
+    "options": { "A.": "day", "B.": "night", "C.": "rain", "D.": "morning" },
+    "correctAnswer": "A",
+    "explanation": "The sun is the star we see in the sky during the daytime."
+  },
+  {
+    "id": 14,
+    "subject": "Kiswahili",
+    "question": "Ukimwona mwalimu asubuhi, utasema ___?",
+    "options": {
+      "A.": "Hujambo",
+      "B.": "Habari za mchana",
+      "C.": "Shikamoo",
+      "D.": "Kwaheri"
+    },
+    "correctAnswer": "C",
+    "explanation": "'Shikamoo' ni salamu ya heshima kwa mtu mzima kama vile mwalimu asubuhi."
+  },
+  {
+    "id": 15,
+    "subject": "Kiswahili",
+    "question": "Kichwa ni sehemu ya ___.",
+    "options": { "A.": "gari", "B.": "mti", "C.": "nyumba", "D.": "mwili" },
+    "correctAnswer": "D",
+    "explanation": "Kichwa ni sehemu ya juu ya mwili wa binadamu."
+  },
+  {
+    "id": 16,
+    "subject": "Kiswahili",
+    "question": "Chagua jina la tunda.",
+    "options": { "A.": "Karoti", "B.": "Embe", "C.": "Viazi", "D.": "Kabeji" },
+    "correctAnswer": "B",
+    "explanation": "Embe ni tunda.Karoti, viazi na kabeji ni mboga."
+  },
+  {
+    "id": 17,
+    "subject": "Kiswahili",
+    "question": "Ni mnyama yupi anayebweka?",
+    "options": { "A.": "Paka", "B.": "Ng'ombe", "C.": "Mbwa", "D.": "Kuku" },
+    "correctAnswer": "C",
+    "explanation": "Mbwa ndiye mnyama anayetoa sauti ya kubweka."
+  },
+  {
+    "id": 18,
+    "subject": "Kiswahili",
+    "question": "Nambari inayofuata sita ni ___.",
+    "options": { "A.": "tano", "B.": "nane", "C.": "saba", "D.": "tisa" },
+    "correctAnswer": "C",
+    "explanation": "Tukihesabu, baada ya sita (6) inakuja saba (7)."
+  },
+  {
+    "id": 19,
+    "subject": "Kiswahili",
+    "question": "Wingi wa neno 'mtoto' ni ___.",
+    "options": {
+      "A.": "kitoto",
+      "B.": "watoto",
+      "C.": "mitoto",
+      "D.": "vijitoto"
+    },
+    "correctAnswer": "B",
+    "explanation": "Neno 'mtoto' likiwa katika wingi (zaidi ya mmoja) huwa 'watoto'."
+  },
+  {
+    "id": 20,
+    "subject": "Kiswahili",
+    "question": "Chagua kitenzi (neno la tendo).",
+    "options": { "A.": "meza", "B.": "kimbia", "C.": "kizuri", "D.": "mrefu" },
+    "correctAnswer": "B",
+    "explanation": "'Kimbia' ni kitendo. Meza ni jina, na kizuri/mrefu ni vivumishi."
+  },
+  {
+    "id": 21,
+    "subject": "Kiswahili",
+    "question": "Jani lina rangi gani?",
+    "options": {
+      "A.": "Nyekundu",
+      "B.": "Bluu",
+      "C.": "Kijani",
+      "D.": "Njano"
+    },
+    "correctAnswer": "C",
+    "explanation": "Majani mengi ya miti huwa na rangi ya kijani."
+  },
+  {
+    "id": 22,
+    "subject": "Kiswahili",
+    "question": "Mama ya mama yako unamwita ___.",
+    "options": {
+      "A.": "shangazi",
+      "B.": "dada",
+      "C.": "nyanya",
+      "D.": "mjomba"
+    },
+    "correctAnswer": "C",
+    "explanation": "Mama ya mama au baba yako anaitwa nyanya, au bibi."
+  },
+  {
+    "id": 23,
+    "subject": "Kiswahili",
+    "question": "Kinyume cha neno 'kubwa' ni ___.",
+    "options": { "A.": "ndogo", "B.": "refu", "C.": "pana", "D.": "nono" },
+    "correctAnswer": "A",
+    "explanation": "Kitu ambacho si kikubwa ni kidogo."
+  },
+  {
+    "id": 24,
+    "subject": "Kiswahili",
+    "question": "Mwanafunzi anasoma ___.",
+    "options": {
+      "A.": "jikoni",
+      "B.": "sokoni",
+      "C.": "darasani",
+      "D.": "hospitalini"
+    },
+    "correctAnswer": "C",
+    "explanation": "Mahali pa kusomea kwa mwanafunzi ni darasani."
+  },
+  {
+    "id": 25,
+    "subject": "Kiswahili",
+    "question": "Tunatumia ___ kufutia ubao.",
+    "options": { "A.": "dasta", "B.": "penseli", "C.": "kitabu", "D.": "rula" },
+    "correctAnswer": "A",
+    "explanation": "Dasta ndicho kifaa kinachotumika kufuta chaki au wino kwenye ubao."
+  },
+  {
+    "id": 26,
+    "subject": "Kiswahili",
+    "question": "Kukiwa na jua kali, tunasema hali ya hewa ni ya ___.",
+    "options": { "A.": "mvua", "B.": "jua", "C.": "baridi", "D.": "upepo" },
+    "correctAnswer": "B",
+    "explanation": "Jua kali linaashiria hali ya hewa ya jua."
+  },
+  {
+    "id": 27,
+    "subject": "Mathematics",
+    "question": "What is 5 + 4?",
+    "options": { "A.": "8", "B.": "9", "C.": "10", "D.": "1" },
+    "correctAnswer": "B",
+    "explanation": "When you add 5 and 4 together, you get 9."
+  },
+  {
+    "id": 28,
+    "subject": "Mathematics",
+    "question": "What is 10 - 3?",
+    "options": { "A.": "7", "B.": "8", "C.": "13", "D.": "6" },
+    "correctAnswer": "A",
+    "explanation": "When you take away 3 from 10, you are left with 7."
+  },
+  {
+    "id": 29,
+    "subject": "Mathematics",
+    "question": "In the number 28, what is the place value of 2?",
+    "options": { "A.": "Ones", "B.": "Tens", "C.": "Hundreds", "D.": "Twos" },
+    "correctAnswer": "B",
+    "explanation": "In the number 28, the '8' is in the Ones place and the '2' is in the Tens place."
+  },
+  {
+    "id": 30,
+    "subject": "Mathematics",
+    "question": "Which shape has four equal sides?",
+    "options": {
+      "A.": "Triangle",
+      "B.": "Circle",
+      "C.": "Square",
+      "D.": "Rectangle"
+    },
+    "correctAnswer": "C",
+    "explanation": "A square is a shape with four sides that are all the same length."
+  },
+  {
+    "id": 31,
+    "subject": "Mathematics",
+    "question": "Asha has 6 sweets. Ali gives her 3 more sweets. How many sweets does Asha have now?",
+    "options": { "A.": "3", "B.": "8", "C.": "10", "D.": "9" },
+    "correctAnswer": "D",
+    "explanation": "You need to add the sweets together. 6 + 3 = 9 sweets."
+  },
+  {
+    "id": 32,
+    "subject": "Mathematics",
+    "question": "Which number comes just after 49?",
+    "options": { "A.": "48", "B.": "50", "C.": "40", "D.": "51" },
+    "correctAnswer": "B",
+    "explanation": "When we are counting, the number that follows 49 is 50."
+  },
+  {
+    "id": 33,
+    "subject": "Mathematics",
+    "question": "What is 15 + 4?",
+    "options": { "A.": "18", "B.": "20", "C.": "11", "D.": "19" },
+    "correctAnswer": "D",
+    "explanation": "Adding 4 to 15 gives you 19. You can count 16, 17, 18, 19."
+  },
+  {
+    "id": 34,
+    "subject": "Mathematics",
+    "question": " What time is it?",
+    "options": {
+      "A.": "12 o'clock",
+      "B.": "3 o'clock",
+      "C.": "9 o'clock",
+      "D.": "6 o'clock"
+    },
+    "correctAnswer": "B",
+    "explanation": "The long hand is pointing to 12 and the short hand is pointing to 3, so the time is 3 o'clock."
+  },
+  {
+    "id": 35,
+    "subject": "Mathematics",
+    "question": "Which of these is the longest?",
+    "options": {
+      "A.": "A pencil",
+      "B.": "A snake",
+      "C.": "An eraser",
+      "D.": "A sharpener"
+    },
+    "correctAnswer": "B",
+    "explanation": "Compared to a pencil, eraser, and sharpener, a snake is much longer."
+  },
+  {
+    "id": 36,
+    "subject": "Mathematics",
+    "question": "Which number is greater than 30?",
+    "options": { "A.": "25", "B.": "19", "C.": "35", "D.": "30" },
+    "correctAnswer": "C",
+    "explanation": "The number 35 is more than 30. 25 and 19 are less than 30."
+  },
+  {
+    "id": 37,
+    "subject": "Mathematics",
+    "question": "Count backwards from 22. What is the next number?",
+    "options": { "A.": "23", "B.": "20", "C.": "21", "D.": "12" },
+    "correctAnswer": "C",
+    "explanation": "When counting backwards, the number just before 22 is 21."
+  },
+  {
+    "id": 38,
+    "subject": "Mathematics",
+    "question": "Which object has the shape of a ball?",
+    "options": {
+      "A.": "A box",
+      "B.": "A book",
+      "C.": "An orange",
+      "D.": "A dice"
+    },
+    "correctAnswer": "C",
+    "explanation": "An orange has a round shape like a ball, which is called a sphere."
+  },
+  {
+    "id": 39,
+    "subject": "Mathematics",
+    "question": "What is 27 - 5?",
+    "options": { "A.": "22", "B.": "23", "C.": "32", "D.": "21" },
+    "correctAnswer": "A",
+    "explanation": "If you have 27 and you take away 5, you are left with 22."
+  },
+  {
+    "id": 40,
+    "subject": "Environmental Activities",
+    "question": "Which of these is a source of water?",
+    "options": { "A.": "River", "B.": "Road", "C.": "Tree", "D.": "Stone" },
+    "correctAnswer": "A",
+    "explanation": "A river is a place where we get water. We also get water from rain, lakes, and dams."
+  },
+  {
+    "id": 41,
+    "subject": "Environmental Activities",
+    "question": "When we see dark clouds in the sky, it is likely to ___.",
+    "options": {
+      "A.": "be sunny",
+      "B.": "snow",
+      "C.": "rain",
+      "D.": "be windy"
+    },
+    "correctAnswer": "C",
+    "explanation": "Dark clouds in the sky are usually a sign that it is about to rain."
+  },
+  {
+    "id": 42,
+    "subject": "Environmental Activities",
+    "question": "Who helps to keep our community safe?",
+    "options": {
+      "A.": "A farmer",
+      "B.": "A police officer",
+      "C.": "A shopkeeper",
+      "D.": "A driver"
+    },
+    "correctAnswer": "B",
+    "explanation": "A police officer is a community helper whose job is to maintain law and order and keep us safe."
+  },
+  {
+    "id": 43,
+    "subject": "Environmental Activities",
+    "question": "Which of these is a domestic animal?",
+    "options": { "A.": "Lion", "B.": "Goat", "C.": "Leopard", "D.": "Zebra" },
+    "correctAnswer": "B",
+    "explanation": "A goat is a domestic animal because it can be kept at home. Lions, leopards, and zebras are wild animals."
+  },
+  {
+    "id": 44,
+    "subject": "Environmental Activities",
+    "question": "Where is the safest place to cross a busy road?",
+    "options": {
+      "A.": "Anywhere",
+      "B.": "Between parked cars",
+      "C.": "At a zebra crossing",
+      "D.": "At a corner"
+    },
+    "correctAnswer": "C",
+    "explanation": "A zebra crossing is a special place marked on the road for people to cross safely."
+  },
+  {
+    "id": 45,
+    "subject": "Environmental Activities",
+    "question": "Which part of a plant grows under the ground?",
+    "options": { "A.": "Flower", "B.": "Leaf", "C.": "Stem", "D.": "Roots" },
+    "correctAnswer": "D",
+    "explanation": "The roots of a plant grow down into the soil to get water and hold the plant in place."
+  },
+  {
+    "id": 46,
+    "subject": "Environmental Activities",
+    "question": "Who is the head of a school?",
+    "options": {
+      "A.": "The cook",
+      "B.": "The head teacher",
+      "C.": "The gatekeeper",
+      "D.": "A pupil"
+    },
+    "correctAnswer": "B",
+    "explanation": "The head teacher is the person in charge of managing the whole school."
+  },
+  {
+    "id": 47,
+    "subject": "Environmental Activities",
+    "question": "Which of these gives us light?",
+    "options": {
+      "A.": "The moon",
+      "B.": "A book",
+      "C.": "The sun",
+      "D.": "A chair"
+    },
+    "correctAnswer": "C",
+    "explanation": "The sun is a star that produces its own heat and light for our planet."
+  },
+  {
+    "id": 48,
+    "subject": "Environmental Activities",
+    "question": "Which of the following is a living thing?",
+    "options": {
+      "A.": "A stone",
+      "B.": "A car",
+      "C.": "A tree",
+      "D.": "A chair"
+    },
+    "correctAnswer": "C",
+    "explanation": "A tree is a living thing because it grows, breathes, and needs food and water."
+  },
+  {
+    "id": 49,
+    "subject": "Environmental Activities",
+    "question": "How can we keep our classroom clean?",
+    "options": {
+      "A.": "By throwing papers on the floor",
+      "B.": "By writing on the walls",
+      "C.": "By putting rubbish in the bin",
+      "D.": "By leaving books scattered"
+    },
+    "correctAnswer": "C",
+    "explanation": "Putting rubbish in the bin is the right way to keep our classroom and environment clean."
+  },
+  {
+    "id": 50,
+    "subject": "Environmental Activities",
+    "question": "Which insect can spread malaria?",
+    "options": {
+      "A.": "A butterfly",
+      "B.": "A bee",
+      "C.": "A mosquito",
+      "D.": "A grasshopper"
+    },
+    "correctAnswer": "C",
+    "explanation": "The mosquito is a harmful insect that can spread diseases like malaria when it bites people."
+  },
+  {
+    "id": 51,
+    "subject": "Environmental Activities",
+    "question": "The sound made by a cow is called ___.",
+    "options": {
+      "A.": "roaring",
+      "B.": "mooing",
+      "C.": "barking",
+      "D.": "chirping"
+    },
+    "correctAnswer": "B",
+    "explanation": "A cow makes a 'moo' sound. Lions roar and dogs bark."
+  },
+  {
+    "id": 52,
+    "subject": "Hygiene & Nutrition",
+    "question": "Why should we wash our hands before eating?",
+    "options": {
+      "A.": "To make them cold",
+      "B.": "To remove germs",
+      "C.": "To make them wet",
+      "D.": "To make them look nice"
+    },
+    "correctAnswer": "B",
+    "explanation": "Washing hands with soap and water removes germs that can make us sick."
+  },
+  {
+    "id": 53,
+    "subject": "Hygiene & Nutrition",
+    "question": "Which of the following is a healthy snack?",
+    "options": {
+      "A.": "A banana",
+      "B.": "A sweet",
+      "C.": "A cake",
+      "D.": "Crisps"
+    },
+    "correctAnswer": "A",
+    "explanation": "A banana is a fruit, which is a healthy choice for a snack. Sweets and cakes have too much sugar."
+  },
+  {
+    "id": 54,
+    "subject": "Hygiene & Nutrition",
+    "question": "How many times a day should you brush your teeth?",
+    "options": {
+      "A.": "Once a week",
+      "B.": "Once a month",
+      "C.": "At least twice a day",
+      "D.": "Never"
+    },
+    "correctAnswer": "C",
+    "explanation": "We should brush our teeth at least twice a day, in the morning and before sleeping, to keep them healthy."
+  },
+  {
+    "id": 55,
+    "subject": "Hygiene & Nutrition",
+    "question": "Which food comes from a plant?",
+    "options": { "A.": "Egg", "B.": "Milk", "C.": "Maize", "D.": "Meat" },
+    "correctAnswer": "C",
+    "explanation": "Maize (corn) grows on a plant. Eggs, milk, and meat come from animals."
+  },
+  {
+    "id": 56,
+    "subject": "Hygiene & Nutrition",
+    "question": "Which food gives us energy to play?",
+    "options": {
+      "A.": "Ugali",
+      "B.": "Cabbage",
+      "C.": "Orange",
+      "D.": "Sukuma wiki"
+    },
+    "correctAnswer": "A",
+    "explanation": "Foods like ugali, bread, and rice are carbohydrates that give our bodies energy."
+  },
+  {
+    "id": 57,
+    "subject": "Hygiene & Nutrition",
+    "question": "Fruits and vegetables are important because they ___.",
+    "options": {
+      "A.": "protect our bodies from sickness",
+      "B.": "make our bones strong",
+      "C.": "give us a lot of energy",
+      "D.": "are not important"
+    },
+    "correctAnswer": "A",
+    "explanation": "Fruits and vegetables are protective foods that have vitamins to help our bodies fight diseases."
+  },
+  {
+    "id": 58,
+    "subject": "Hygiene & Nutrition",
+    "question": "How can we make water safe for drinking?",
+    "options": {
+      "A.": "By adding sugar",
+      "B.": "By boiling it",
+      "C.": "By leaving it in the sun",
+      "D.": "By adding salt"
+    },
+    "correctAnswer": "B",
+    "explanation": "Boiling water kills the germs in it, making it safe to drink."
+  },
+  {
+    "id": 59,
+    "subject": "Hygiene & Nutrition",
+    "question": "Which of these is a personal item that you should not share?",
+    "options": {
+      "A.": "A book",
+      "B.": "A ball",
+      "C.": "A toothbrush",
+      "D.": "A pencil"
+    },
+    "correctAnswer": "C",
+    "explanation": "You should not share your toothbrush because it can spread germs from one person to another."
+  },
+  {
+    "id": 60,
+    "subject": "Hygiene & Nutrition",
+    "question": "Eating food from all three food groups is called a ___.",
+    "options": {
+      "A.": "big meal",
+      "B.": "happy meal",
+      "C.": "single meal",
+      "D.": "balanced diet"
+    },
+    "correctAnswer": "D",
+    "explanation": "A balanced diet includes energy-giving, body-building, and protective foods to keep us healthy."
+  },
+  {
+    "id": 61,
+    "subject": "Hygiene & Nutrition",
+    "question": "What should you do with leftover food?",
+    "options": {
+      "A.": "Throw it on the floor",
+      "B.": "Cover it and keep it in a safe place",
+      "C.": "Leave it open on the table",
+      "D.": "Give it to the cat"
+    },
+    "correctAnswer": "B",
+    "explanation": "Leftover food should be covered and stored properly to keep it safe from flies and germs."
+  },
+  {
+    "id": 62,
+    "subject": "Hygiene & Nutrition",
+    "question": "We should always wash fruits ___ eating them.",
+    "options": {
+      "A.": "after",
+      "B.": "during",
+      "C.": "before",
+      "D.": "instead of"
+    },
+    "correctAnswer": "C",
+    "explanation": "Washing fruits before eating removes dirt and chemicals, making them safe to eat."
+  },
+  {
+    "id": 63,
+    "subject": "Hygiene & Nutrition",
+    "question": "Which food helps to build our bodies?",
+    "options": { "A.": "Beans", "B.": "Banana", "C.": "Bread", "D.": "Sugar" },
+    "correctAnswer": "A",
+    "explanation": "Foods like beans, meat, and eggs are body-building foods (proteins) that help us grow strong."
+  },
+  {
+    "id": 64,
+    "subject": "CRE",
+    "question": "According to the Bible, what did God create on the first day?",
+    "options": {
+      "A.": "Animals",
+      "B.": "Light and darkness",
+      "C.": "Man",
+      "D.": "Plants"
+    },
+    "correctAnswer": "B",
+    "explanation": "In the book of Genesis, God created light and separated it from darkness on the first day of creation."
+  },
+  {
+    "id": 65,
+    "subject": "CRE",
+    "question": "The holy book for Christians is called ___.",
+    "options": {
+      "A.": "the Quran",
+      "B.": "the Dictionary",
+      "C.": "the Bible",
+      "D.": "the Atlas"
+    },
+    "correctAnswer": "C",
+    "explanation": "The Bible is the sacred book that contains the teachings of Christianity."
+  },
+  {
+    "id": 66,
+    "subject": "CRE",
+    "question": "Who built a big boat called an ark to save his family and animals from a great flood?",
+    "options": { "A.": "Moses", "B.": "David", "C.": "Noah", "D.": "Abraham" },
+    "correctAnswer": "C",
+    "explanation": "God told Noah to build an ark to be safe from the flood that covered the earth."
+  },
+  {
+    "id": 67,
+    "subject": "CRE",
+    "question": "Where was Jesus born?",
+    "options": {
+      "A.": "In Jerusalem",
+      "B.": "In a palace",
+      "C.": "In Nazareth",
+      "D.": "In a manger in Bethlehem"
+    },
+    "correctAnswer": "D",
+    "explanation": "Jesus was born in a humble manger in the town of Bethlehem because there was no room in the inn."
+  },
+  {
+    "id": 68,
+    "subject": "CRE",
+    "question": "When we give some of our food to a friend who has none, we are ___.",
+    "options": {
+      "A.": "playing",
+      "B.": "fighting",
+      "C.": "sharing",
+      "D.": "sleeping"
+    },
+    "correctAnswer": "C",
+    "explanation": "Sharing with others is a Christian value that shows love and kindness."
+  },
+  {
+    "id": 69,
+    "subject": "CRE",
+    "question": "How many disciples did Jesus choose?",
+    "options": { "A.": "Ten", "B.": "Three", "C.": "Seven", "D.": "Twelve" },
+    "correctAnswer": "D",
+    "explanation": "Jesus chose twelve main disciples to follow him and help spread his teachings."
+  },
+  {
+    "id": 70,
+    "subject": "CRE",
+    "question": "A place where Christians go to worship God is called a ___.",
+    "options": {
+      "A.": "school",
+      "B.": "hospital",
+      "C.": "church",
+      "D.": "market"
+    },
+    "correctAnswer": "C",
+    "explanation": "A church is a building used for public Christian worship."
+  },
+  {
+    "id": 71,
+    "subject": "CRE",
+    "question": "Who was the young boy who killed a giant named Goliath with a stone?",
+    "options": { "A.": "Samson", "B.": "Moses", "C.": "Joseph", "D.": "David" },
+    "correctAnswer": "D",
+    "explanation": "David, a shepherd boy, trusted in God and defeated the giant Goliath with a sling and a stone."
+  },
+  {
+    "id": 72,
+    "subject": "CRE",
+    "question": "The prayer that Jesus taught his disciples is called ___.",
+    "options": {
+      "A.": "The Disciples' Prayer",
+      "B.": "The Lord's Prayer",
+      "C.": "The Morning Prayer",
+      "D.": "The Good Prayer"
+    },
+    "correctAnswer": "B",
+    "explanation": "Jesus taught his followers how to pray, and this prayer is known as The Lord's Prayer."
+  },
+  {
+    "id": 73,
+    "subject": "CRE",
+    "question": "When we do what our parents and teachers tell us, we are being ___.",
+    "options": {
+      "A.": "rude",
+      "B.": "obedient",
+      "C.": "naughty",
+      "D.": "quiet"
+    },
+    "correctAnswer": "B",
+    "explanation": "Obedience means following the rules and instructions given by our elders."
+  },
+  {
+    "id": 74,
+    "subject": "CRE",
+    "question": "In the story of the Good Samaritan, the Samaritan helped a man who was ___.",
+    "options": {
+      "A.": "sleeping",
+      "B.": "rich",
+      "C.": "hurt",
+      "D.": "singing"
+    },
+    "correctAnswer": "C",
+    "explanation": "The Good Samaritan showed kindness by helping a man who had been beaten and robbed."
+  },
+  {
+    "id": 75,
+    "subject": "CRE",
+    "question": "What should we do when someone does something wrong to us and says sorry?",
+    "options": {
+      "A.": "Forgive them",
+      "B.": "Fight them",
+      "C.": "Ignore them",
+      "D.": "Hate them"
+    },
+    "correctAnswer": "A",
+    "explanation": "Forgiveness is a key Christian teaching. We should forgive those who wrong us."
+  },
+  {
+    "id": 76,
+    "subject": "Music",
+    "question": "The sound of a drum is usually ___.",
+    "options": { "A.": "soft", "B.": "loud", "C.": "quiet", "D.": "high" },
+    "correctAnswer": "B",
+    "explanation": "Drums are percussion instruments that are often played to make a loud, strong beat."
+  },
+  {
+    "id": 77,
+    "subject": "Music",
+    "question": "What is the name of the song we sing to show respect to our country, Kenya?",
+    "options": {
+      "A.": "Happy Birthday",
+      "B.": "The National Anthem",
+      "C.": "A lullaby",
+      "D.": "A pop song"
+    },
+    "correctAnswer": "B",
+    "explanation": "The National Anthem is a special patriotic song for our country that we sing on important occasions."
+  },
+  {
+    "id": 78,
+    "subject": "Music",
+    "question": "Which of these is a musical instrument?",
+    "options": {
+      "A.": "A table",
+      "B.": "A guitar",
+      "C.": "A book",
+      "D.": "A pen"
+    },
+    "correctAnswer": "B",
+    "explanation": "A guitar is an instrument with strings that we play to make music."
+  },
+  {
+    "id": 79,
+    "subject": "Music",
+    "question": "A small bird makes a ___ sound.",
+    "options": { "A.": "high", "B.": "low", "C.": "loud", "D.": "deep" },
+    "correctAnswer": "A",
+    "explanation": "The chirping of a small bird is usually a high-pitched sound."
+  },
+  {
+    "id": 80,
+    "subject": "Music",
+    "question": "What do we use to sing?",
+    "options": {
+      "A.": "Our hands",
+      "B.": "Our feet",
+      "C.": "Our voice",
+      "D.": "Our ears"
+    },
+    "correctAnswer": "C",
+    "explanation": "Singing is the act of making musical sounds with our voice."
+  },
+  {
+    "id": 81,
+    "subject": "Music",
+    "question": "When we play a running game, the music should be ___.",
+    "options": { "A.": "slow", "B.": "sad", "C.": "fast", "D.": "quiet" },
+    "correctAnswer": "C",
+    "explanation": "Fast music, or a fast tempo, matches the energy of activities like running and dancing."
+  },
+  {
+    "id": 82,
+    "subject": "Music",
+    "question": "A shaker is a musical instrument that we ___.",
+    "options": { "A.": "blow", "B.": "hit", "C.": "shake", "D.": "pull" },
+    "correctAnswer": "C",
+    "explanation": "A shaker, or maraca, makes sound when we shake it."
+  },
+  {
+    "id": 83,
+    "subject": "Music",
+    "question": "Which body part can we use to make a rhythm?",
+    "options": {
+      "A.": "Our eyes",
+      "B.": "Our nose",
+      "C.": "Our hair",
+      "D.": "Our hands (by clapping)"
+    },
+    "correctAnswer": "D",
+    "explanation": "We can clap our hands or tap our feet to create a rhythm. This is called body percussion."
+  },
+  {
+    "id": 84,
+    "subject": "Music",
+    "question": "Which of these is NOT a musical instrument?",
+    "options": { "A.": "Drum", "B.": "Kayamba", "C.": "Piano", "D.": "Chair" },
+    "correctAnswer": "D",
+    "explanation": "A chair is a piece of furniture. A drum, kayamba, and piano are all musical instruments."
+  },
+  {
+    "id": 85,
+    "subject": "Music",
+    "question": "A song sung to a baby to help it sleep is called a ___.",
+    "options": {
+      "A.": "war song",
+      "B.": "pop song",
+      "C.": "lullaby",
+      "D.": "work song"
+    },
+    "correctAnswer": "C",
+    "explanation": "A lullaby is a gentle and quiet song used to soothe a baby to sleep."
+  },
+  {
+    "id": 86,
+    "subject": "Music",
+    "question": "Who leads the singing in a choir?",
+    "options": {
+      "A.": "The driver",
+      "B.": "The teacher",
+      "C.": "The conductor",
+      "D.": "The doctor"
+    },
+    "correctAnswer": "C",
+    "explanation": "The conductor or choir master is the person who directs the singers to sing together correctly."
+  },
+  {
+    "id": 87,
+    "subject": "Music",
+    "question": "Happy music often makes us feel ___.",
+    "options": { "A.": "sad", "B.": "sleepy", "C.": "cheerful", "D.": "angry" },
+    "correctAnswer": "C",
+    "explanation": "Music can affect our feelings. Upbeat, happy music usually makes us feel cheerful and want to dance."
+  },
+  {
+    "id": 88,
+    "subject": "Art & Craft",
+    "question": "Which of these is a primary colour?",
+    "options": { "A.": "Green", "B.": "Orange", "C.": "Red", "D.": "Purple" },
+    "correctAnswer": "C",
+    "explanation": "The primary colours are red, yellow, and blue. They cannot be made by mixing other colours."
+  },
+  {
+    "id": 89,
+    "subject": "Art & Craft",
+    "question": "Which tool is best for drawing a picture?",
+    "options": {
+      "A.": "A spoon",
+      "B.": "A crayon",
+      "C.": "A hammer",
+      "D.": "A ruler"
+    },
+    "correctAnswer": "B",
+    "explanation": "A crayon is a tool made of wax and color, used for drawing and coloring pictures."
+  },
+  {
+    "id": 90,
+    "subject": "Art & Craft",
+    "question": "Which material can we use to model a pot?",
+    "options": { "A.": "Paper", "B.": "Water", "C.": "Clay", "D.": "Leaves" },
+    "correctAnswer": "C",
+    "explanation": "Clay is a soft type of soil that can be shaped into objects like pots and then dried to become hard."
+  },
+  {
+    "id": 91,
+    "subject": "Art & Craft",
+    "question": "Repeating a shape over and over again makes a ___.",
+    "options": { "A.": "mess", "B.": "pattern", "C.": "story", "D.": "song" },
+    "correctAnswer": "B",
+    "explanation": "A pattern is created when shapes, lines, or colors are repeated in a certain order."
+  },
+  {
+    "id": 92,
+    "subject": "Art & Craft",
+    "question": "What colour do you get when you mix red and yellow paint?",
+    "options": { "A.": "Green", "B.": "Orange", "C.": "Purple", "D.": "Brown" },
+    "correctAnswer": "B",
+    "explanation": "Mixing the primary colours red and yellow together creates the secondary colour orange."
+  },
+  {
+    "id": 93,
+    "subject": "Art & Craft",
+    "question": "A stone feels hard and ___, while cotton wool feels soft.",
+    "options": { "A.": "rough", "B.": "smooth", "C.": "light", "D.": "wet" },
+    "correctAnswer": "A",
+    "explanation": "Texture describes how something feels. The surface of a stone is often rough."
+  },
+  {
+    "id": 94,
+    "subject": "Art & Craft",
+    "question": "The art of folding paper to make shapes like a boat or a bird is called ___.",
+    "options": {
+      "A.": "painting",
+      "B.": "drawing",
+      "C.": "origami",
+      "D.": "weaving"
+    },
+    "correctAnswer": "C",
+    "explanation": "Origami is the Japanese art of paper folding."
+  },
+  {
+    "id": 95,
+    "subject": "Art & Craft",
+    "question": "What tool do you use with paint to colour a picture?",
+    "options": {
+      "A.": "A paintbrush",
+      "B.": "A pencil",
+      "C.": "Scissors",
+      "D.": "Glue"
+    },
+    "correctAnswer": "A",
+    "explanation": "A paintbrush is used to apply paint to a surface like paper or a canvas."
+  },
+  {
+    "id": 96,
+    "subject": "Art & Craft",
+    "question": "To make a collage, you ___ pieces of paper onto a surface.",
+    "options": { "A.": "draw", "B.": "paint", "C.": "stick", "D.": "fold" },
+    "correctAnswer": "C",
+    "explanation": "A collage is a piece of art made by sticking different things, like paper or fabric, onto a background."
+  },
+  {
+    "id": 97,
+    "subject": "Art & Craft",
+    "question": "What kind of line is a wave in the sea?",
+    "options": {
+      "A.": "A straight line",
+      "B.": "A zigzag line",
+      "C.": "A curvy line",
+      "D.": "A dotted line"
+    },
+    "correctAnswer": "C",
+    "explanation": "A curvy line is a line that bends and changes direction smoothly, like a wave."
+  },
+  {
+    "id": 98,
+    "subject": "Art & Craft",
+    "question": "Which material can we use for weaving?",
+    "options": {
+      "A.": "Water",
+      "B.": "Stones",
+      "C.": "Strips of paper or wool",
+      "D.": "Clay"
+    },
+    "correctAnswer": "C",
+    "explanation": "Weaving involves passing materials like strips of paper, grass, or wool over and under each other to create things like mats."
+  },
+  {
+    "id": 99,
+    "subject": "Art & Craft",
+    "question": "When you color one part of a drawing darker and another part lighter, you are ___.",
+    "options": {
+      "A.": "cutting",
+      "B.": "erasing",
+      "C.": "shading",
+      "D.": "tearing"
+    },
+    "correctAnswer": "C",
+    "explanation": "Shading is a technique used to show light and dark areas in a picture, which can make it look more real."
+  },
+  {
+    "id": 100,
+    "subject": "Art & Craft",
+    "question": "What do we call a picture made by an artist?",
+    "options": {
+      "A.": "A letter",
+      "B.": "A number",
+      "C.": "An artwork",
+      "D.": "A recipe"
+    },
+    "correctAnswer": "C",
+    "explanation": "A drawing, painting, or sculpture created by an artist is called a piece of artwork."
+  }
+]

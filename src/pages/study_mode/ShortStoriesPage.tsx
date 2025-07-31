@@ -38,7 +38,7 @@ export default function ShortStoriesPage() {
   };
   if (selectedStory) {
     return (
-      <div className="p-6 max-w-3xl mx-auto  text-gray-900 dark:text-white">
+      <div className="p-6 max-w-3xl mx-auto bg-black/20 min-h-screen text-gray-900 dark:text-white">
         <button
           onClick={handleBack}
           className="mb-4 flex items-center text-blue-600 dark:text-blue-400"
@@ -53,7 +53,7 @@ export default function ShortStoriesPage() {
         <p className="mt-4 whitespace-pre-line leading-relaxed">
           {selectedStory.story}
         </p>
-        <div className="mt-6 p-4 bg-yellow-100 dark:bg-yellow-800 rounded-lg shadow">
+        <div className="mt-6 p-4 bg-yellow-100 dark:bg-purple-900 rounded-lg shadow">
           <strong>Moral:</strong> {selectedStory.moral}
         </div>
       </div>
@@ -61,9 +61,9 @@ export default function ShortStoriesPage() {
   }
   if(loading){
     return(
-      <div className="flex flex-col justify-center items-center mt-10">
-        <Loader2 className="animate-spin " size={30}/>
-        <p>Loading stories...</p>
+      <div className="flex flex-col h-screen justify-center items-center ">
+        <Loader2 className="animate-spin text-purple-300 " size={40}/>
+        <p className="text-gray-300">Loading stories...</p>
       </div>
     )
   }
@@ -81,7 +81,7 @@ export default function ShortStoriesPage() {
           <div
             key={story.id}
             onClick={() => handleSelectStory(story)}
-            className="bg-gray-100 dark:bg-gray-800 rounded-xl p-4 cursor-pointer hover:shadow transition"
+            className="bg-gray-100 dark:bg-black/40 shadow-lg dark:  rounded-xl p-4 cursor-pointer hover:shadow transition"
           >
             <h3 className="text-lg font-semibold">{story.title}</h3>
             <p className="text-sm text-gray-500">
@@ -91,7 +91,7 @@ export default function ShortStoriesPage() {
               {story.summary}
             </p>
             <div className="mt-3 text-blue-500 flex items-center text-sm">
-              Read more <ChevronDown className="ml-1 w-4 h-4" />
+              Read story <ChevronDown className="ml-1 w-4 h-4" />
             </div>
           </div>
         ))}
