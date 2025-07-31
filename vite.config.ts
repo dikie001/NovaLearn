@@ -14,17 +14,17 @@ export default defineConfig({
         short_name: "Nova",
         start_url: "/",
         display: "standalone",
-        background_color: "#1e1b4b", // dark purple (Tailwind's purple-950)
+        background_color: "ffffff", // dark purple (Tailwind's purple-950)
         theme_color: "#030712", // Tailwind's gray-950
         description: "Presonal app for learning and quizzes",
         icons: [
           {
-            src: "/novalearn.png",
+            src: "/images/novalearn.png",
             sizes: "192x192",
             type: "image/png",
           },
           {
-            src: "/novalearn.png",
+            src: "/images/novalearn.png",
             sizes: "512x512",
             type: "image/png",
           },

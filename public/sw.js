@@ -3,7 +3,7 @@ const APP_SHELL = [
   "/",
   "/index.html",
   "/manifest.webmanifest",
-  "/novalearn.png",
+  "/images/novalearn.png",
   
 ];
 
